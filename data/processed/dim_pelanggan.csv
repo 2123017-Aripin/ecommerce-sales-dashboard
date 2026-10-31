@@ -1,0 +1,501 @@
+﻿customer_id,full_name,email,phone,city,province,registered_at,customer_segment
+1,Lina Wibowo,customer0001@contoh.test,6286393303777,Yogyakarta,DI Yogyakarta,2026-03-15,Baru
+2,Nadia Hidayat,customer0002@contoh.test,6283365337219,Denpasar,Bali,2022-02-20,Baru
+3,Rina Nugroho,customer0003@contoh.test,6289643308443,Bekasi,Jawa Barat,2023-07-01,Baru
+4,Maya Saputra,customer0004@contoh.test,6287139854548,Yogyakarta,DI Yogyakarta,2023-02-13,Reguler
+5,Lina Maulana,customer0005@contoh.test,6284039920292,Padang,Sumatera Barat,2022-02-18,Reguler
+6,Kartika Santoso,customer0006@contoh.test,6281947463522,Palembang,Sumatera Selatan,2023-12-21,Reguler
+7,Yuni Wibowo,customer0007@contoh.test,6285313704481,Palembang,Sumatera Selatan,2022-08-25,VIP
+8,Fajar Ananda,customer0008@contoh.test,6284415134794,Malang,Jawa Timur,2022-08-11,Reguler
+9,Intan Purnama,customer0009@contoh.test,6286691363974,Tangerang,Banten,2024-11-13,Baru
+10,Gita Santoso,customer0010@contoh.test,6281668526649,Pontianak,Kalimantan Barat,2022-01-04,Reguler
+11,Yuni Kusuma,customer0011@contoh.test,6285767887757,Pekanbaru,Riau,2022-05-24,VIP
+12,Vina Purnama,customer0012@contoh.test,6289526726926,Bekasi,Jawa Barat,2026-01-14,VIP
+13,Joko Nugroho,customer0013@contoh.test,6285264009265,Depok,Jawa Barat,2025-11-28,Reguler
+14,Gita Nugroho,customer0014@contoh.test,6289660888017,Semarang,Jawa Tengah,2025-10-19,Reguler
+15,Vina Ananda,customer0015@contoh.test,6284964502486,Medan,Sumatera Utara,2025-01-27,Reguler
+16,Joko Kusuma,customer0016@contoh.test,6286687844239,Bogor,Jawa Barat,2025-05-27,Reguler
+17,Putri Firmansyah,customer0017@contoh.test,6289738682516,Padang,Sumatera Barat,2024-11-12,Reguler
+18,Yuni Wijaya,customer0018@contoh.test,6284779182797,Medan,Sumatera Utara,2025-09-21,Reguler
+19,Citra Permata,customer0019@contoh.test,6289751663795,Bekasi,Jawa Barat,2023-04-06,Reguler
+20,Adi Saputra,customer0020@contoh.test,6284273771720,Semarang,Jawa Tengah,2025-06-05,Reguler
+21,Putri Nugroho,customer0021@contoh.test,6289187265240,Surabaya,Jawa Timur,2023-02-03,Reguler
+22,Rizky Utami,customer0022@contoh.test,6284229806690,Palembang,Sumatera Selatan,2025-09-05,Reguler
+23,Bagus Nugroho,customer0023@contoh.test,6283933607110,Yogyakarta,DI Yogyakarta,2026-07-05,VIP
+24,Putri Saputra,customer0024@contoh.test,6288243446826,Depok,Jawa Barat,2026-10-04,Baru
+25,Rina Firmansyah,customer0025@contoh.test,6289681287314,Semarang,Jawa Tengah,2025-02-18,Reguler
+26,Vina Setiawan,customer0026@contoh.test,6286583534128,Padang,Sumatera Barat,2024-07-02,VIP
+27,Putri Santoso,customer0027@contoh.test,6284295585469,Solo,Jawa Tengah,2023-07-22,Reguler
+28,Rizky Permata,customer0028@contoh.test,6284669038700,Depok,Jawa Barat,2022-06-08,Reguler
+29,Indra Purnama,customer0029@contoh.test,6285182498004,Denpasar,Bali,2022-06-15,Baru
+30,Maya Putri,customer0030@contoh.test,6283818620650,Denpasar,Bali,2024-04-29,Reguler
+31,Putri Nugroho,customer0031@contoh.test,6281837760841,Pekanbaru,Riau,2026-09-02,Reguler
+32,Zaki Pratama,customer0032@contoh.test,6288461053877,Pontianak,Kalimantan Barat,2024-09-03,Baru
+33,Joko Utami,customer0033@contoh.test,6286482238741,Tangerang,Banten,2026-03-11,Reguler
+34,Rafi Permata,customer0034@contoh.test,6287339450273,Bantul,DI Yogyakarta,2023-07-13,Reguler
+35,Maya Purnama,customer0035@contoh.test,6289664266464,Jakarta,DKI Jakarta,2026-01-23,Baru
+36,Ayu Putri,customer0036@contoh.test,6289081688860,Padang,Sumatera Barat,2022-02-25,VIP
+37,Umar Pratama,customer0037@contoh.test,6282196268397,Pontianak,Kalimantan Barat,2024-05-27,Baru
+38,Fajar Saputra,customer0038@contoh.test,6284460882459,Padang,Sumatera Barat,2023-11-02,Baru
+39,Kartika Utami,customer0039@contoh.test,6284666581473,Bekasi,Jawa Barat,2023-06-01,Reguler
+40,Adi Wibowo,customer0040@contoh.test,6281756970882,Solo,Jawa Tengah,2023-04-05,Reguler
+41,Bagus Pratama,customer0041@contoh.test,6284236757737,Bandung,Jawa Barat,2026-09-15,Baru
+42,Hana Putri,customer0042@contoh.test,6287199853245,Semarang,Jawa Tengah,2022-08-23,Reguler
+43,Putri Santoso,customer0043@contoh.test,6285832520277,Makassar,Sulawesi Selatan,2025-05-25,Reguler
+44,Bagus Hidayat,customer0044@contoh.test,6285024508768,Yogyakarta,DI Yogyakarta,2025-03-31,Baru
+45,Umar Utami,customer0045@contoh.test,6286136619372,Bogor,Jawa Barat,2022-06-05,Reguler
+46,Dewi Maulana,customer0046@contoh.test,6289890585882,Denpasar,Bali,2026-07-08,Baru
+47,Rina Saputra,customer0047@contoh.test,6285581503856,Pontianak,Kalimantan Barat,2024-05-27,Reguler
+48,Sari Purnama,customer0048@contoh.test,6281266379329,Surabaya,Jawa Timur,2026-08-12,Reguler
+49,Lina Firmansyah,customer0049@contoh.test,6283068450095,Balikpapan,Kalimantan Timur,2022-12-27,Reguler
+50,Vina Wibowo,customer0050@contoh.test,6287272394301,Malang,Jawa Timur,2024-06-11,Reguler
+51,Indra Purnama,customer0051@contoh.test,6284221631697,Pontianak,Kalimantan Barat,2023-07-26,VIP
+52,Bagus Firmansyah,customer0052@contoh.test,6288391917334,Denpasar,Bali,2025-09-30,Reguler
+53,Rizky Purnama,customer0053@contoh.test,6283475437844,Jakarta,DKI Jakarta,2023-03-11,Reguler
+54,Kartika Santoso,customer0054@contoh.test,6288747080140,Malang,Jawa Timur,2025-02-12,Baru
+55,Citra Permata,customer0055@contoh.test,6286375575808,Makassar,Sulawesi Selatan,2025-02-11,Reguler
+56,Wahyu Anggraini,customer0056@contoh.test,6286812314351,Solo,Jawa Tengah,2022-07-10,Reguler
+57,Zaki Permata,customer0057@contoh.test,6285099115205,Palembang,Sumatera Selatan,2025-04-06,Reguler
+58,Sari Ramadhan,customer0058@contoh.test,6286583871890,Pekanbaru,Riau,2023-11-09,Reguler
+59,Indra Maulana,customer0059@contoh.test,6284340942292,Padang,Sumatera Barat,2022-09-05,Reguler
+60,Dewi Wibowo,customer0060@contoh.test,6289934850391,Bekasi,Jawa Barat,2023-01-28,Baru
+61,Indra Ananda,customer0061@contoh.test,6287890099897,Solo,Jawa Tengah,2023-08-03,VIP
+62,Joko Permata,customer0062@contoh.test,6285734084236,Makassar,Sulawesi Selatan,2023-09-12,Baru
+63,Eko Santoso,customer0063@contoh.test,6281617318358,Pekanbaru,Riau,2025-02-07,Reguler
+64,Wahyu Anggraini,customer0064@contoh.test,6282411646234,Semarang,Jawa Tengah,2025-03-21,Reguler
+65,Putri Purnama,customer0065@contoh.test,6283416895666,Solo,Jawa Tengah,2023-06-02,VIP
+66,Dewi Wijaya,customer0066@contoh.test,6286276001106,Solo,Jawa Tengah,2022-06-01,Reguler
+67,Eko Putri,customer0067@contoh.test,6288350780112,Bandung,Jawa Barat,2022-06-24,VIP
+68,Taufik Nugroho,customer0068@contoh.test,6288890010790,Yogyakarta,DI Yogyakarta,2026-06-08,Reguler
+69,Maya Firmansyah,customer0069@contoh.test,6286749910061,Depok,Jawa Barat,2025-04-20,VIP
+70,Umar Susanto,customer0070@contoh.test,6281891823275,Bogor,Jawa Barat,2026-02-24,Baru
+71,Wahyu Kusuma,customer0071@contoh.test,6284498641164,Makassar,Sulawesi Selatan,2022-06-16,Baru
+72,Taufik Wijaya,customer0072@contoh.test,6283110359129,Medan,Sumatera Utara,2024-04-16,Reguler
+73,Rizky Maulana,customer0073@contoh.test,6281541068214,Bantul,DI Yogyakarta,2023-08-14,Reguler
+74,Citra Permata,customer0074@contoh.test,6284493893865,Padang,Sumatera Barat,2025-04-22,Reguler
+75,Nanda Lestari,customer0075@contoh.test,6288040173413,Makassar,Sulawesi Selatan,2025-08-19,Baru
+76,Dimas Putri,customer0076@contoh.test,6282018004482,Malang,Jawa Timur,2022-12-06,Reguler
+77,Intan Ananda,customer0077@contoh.test,6284768942178,Bantul,DI Yogyakarta,2022-09-12,Reguler
+78,Zaki Utami,customer0078@contoh.test,6284577172238,Bogor,Jawa Barat,2025-01-10,Reguler
+79,Vina Saputra,customer0079@contoh.test,6286653261270,Surabaya,Jawa Timur,2025-05-21,Reguler
+80,Hana Ananda,customer0080@contoh.test,6288612784407,Surabaya,Jawa Timur,2026-04-16,Reguler
+81,Umar Saputra,customer0081@contoh.test,6283373149551,Malang,Jawa Timur,2024-11-28,Reguler
+82,Fajar Ananda,customer0082@contoh.test,6286695199362,Malang,Jawa Timur,2026-07-26,Reguler
+83,Rizky Ramadhan,customer0083@contoh.test,6286354735895,Surabaya,Jawa Timur,2023-10-20,Reguler
+84,Kartika Nugroho,customer0084@contoh.test,6289976500726,Medan,Sumatera Utara,2023-08-14,Reguler
+85,Dimas Wibowo,customer0085@contoh.test,6281571045700,Palembang,Sumatera Selatan,2022-06-30,Reguler
+86,Dewi Utami,customer0086@contoh.test,6287610154493,Bekasi,Jawa Barat,2025-09-08,VIP
+87,Nanda Saputra,customer0087@contoh.test,6283579583757,Padang,Sumatera Barat,2024-01-11,Reguler
+88,Wahyu Firmansyah,customer0088@contoh.test,6281737321124,Solo,Jawa Tengah,2023-07-01,Reguler
+89,Putri Anggraini,customer0089@contoh.test,6282613874790,Bogor,Jawa Barat,2025-07-14,Reguler
+90,Zaki Hidayat,customer0090@contoh.test,6285083932360,Denpasar,Bali,2022-01-29,Reguler
+91,Hana Lestari,customer0091@contoh.test,6287025766039,Surabaya,Jawa Timur,2025-08-19,Reguler
+92,Ayu Maulana,customer0092@contoh.test,6287646698468,Solo,Jawa Tengah,2024-04-30,Reguler
+93,Hana Firmansyah,customer0093@contoh.test,6288129413516,Solo,Jawa Tengah,2024-02-25,Baru
+94,Sari Putri,customer0094@contoh.test,6281947077298,Bantul,DI Yogyakarta,2026-05-02,Reguler
+95,Kartika Setiawan,customer0095@contoh.test,6284510344303,Balikpapan,Kalimantan Timur,2023-08-03,Reguler
+96,Umar Anggraini,customer0096@contoh.test,6283069934576,Pontianak,Kalimantan Barat,2025-01-08,Reguler
+97,Taufik Wibowo,customer0097@contoh.test,6285971115319,Bekasi,Jawa Barat,2023-10-22,VIP
+98,Umar Utami,customer0098@contoh.test,6284065133300,Denpasar,Bali,2022-03-31,Reguler
+99,Zaki Utami,customer0099@contoh.test,6286099078806,Solo,Jawa Tengah,2026-06-11,Reguler
+100,Rizky Saputra,customer0100@contoh.test,6282777416376,Semarang,Jawa Tengah,2025-04-23,Reguler
+101,Nadia Firmansyah,customer0101@contoh.test,6282380591959,Yogyakarta,DI Yogyakarta,2024-07-24,Baru
+102,Nanda Putri,customer0102@contoh.test,6282073013961,Semarang,Jawa Tengah,2026-05-20,VIP
+103,Vina Utami,customer0103@contoh.test,6289420779739,Bekasi,Jawa Barat,2026-10-11,Reguler
+104,Maya Purnama,customer0104@contoh.test,6289175491202,Pekanbaru,Riau,2025-01-13,Baru
+105,Hana Maulana,customer0105@contoh.test,6284022130508,Surabaya,Jawa Timur,2024-06-07,VIP
+106,Putri Hidayat,customer0106@contoh.test,6289950193656,Yogyakarta,DI Yogyakarta,2022-03-01,Baru
+107,Joko Ramadhan,customer0107@contoh.test,6285867805802,Bandung,Jawa Barat,2022-10-26,Baru
+108,Umar Hidayat,customer0108@contoh.test,6283233497411,Balikpapan,Kalimantan Timur,2022-06-11,Reguler
+109,Vina Permata,customer0109@contoh.test,6287488270025,Palembang,Sumatera Selatan,2022-10-21,Baru
+110,Putri Santoso,customer0110@contoh.test,6289611261301,Malang,Jawa Timur,2026-07-06,Reguler
+111,Yuni Wibowo,customer0111@contoh.test,6283119913576,Bogor,Jawa Barat,2024-06-23,VIP
+112,Joko Nugroho,customer0112@contoh.test,6289943567615,Pontianak,Kalimantan Barat,2024-07-24,Reguler
+113,Maya Anggraini,customer0113@contoh.test,6282441837210,Makassar,Sulawesi Selatan,2024-02-21,Reguler
+114,Joko Maulana,customer0114@contoh.test,6281398346110,Pontianak,Kalimantan Barat,2024-03-21,Reguler
+115,Nadia Saputra,customer0115@contoh.test,6288876669607,Pontianak,Kalimantan Barat,2026-09-02,VIP
+116,Bagus Permata,customer0116@contoh.test,6288857287718,Bogor,Jawa Barat,2023-03-25,Reguler
+117,Indra Putri,customer0117@contoh.test,6289123041121,Bantul,DI Yogyakarta,2025-07-09,Reguler
+118,Rina Firmansyah,customer0118@contoh.test,6281587789079,Bogor,Jawa Barat,2024-01-18,Reguler
+119,Ayu Maulana,customer0119@contoh.test,6285265767881,Surabaya,Jawa Timur,2022-12-26,Baru
+120,Rafi Ramadhan,customer0120@contoh.test,6287877349752,Pekanbaru,Riau,2023-07-13,Reguler
+121,Ayu Anggraini,customer0121@contoh.test,6284855461591,Malang,Jawa Timur,2026-07-06,Baru
+122,Eko Permata,customer0122@contoh.test,6289763339667,Surabaya,Jawa Timur,2026-09-29,Reguler
+123,Citra Utami,customer0123@contoh.test,6281245495029,Tangerang,Banten,2025-01-03,Baru
+124,Yuni Santoso,customer0124@contoh.test,6288561140376,Tangerang,Banten,2026-08-12,Reguler
+125,Dewi Permata,customer0125@contoh.test,6287113358751,Tangerang,Banten,2025-06-22,VIP
+126,Kartika Susanto,customer0126@contoh.test,6283996926431,Pekanbaru,Riau,2022-05-10,Reguler
+127,Ayu Maulana,customer0127@contoh.test,6289464800542,Padang,Sumatera Barat,2022-08-27,Baru
+128,Joko Anggraini,customer0128@contoh.test,6282523044889,Bandung,Jawa Barat,2023-04-26,VIP
+129,Maya Firmansyah,customer0129@contoh.test,6285899991136,Semarang,Jawa Tengah,2026-03-02,Reguler
+130,Nanda Ananda,customer0130@contoh.test,6283065684858,Pekanbaru,Riau,2025-09-03,Baru
+131,Vina Nugroho,customer0131@contoh.test,6284614391105,Solo,Jawa Tengah,2025-11-14,Reguler
+132,Putri Permata,customer0132@contoh.test,6285723335151,Padang,Sumatera Barat,2025-11-05,Reguler
+133,Budi Utami,customer0133@contoh.test,6284635475673,Tangerang,Banten,2022-09-08,VIP
+134,Citra Kusuma,customer0134@contoh.test,6289395831286,Padang,Sumatera Barat,2025-05-07,VIP
+135,Rina Purnama,customer0135@contoh.test,6284226901217,Bandung,Jawa Barat,2026-05-31,Reguler
+136,Dimas Wibowo,customer0136@contoh.test,6283788703005,Surabaya,Jawa Timur,2023-03-19,Reguler
+137,Kartika Putri,customer0137@contoh.test,6288710380581,Denpasar,Bali,2023-07-22,VIP
+138,Eko Wibowo,customer0138@contoh.test,6284333420607,Semarang,Jawa Tengah,2022-08-14,Reguler
+139,Eko Pratama,customer0139@contoh.test,6285641934639,Jakarta,DKI Jakarta,2025-04-20,Reguler
+140,Indra Saputra,customer0140@contoh.test,6282766500369,Medan,Sumatera Utara,2024-12-13,Baru
+141,Rizky Firmansyah,customer0141@contoh.test,6285778885632,Surabaya,Jawa Timur,2025-04-30,Baru
+142,Hana Susanto,customer0142@contoh.test,6281698436473,Depok,Jawa Barat,2024-12-03,Reguler
+143,Budi Anggraini,customer0143@contoh.test,6286267213476,Jakarta,DKI Jakarta,2025-11-06,Baru
+144,Citra Wijaya,customer0144@contoh.test,6285291644298,Padang,Sumatera Barat,2022-10-31,Baru
+145,Vina Ananda,customer0145@contoh.test,6288153645651,Malang,Jawa Timur,2024-02-20,VIP
+146,Joko Firmansyah,customer0146@contoh.test,6287591259008,Depok,Jawa Barat,2024-05-31,Baru
+147,Nadia Wibowo,customer0147@contoh.test,6283867723010,Yogyakarta,DI Yogyakarta,2024-07-13,VIP
+148,Kartika Firmansyah,customer0148@contoh.test,6286265833185,Balikpapan,Kalimantan Timur,2026-02-03,Baru
+149,Kartika Santoso,customer0149@contoh.test,6285830486849,Balikpapan,Kalimantan Timur,2025-11-07,VIP
+150,Citra Wijaya,customer0150@contoh.test,6282267965485,Surabaya,Jawa Timur,2022-07-17,Reguler
+151,Rina Putri,customer0151@contoh.test,6288218050510,Tangerang,Banten,2025-04-16,VIP
+152,Kartika Lestari,customer0152@contoh.test,6286357459130,Pekanbaru,Riau,2025-09-24,VIP
+153,Nadia Saputra,customer0153@contoh.test,6284790585678,Balikpapan,Kalimantan Timur,2023-10-02,Reguler
+154,Sari Kusuma,customer0154@contoh.test,6283098145654,Pontianak,Kalimantan Barat,2024-09-14,Baru
+155,Lina Wibowo,customer0155@contoh.test,6285825419645,Yogyakarta,DI Yogyakarta,2026-04-11,Reguler
+156,Rina Nugroho,customer0156@contoh.test,6288293446356,Denpasar,Bali,2025-06-10,Reguler
+157,Adi Susanto,customer0157@contoh.test,6289545896226,Pekanbaru,Riau,2022-03-01,Baru
+158,Ayu Purnama,customer0158@contoh.test,6285510819505,Bogor,Jawa Barat,2023-01-07,VIP
+159,Yuni Utami,customer0159@contoh.test,6281929042093,Pontianak,Kalimantan Barat,2026-02-26,Reguler
+160,Citra Setiawan,customer0160@contoh.test,6283860491958,Jakarta,DKI Jakarta,2024-05-09,Reguler
+161,Lina Maulana,customer0161@contoh.test,6285286181117,Medan,Sumatera Utara,2025-05-06,Baru
+162,Eko Hidayat,customer0162@contoh.test,6289016679008,Bandung,Jawa Barat,2025-10-12,Baru
+163,Yuni Nugroho,customer0163@contoh.test,6287391480362,Padang,Sumatera Barat,2024-06-24,Reguler
+164,Bagus Setiawan,customer0164@contoh.test,6282556328316,Makassar,Sulawesi Selatan,2024-05-30,Baru
+165,Rizky Setiawan,customer0165@contoh.test,6289651395350,Pontianak,Kalimantan Barat,2022-04-04,Baru
+166,Budi Pratama,customer0166@contoh.test,6283750455821,Bantul,DI Yogyakarta,2023-03-09,Reguler
+167,Joko Purnama,customer0167@contoh.test,6282611037490,Malang,Jawa Timur,2024-10-15,Reguler
+168,Eko Utami,customer0168@contoh.test,6287940884937,Medan,Sumatera Utara,2024-10-21,Reguler
+169,Citra Utami,customer0169@contoh.test,6281668548403,Tangerang,Banten,2022-02-08,Reguler
+170,Nadia Purnama,customer0170@contoh.test,6288467617561,Surabaya,Jawa Timur,2025-03-20,Reguler
+171,Joko Lestari,customer0171@contoh.test,6286212799319,Balikpapan,Kalimantan Timur,2023-10-28,Baru
+172,Putri Ramadhan,customer0172@contoh.test,6282268614462,Bantul,DI Yogyakarta,2026-09-26,Baru
+173,Umar Utami,customer0173@contoh.test,6287820555833,Balikpapan,Kalimantan Timur,2024-03-21,VIP
+174,Hana Purnama,customer0174@contoh.test,6283220251466,Bekasi,Jawa Barat,2024-11-11,Reguler
+175,Sari Kusuma,customer0175@contoh.test,6285557123808,Depok,Jawa Barat,2026-01-29,VIP
+176,Hana Lestari,customer0176@contoh.test,6282944355473,Semarang,Jawa Tengah,2023-02-09,Baru
+177,Bagus Wijaya,customer0177@contoh.test,6283394281857,Semarang,Jawa Tengah,2024-10-08,Reguler
+178,Bagus Ananda,customer0178@contoh.test,6286885764804,Pontianak,Kalimantan Barat,2025-08-09,Reguler
+179,Kartika Purnama,customer0179@contoh.test,6283069023966,Bantul,DI Yogyakarta,2022-05-20,Reguler
+180,Rina Santoso,customer0180@contoh.test,6288617539294,Bogor,Jawa Barat,2023-12-22,Reguler
+181,Putri Firmansyah,customer0181@contoh.test,6281517635653,Bogor,Jawa Barat,2024-01-26,Reguler
+182,Wahyu Wijaya,customer0182@contoh.test,6288989736043,Surabaya,Jawa Timur,2024-11-04,Reguler
+183,Taufik Saputra,customer0183@contoh.test,6286886726461,Pontianak,Kalimantan Barat,2025-08-27,Baru
+184,Rizky Setiawan,customer0184@contoh.test,6283018304547,Bantul,DI Yogyakarta,2024-07-11,Baru
+185,Zaki Wijaya,customer0185@contoh.test,6287596721710,Bekasi,Jawa Barat,2022-12-20,Baru
+186,Putri Setiawan,customer0186@contoh.test,6287791846696,Padang,Sumatera Barat,2022-11-22,Reguler
+187,Maya Nugroho,customer0187@contoh.test,6285490246882,Bogor,Jawa Barat,2022-04-18,Reguler
+188,Citra Purnama,customer0188@contoh.test,6282384888554,Bekasi,Jawa Barat,2025-10-21,Reguler
+189,Intan Susanto,customer0189@contoh.test,6283054743095,Malang,Jawa Timur,2022-06-16,Reguler
+190,Ayu Ramadhan,customer0190@contoh.test,6285098054173,Semarang,Jawa Tengah,2025-12-01,Reguler
+191,Vina Wijaya,customer0191@contoh.test,6285085017250,Semarang,Jawa Tengah,2024-02-11,Reguler
+192,Dimas Putri,customer0192@contoh.test,6289680651318,Bekasi,Jawa Barat,2022-07-11,Reguler
+193,Sari Ramadhan,customer0193@contoh.test,6281358667035,Balikpapan,Kalimantan Timur,2023-09-25,Baru
+194,Kartika Anggraini,customer0194@contoh.test,6283540406092,Makassar,Sulawesi Selatan,2022-10-09,Baru
+195,Nadia Lestari,customer0195@contoh.test,6287582446804,Bogor,Jawa Barat,2026-09-07,Reguler
+196,Budi Purnama,customer0196@contoh.test,6289027589104,Depok,Jawa Barat,2025-05-08,Reguler
+197,Fajar Susanto,customer0197@contoh.test,6283268743530,Medan,Sumatera Utara,2022-03-31,Reguler
+198,Putri Susanto,customer0198@contoh.test,6284770254091,Denpasar,Bali,2023-04-25,Reguler
+199,Rina Anggraini,customer0199@contoh.test,6283559370777,Bogor,Jawa Barat,2025-10-21,VIP
+200,Putri Maulana,customer0200@contoh.test,6285977498993,Padang,Sumatera Barat,2024-12-16,Reguler
+201,Dimas Kusuma,customer0201@contoh.test,6288828575536,Medan,Sumatera Utara,2023-05-28,Baru
+202,Nadia Ramadhan,customer0202@contoh.test,6288123769360,Solo,Jawa Tengah,2025-12-27,Reguler
+203,Joko Wijaya,customer0203@contoh.test,6283146613428,Yogyakarta,DI Yogyakarta,2024-07-09,VIP
+204,Dimas Nugroho,customer0204@contoh.test,6282239801436,Semarang,Jawa Tengah,2026-07-31,Reguler
+205,Ayu Pratama,customer0205@contoh.test,6286417148018,Tangerang,Banten,2024-03-22,Reguler
+206,Maya Wijaya,customer0206@contoh.test,6285840137082,Denpasar,Bali,2022-02-27,Reguler
+207,Dimas Purnama,customer0207@contoh.test,6282928468304,Yogyakarta,DI Yogyakarta,2022-03-20,Reguler
+208,Zaki Putri,customer0208@contoh.test,6287170210270,Solo,Jawa Tengah,2025-06-14,Baru
+209,Adi Santoso,customer0209@contoh.test,6283830068183,Surabaya,Jawa Timur,2025-01-28,VIP
+210,Sari Nugroho,customer0210@contoh.test,6282548668339,Bantul,DI Yogyakarta,2023-05-02,Reguler
+211,Hana Nugroho,customer0211@contoh.test,6289293592219,Bandung,Jawa Barat,2024-07-25,Baru
+212,Vina Wibowo,customer0212@contoh.test,6281394819556,Solo,Jawa Tengah,2024-11-21,Reguler
+213,Joko Nugroho,customer0213@contoh.test,6281192518345,Semarang,Jawa Tengah,2023-12-24,Baru
+214,Fajar Wijaya,customer0214@contoh.test,6287858399417,Balikpapan,Kalimantan Timur,2022-05-19,VIP
+215,Sari Setiawan,customer0215@contoh.test,6288112729224,Pekanbaru,Riau,2024-03-10,VIP
+216,Wahyu Utami,customer0216@contoh.test,6285844044361,Bandung,Jawa Barat,2026-03-11,Baru
+217,Lina Permata,customer0217@contoh.test,6289594323222,Surabaya,Jawa Timur,2022-08-01,Reguler
+218,Eko Saputra,customer0218@contoh.test,6285683284724,Bekasi,Jawa Barat,2023-11-25,Reguler
+219,Dimas Firmansyah,customer0219@contoh.test,6287294790150,Medan,Sumatera Utara,2023-01-09,Reguler
+220,Zaki Firmansyah,customer0220@contoh.test,6281549385195,Surabaya,Jawa Timur,2023-02-17,Baru
+221,Rafi Saputra,customer0221@contoh.test,6285151617680,Makassar,Sulawesi Selatan,2024-11-21,Reguler
+222,Rizky Santoso,customer0222@contoh.test,6281596825515,Pekanbaru,Riau,2023-01-27,Reguler
+223,Nadia Purnama,customer0223@contoh.test,6284526706752,Bandung,Jawa Barat,2026-06-26,Reguler
+224,Intan Firmansyah,customer0224@contoh.test,6286055504725,Palembang,Sumatera Selatan,2023-01-18,Reguler
+225,Lina Setiawan,customer0225@contoh.test,6284521087928,Solo,Jawa Tengah,2026-01-29,Reguler
+226,Vina Hidayat,customer0226@contoh.test,6288049428661,Balikpapan,Kalimantan Timur,2023-10-20,Baru
+227,Yuni Maulana,customer0227@contoh.test,6285069849800,Bekasi,Jawa Barat,2025-05-19,Reguler
+228,Zaki Firmansyah,customer0228@contoh.test,6285570012727,Medan,Sumatera Utara,2022-03-28,Reguler
+229,Vina Nugroho,customer0229@contoh.test,6284695828117,Tangerang,Banten,2026-06-09,VIP
+230,Yuni Utami,customer0230@contoh.test,6285778865239,Surabaya,Jawa Timur,2026-06-29,Reguler
+231,Adi Putri,customer0231@contoh.test,6288868810561,Medan,Sumatera Utara,2022-03-13,Baru
+232,Bagus Ramadhan,customer0232@contoh.test,6285761385847,Denpasar,Bali,2025-03-07,Baru
+233,Yuni Firmansyah,customer0233@contoh.test,6285859930790,Semarang,Jawa Tengah,2024-06-28,Reguler
+234,Eko Setiawan,customer0234@contoh.test,6285763423225,Pontianak,Kalimantan Barat,2023-10-06,Reguler
+235,Dewi Pratama,customer0235@contoh.test,6283476980546,Denpasar,Bali,2024-11-26,Reguler
+236,Dewi Santoso,customer0236@contoh.test,6284469897763,Pekanbaru,Riau,2023-03-16,VIP
+237,Zaki Anggraini,customer0237@contoh.test,6283626460116,Bogor,Jawa Barat,2022-10-05,VIP
+238,Fajar Firmansyah,customer0238@contoh.test,6282252894344,Padang,Sumatera Barat,2025-09-29,Reguler
+239,Taufik Wibowo,customer0239@contoh.test,6284850259503,Surabaya,Jawa Timur,2026-10-10,Baru
+240,Rina Ramadhan,customer0240@contoh.test,6287640097200,Medan,Sumatera Utara,2022-09-06,VIP
+241,Hana Anggraini,customer0241@contoh.test,6281458438711,Semarang,Jawa Tengah,2025-02-08,Reguler
+242,Rina Wibowo,customer0242@contoh.test,6282792134318,Padang,Sumatera Barat,2022-06-26,Baru
+243,Zaki Anggraini,customer0243@contoh.test,6287865135987,Palembang,Sumatera Selatan,2026-04-25,Reguler
+244,Citra Putri,customer0244@contoh.test,6285196213226,Pontianak,Kalimantan Barat,2022-06-01,Reguler
+245,Lina Putri,customer0245@contoh.test,6288195871687,Depok,Jawa Barat,2025-04-18,Baru
+246,Nanda Setiawan,customer0246@contoh.test,6281826664623,Semarang,Jawa Tengah,2024-11-27,Baru
+247,Fajar Purnama,customer0247@contoh.test,6283956442431,Medan,Sumatera Utara,2024-11-28,VIP
+248,Indra Kusuma,customer0248@contoh.test,6289283932683,Surabaya,Jawa Timur,2023-07-17,Baru
+249,Vina Wibowo,customer0249@contoh.test,6282277454225,Bogor,Jawa Barat,2025-08-05,Baru
+250,Eko Hidayat,customer0250@contoh.test,6289593816177,Pontianak,Kalimantan Barat,2026-01-15,VIP
+251,Dimas Ananda,customer0251@contoh.test,6281613808225,Bekasi,Jawa Barat,2022-06-16,Baru
+252,Indra Kusuma,customer0252@contoh.test,6288465913331,Pontianak,Kalimantan Barat,2025-06-19,Reguler
+253,Rafi Wibowo,customer0253@contoh.test,6284896155337,Solo,Jawa Tengah,2023-09-11,Reguler
+254,Joko Firmansyah,customer0254@contoh.test,6282018041391,Palembang,Sumatera Selatan,2022-11-20,Reguler
+255,Putri Kusuma,customer0255@contoh.test,6285491424562,Solo,Jawa Tengah,2022-10-22,Reguler
+256,Intan Ramadhan,customer0256@contoh.test,6286227551135,Bekasi,Jawa Barat,2026-04-07,Reguler
+257,Dewi Purnama,customer0257@contoh.test,6284172608888,Pekanbaru,Riau,2022-09-08,Reguler
+258,Eko Lestari,customer0258@contoh.test,6281748951595,Denpasar,Bali,2024-02-26,VIP
+259,Hana Hidayat,customer0259@contoh.test,6285287535841,Balikpapan,Kalimantan Timur,2026-01-16,Reguler
+260,Rizky Setiawan,customer0260@contoh.test,6287076942394,Medan,Sumatera Utara,2023-09-24,Reguler
+261,Maya Setiawan,customer0261@contoh.test,6286942310051,Surabaya,Jawa Timur,2023-03-17,Reguler
+262,Budi Maulana,customer0262@contoh.test,6287490197611,Bandung,Jawa Barat,2026-09-23,Reguler
+263,Joko Wibowo,customer0263@contoh.test,6281224428014,Solo,Jawa Tengah,2024-06-01,Baru
+264,Intan Ramadhan,customer0264@contoh.test,6286259115280,Malang,Jawa Timur,2022-04-03,Reguler
+265,Taufik Kusuma,customer0265@contoh.test,6285784252324,Pontianak,Kalimantan Barat,2023-08-15,Baru
+266,Putri Wibowo,customer0266@contoh.test,6284693650068,Depok,Jawa Barat,2025-10-25,Reguler
+267,Dewi Utami,customer0267@contoh.test,6285855511258,Semarang,Jawa Tengah,2025-02-16,VIP
+268,Gita Susanto,customer0268@contoh.test,6287663873262,Semarang,Jawa Tengah,2024-10-21,Baru
+269,Eko Purnama,customer0269@contoh.test,6287179703656,Bandung,Jawa Barat,2024-07-24,Baru
+270,Eko Purnama,customer0270@contoh.test,6288952752377,Depok,Jawa Barat,2022-11-29,Reguler
+271,Intan Maulana,customer0271@contoh.test,6288655147280,Bantul,DI Yogyakarta,2024-11-04,Reguler
+272,Rizky Ananda,customer0272@contoh.test,6284973739005,Pekanbaru,Riau,2026-07-29,Baru
+273,Yuni Lestari,customer0273@contoh.test,6286488343175,Bekasi,Jawa Barat,2023-09-23,Reguler
+274,Vina Anggraini,customer0274@contoh.test,6284497991930,Jakarta,DKI Jakarta,2026-05-23,VIP
+275,Umar Permata,customer0275@contoh.test,6281788319168,Pontianak,Kalimantan Barat,2024-09-10,Baru
+276,Bagus Utami,customer0276@contoh.test,6282942507072,Bantul,DI Yogyakarta,2022-03-06,Reguler
+277,Gita Pratama,customer0277@contoh.test,6286752103092,Yogyakarta,DI Yogyakarta,2024-05-07,Baru
+278,Nanda Setiawan,customer0278@contoh.test,6288973297813,Makassar,Sulawesi Selatan,2026-10-04,Reguler
+279,Zaki Putri,customer0279@contoh.test,6287737828932,Bandung,Jawa Barat,2025-02-22,Reguler
+280,Sari Utami,customer0280@contoh.test,6285133244151,Solo,Jawa Tengah,2024-07-30,VIP
+281,Taufik Ramadhan,customer0281@contoh.test,6289796343485,Bekasi,Jawa Barat,2026-07-04,Reguler
+282,Rizky Kusuma,customer0282@contoh.test,6284247447604,Bantul,DI Yogyakarta,2025-02-16,Reguler
+283,Bagus Maulana,customer0283@contoh.test,6283775632882,Bogor,Jawa Barat,2023-10-12,Reguler
+284,Ayu Santoso,customer0284@contoh.test,6284726357665,Pekanbaru,Riau,2025-03-20,Reguler
+285,Rafi Utami,customer0285@contoh.test,6285529659692,Palembang,Sumatera Selatan,2023-08-18,Baru
+286,Lina Firmansyah,customer0286@contoh.test,6289444419327,Surabaya,Jawa Timur,2026-03-11,Reguler
+287,Dimas Wibowo,customer0287@contoh.test,6284585432781,Makassar,Sulawesi Selatan,2025-11-26,Reguler
+288,Vina Ananda,customer0288@contoh.test,6284142542167,Yogyakarta,DI Yogyakarta,2022-04-14,Reguler
+289,Hana Permata,customer0289@contoh.test,6281723448342,Depok,Jawa Barat,2024-04-26,Reguler
+290,Dewi Putri,customer0290@contoh.test,6281183867070,Solo,Jawa Tengah,2022-11-20,Reguler
+291,Rizky Kusuma,customer0291@contoh.test,6284753106399,Solo,Jawa Tengah,2023-08-08,Reguler
+292,Wahyu Ananda,customer0292@contoh.test,6284081826922,Surabaya,Jawa Timur,2026-02-21,Reguler
+293,Ayu Hidayat,customer0293@contoh.test,6286433593960,Bandung,Jawa Barat,2022-03-16,VIP
+294,Rina Anggraini,customer0294@contoh.test,6283448851599,Palembang,Sumatera Selatan,2022-03-18,Baru
+295,Vina Lestari,customer0295@contoh.test,6285348193218,Pontianak,Kalimantan Barat,2024-07-19,VIP
+296,Sari Anggraini,customer0296@contoh.test,6282877674279,Pekanbaru,Riau,2024-08-16,Reguler
+297,Kartika Hidayat,customer0297@contoh.test,6286997011385,Yogyakarta,DI Yogyakarta,2023-06-11,Reguler
+298,Intan Purnama,customer0298@contoh.test,6284886206305,Jakarta,DKI Jakarta,2025-10-13,Reguler
+299,Vina Utami,customer0299@contoh.test,6286579159799,Medan,Sumatera Utara,2023-11-03,Baru
+300,Fajar Putri,customer0300@contoh.test,6287253433080,Yogyakarta,DI Yogyakarta,2023-05-24,Baru
+301,Hana Firmansyah,customer0301@contoh.test,6284554241559,Palembang,Sumatera Selatan,2023-09-11,Reguler
+302,Adi Santoso,customer0302@contoh.test,6289458258264,Pontianak,Kalimantan Barat,2025-11-19,Baru
+303,Putri Maulana,customer0303@contoh.test,6283164414096,Yogyakarta,DI Yogyakarta,2025-11-06,Reguler
+304,Zaki Lestari,customer0304@contoh.test,6289249599276,Bogor,Jawa Barat,2024-01-23,Reguler
+305,Eko Anggraini,customer0305@contoh.test,6283071066203,Denpasar,Bali,2026-03-12,VIP
+306,Nanda Wibowo,customer0306@contoh.test,6287182144402,Tangerang,Banten,2026-07-01,Reguler
+307,Bagus Permata,customer0307@contoh.test,6289889968863,Makassar,Sulawesi Selatan,2026-06-01,Baru
+308,Sari Ramadhan,customer0308@contoh.test,6282085721444,Padang,Sumatera Barat,2022-08-18,Baru
+309,Rafi Setiawan,customer0309@contoh.test,6283686866717,Pekanbaru,Riau,2025-01-04,Baru
+310,Nadia Setiawan,customer0310@contoh.test,6286725601471,Bekasi,Jawa Barat,2025-10-25,Baru
+311,Rizky Wijaya,customer0311@contoh.test,6287669791674,Pontianak,Kalimantan Barat,2026-07-15,Baru
+312,Sari Nugroho,customer0312@contoh.test,6286985686878,Semarang,Jawa Tengah,2022-04-29,Reguler
+313,Intan Pratama,customer0313@contoh.test,6286144152669,Bogor,Jawa Barat,2026-07-31,Baru
+314,Umar Wijaya,customer0314@contoh.test,6281666867700,Makassar,Sulawesi Selatan,2023-12-07,Reguler
+315,Budi Wijaya,customer0315@contoh.test,6287114259382,Pekanbaru,Riau,2023-08-11,Reguler
+316,Bagus Nugroho,customer0316@contoh.test,6285861335545,Semarang,Jawa Tengah,2024-07-07,VIP
+317,Maya Wijaya,customer0317@contoh.test,6289898824290,Palembang,Sumatera Selatan,2025-01-09,Baru
+318,Dewi Hidayat,customer0318@contoh.test,6287962755436,Tangerang,Banten,2024-12-19,Baru
+319,Dimas Pratama,customer0319@contoh.test,6281350045602,Denpasar,Bali,2024-08-06,Reguler
+320,Nanda Wibowo,customer0320@contoh.test,6285940824989,Pekanbaru,Riau,2023-05-22,Reguler
+321,Indra Kusuma,customer0321@contoh.test,6282514324134,Semarang,Jawa Tengah,2026-07-16,Reguler
+322,Bagus Pratama,customer0322@contoh.test,6284137659807,Bantul,DI Yogyakarta,2022-05-18,Baru
+323,Putri Susanto,customer0323@contoh.test,6289716533225,Bandung,Jawa Barat,2023-05-17,Reguler
+324,Putri Permata,customer0324@contoh.test,6288039161379,Palembang,Sumatera Selatan,2026-03-25,VIP
+325,Eko Setiawan,customer0325@contoh.test,6284841428626,Bandung,Jawa Barat,2026-07-29,VIP
+326,Kartika Ananda,customer0326@contoh.test,6288753038943,Pontianak,Kalimantan Barat,2023-05-01,Reguler
+327,Yuni Setiawan,customer0327@contoh.test,6283965507111,Semarang,Jawa Tengah,2023-09-08,Reguler
+328,Umar Hidayat,customer0328@contoh.test,6289167337891,Pekanbaru,Riau,2025-02-12,Reguler
+329,Wahyu Utami,customer0329@contoh.test,6287852779814,Tangerang,Banten,2025-11-27,Reguler
+330,Joko Utami,customer0330@contoh.test,6283482199509,Semarang,Jawa Tengah,2024-08-27,Baru
+331,Joko Putri,customer0331@contoh.test,6287017734153,Denpasar,Bali,2025-02-25,Reguler
+332,Taufik Setiawan,customer0332@contoh.test,6282862132722,Balikpapan,Kalimantan Timur,2023-05-13,Reguler
+333,Wahyu Wijaya,customer0333@contoh.test,6286859805178,Bekasi,Jawa Barat,2022-07-09,Reguler
+334,Budi Santoso,customer0334@contoh.test,6285991197624,Makassar,Sulawesi Selatan,2025-05-19,Baru
+335,Gita Ananda,customer0335@contoh.test,6289685007641,Surabaya,Jawa Timur,2023-03-21,Reguler
+336,Joko Pratama,customer0336@contoh.test,6283835504548,Bekasi,Jawa Barat,2026-02-27,Baru
+337,Ayu Permata,customer0337@contoh.test,6288837449289,Solo,Jawa Tengah,2024-03-23,VIP
+338,Kartika Maulana,customer0338@contoh.test,6285972579077,Pekanbaru,Riau,2024-12-28,Reguler
+339,Indra Ramadhan,customer0339@contoh.test,6287676743428,Bogor,Jawa Barat,2024-08-12,Baru
+340,Bagus Purnama,customer0340@contoh.test,6283759755172,Solo,Jawa Tengah,2023-10-03,Reguler
+341,Nadia Permata,customer0341@contoh.test,6282912176998,Pontianak,Kalimantan Barat,2023-06-19,Reguler
+342,Umar Nugroho,customer0342@contoh.test,6284830456313,Pontianak,Kalimantan Barat,2023-02-06,Reguler
+343,Umar Permata,customer0343@contoh.test,6287483905989,Palembang,Sumatera Selatan,2025-09-02,VIP
+344,Indra Anggraini,customer0344@contoh.test,6289375846624,Bekasi,Jawa Barat,2024-08-01,Baru
+345,Fajar Putri,customer0345@contoh.test,6288075540707,Tangerang,Banten,2023-01-12,VIP
+346,Wahyu Saputra,customer0346@contoh.test,6287814539747,Pekanbaru,Riau,2026-09-15,Reguler
+347,Bagus Pratama,customer0347@contoh.test,6286328453800,Bandung,Jawa Barat,2026-09-22,Reguler
+348,Zaki Putri,customer0348@contoh.test,6281239356057,Surabaya,Jawa Timur,2024-11-01,Reguler
+349,Vina Susanto,customer0349@contoh.test,6287298487646,Bandung,Jawa Barat,2024-09-26,Baru
+350,Taufik Nugroho,customer0350@contoh.test,6281212244945,Pekanbaru,Riau,2024-12-20,Reguler
+351,Joko Pratama,customer0351@contoh.test,6287567790557,Pekanbaru,Riau,2026-07-10,VIP
+352,Dewi Lestari,customer0352@contoh.test,6287829984682,Medan,Sumatera Utara,2023-05-09,Baru
+353,Indra Ramadhan,customer0353@contoh.test,6284563270536,Depok,Jawa Barat,2022-06-11,Reguler
+354,Putri Ananda,customer0354@contoh.test,6284240314047,Palembang,Sumatera Selatan,2023-09-07,Reguler
+355,Wahyu Saputra,customer0355@contoh.test,6282264395532,Surabaya,Jawa Timur,2024-02-16,Reguler
+356,Budi Pratama,customer0356@contoh.test,6283221097943,Solo,Jawa Tengah,2024-10-20,Reguler
+357,Umar Lestari,customer0357@contoh.test,6287815711200,Bekasi,Jawa Barat,2023-04-16,Baru
+358,Rizky Santoso,customer0358@contoh.test,6281619978827,Pontianak,Kalimantan Barat,2025-11-02,VIP
+359,Umar Saputra,customer0359@contoh.test,6283352209421,Pekanbaru,Riau,2022-02-02,VIP
+360,Eko Utami,customer0360@contoh.test,6282050168264,Pontianak,Kalimantan Barat,2022-11-29,Reguler
+361,Dimas Utami,customer0361@contoh.test,6289782553061,Pontianak,Kalimantan Barat,2023-11-11,Reguler
+362,Rina Wijaya,customer0362@contoh.test,6287556420476,Semarang,Jawa Tengah,2022-04-20,Baru
+363,Dimas Wijaya,customer0363@contoh.test,6285491224373,Denpasar,Bali,2026-04-24,Reguler
+364,Maya Purnama,customer0364@contoh.test,6281495110541,Bantul,DI Yogyakarta,2023-07-14,Reguler
+365,Rizky Permata,customer0365@contoh.test,6285684227466,Padang,Sumatera Barat,2024-02-08,Reguler
+366,Yuni Utami,customer0366@contoh.test,6282193029219,Pontianak,Kalimantan Barat,2023-08-28,Reguler
+367,Citra Santoso,customer0367@contoh.test,6283061002735,Surabaya,Jawa Timur,2025-12-28,Reguler
+368,Intan Utami,customer0368@contoh.test,6285158412365,Semarang,Jawa Tengah,2022-08-07,Baru
+369,Putri Ramadhan,customer0369@contoh.test,6284523721268,Bogor,Jawa Barat,2022-09-29,Baru
+370,Putri Wibowo,customer0370@contoh.test,6288278778646,Balikpapan,Kalimantan Timur,2024-04-15,Baru
+371,Lina Wibowo,customer0371@contoh.test,6282290117857,Surabaya,Jawa Timur,2025-05-09,Reguler
+372,Adi Maulana,customer0372@contoh.test,6286362049575,Palembang,Sumatera Selatan,2026-05-15,Baru
+373,Rafi Permata,customer0373@contoh.test,6288479941466,Pekanbaru,Riau,2022-12-14,Reguler
+374,Eko Santoso,customer0374@contoh.test,6284946024950,Medan,Sumatera Utara,2024-10-06,Baru
+375,Nanda Santoso,customer0375@contoh.test,6286450232066,Medan,Sumatera Utara,2024-09-18,Reguler
+376,Indra Permata,customer0376@contoh.test,6289176545476,Tangerang,Banten,2025-05-01,Reguler
+377,Dewi Putri,customer0377@contoh.test,6284910908300,Padang,Sumatera Barat,2024-03-21,Reguler
+378,Maya Purnama,customer0378@contoh.test,6286754927535,Bantul,DI Yogyakarta,2024-05-31,Reguler
+379,Eko Maulana,customer0379@contoh.test,6285290961645,Bantul,DI Yogyakarta,2025-11-24,Baru
+380,Fajar Utami,customer0380@contoh.test,6285149117508,Bekasi,Jawa Barat,2026-02-14,Reguler
+381,Umar Permata,customer0381@contoh.test,6285260473288,Solo,Jawa Tengah,2023-07-29,Reguler
+382,Lina Lestari,customer0382@contoh.test,6288336816708,Palembang,Sumatera Selatan,2025-04-27,VIP
+383,Yuni Wibowo,customer0383@contoh.test,6281471957885,Medan,Sumatera Utara,2025-12-21,Baru
+384,Dimas Wijaya,customer0384@contoh.test,6286377015343,Bogor,Jawa Barat,2022-10-13,Reguler
+385,Indra Putri,customer0385@contoh.test,6286560598851,Denpasar,Bali,2022-06-01,Reguler
+386,Rizky Ananda,customer0386@contoh.test,6286281721578,Bantul,DI Yogyakarta,2024-11-03,VIP
+387,Taufik Saputra,customer0387@contoh.test,6285782062301,Balikpapan,Kalimantan Timur,2025-05-01,Reguler
+388,Dewi Permata,customer0388@contoh.test,6289599213703,Surabaya,Jawa Timur,2023-12-29,Baru
+389,Budi Ananda,customer0389@contoh.test,6289396804457,Bantul,DI Yogyakarta,2024-03-29,VIP
+390,Rina Nugroho,customer0390@contoh.test,6282411415698,Bekasi,Jawa Barat,2022-07-21,Reguler
+391,Intan Setiawan,customer0391@contoh.test,6288287915846,Depok,Jawa Barat,2025-11-09,Reguler
+392,Lina Utami,customer0392@contoh.test,6287088999206,Padang,Sumatera Barat,2025-11-15,Reguler
+393,Adi Anggraini,customer0393@contoh.test,6282449652241,Tangerang,Banten,2024-05-01,VIP
+394,Dewi Putri,customer0394@contoh.test,6285551861213,Surabaya,Jawa Timur,2023-12-04,Reguler
+395,Sari Anggraini,customer0395@contoh.test,6285573909453,Makassar,Sulawesi Selatan,2022-07-19,Reguler
+396,Kartika Wijaya,customer0396@contoh.test,6284915997257,Padang,Sumatera Barat,2026-07-18,Reguler
+397,Nadia Purnama,customer0397@contoh.test,6289324678410,Jakarta,DKI Jakarta,2025-10-18,Reguler
+398,Sari Hidayat,customer0398@contoh.test,6288131493051,Denpasar,Bali,2023-11-09,Reguler
+399,Hana Utami,customer0399@contoh.test,6289134756698,Padang,Sumatera Barat,2023-01-17,Reguler
+400,Maya Pratama,customer0400@contoh.test,6288936484437,Balikpapan,Kalimantan Timur,2024-07-09,Reguler
+401,Adi Kusuma,customer0401@contoh.test,6283747358810,Palembang,Sumatera Selatan,2026-03-21,Reguler
+402,Umar Lestari,customer0402@contoh.test,6287935093324,Surabaya,Jawa Timur,2024-01-20,Reguler
+403,Dewi Santoso,customer0403@contoh.test,6289675697427,Padang,Sumatera Barat,2024-12-16,VIP
+404,Vina Utami,customer0404@contoh.test,6288962686364,Bekasi,Jawa Barat,2025-04-17,Baru
+405,Nadia Firmansyah,customer0405@contoh.test,6289033156250,Tangerang,Banten,2026-07-25,Reguler
+406,Ayu Susanto,customer0406@contoh.test,6288621375216,Bogor,Jawa Barat,2025-10-08,Baru
+407,Hana Maulana,customer0407@contoh.test,6282534567819,Yogyakarta,DI Yogyakarta,2024-02-04,Reguler
+408,Maya Nugroho,customer0408@contoh.test,6288728504235,Depok,Jawa Barat,2025-03-23,Reguler
+409,Rizky Wibowo,customer0409@contoh.test,6289996605343,Medan,Sumatera Utara,2022-12-21,Reguler
+410,Joko Putri,customer0410@contoh.test,6283452222214,Solo,Jawa Tengah,2026-09-21,Reguler
+411,Nadia Ramadhan,customer0411@contoh.test,6281275043108,Bandung,Jawa Barat,2022-10-07,Baru
+412,Taufik Setiawan,customer0412@contoh.test,6289476433728,Palembang,Sumatera Selatan,2024-04-17,Reguler
+413,Zaki Firmansyah,customer0413@contoh.test,6287332448383,Balikpapan,Kalimantan Timur,2022-06-19,Reguler
+414,Joko Saputra,customer0414@contoh.test,6284640177972,Denpasar,Bali,2025-01-06,Reguler
+415,Umar Anggraini,customer0415@contoh.test,6288178559218,Padang,Sumatera Barat,2022-08-20,Reguler
+416,Bagus Wibowo,customer0416@contoh.test,6285782751830,Malang,Jawa Timur,2026-08-12,Reguler
+417,Taufik Kusuma,customer0417@contoh.test,6286523746101,Padang,Sumatera Barat,2026-02-16,Reguler
+418,Joko Saputra,customer0418@contoh.test,6286845274462,Denpasar,Bali,2023-12-15,VIP
+419,Putri Lestari,customer0419@contoh.test,6284138169370,Surabaya,Jawa Timur,2026-07-19,Reguler
+420,Nadia Susanto,customer0420@contoh.test,6289167467610,Tangerang,Banten,2022-12-06,Reguler
+421,Dimas Kusuma,customer0421@contoh.test,6281886514083,Makassar,Sulawesi Selatan,2023-12-20,Reguler
+422,Taufik Hidayat,customer0422@contoh.test,6285249276764,Bantul,DI Yogyakarta,2023-08-16,Reguler
+423,Rafi Lestari,customer0423@contoh.test,6282865243509,Depok,Jawa Barat,2022-05-02,VIP
+424,Zaki Putri,customer0424@contoh.test,6284229628462,Semarang,Jawa Tengah,2025-12-27,Reguler
+425,Bagus Utami,customer0425@contoh.test,6287329081953,Denpasar,Bali,2025-03-28,Reguler
+426,Maya Firmansyah,customer0426@contoh.test,6282095044078,Balikpapan,Kalimantan Timur,2026-06-16,VIP
+427,Maya Setiawan,customer0427@contoh.test,6284659535894,Surabaya,Jawa Timur,2024-07-20,VIP
+428,Umar Pratama,customer0428@contoh.test,6282271532017,Bekasi,Jawa Barat,2025-07-24,Reguler
+429,Nadia Wijaya,customer0429@contoh.test,6287963380520,Tangerang,Banten,2023-03-23,VIP
+430,Rizky Santoso,customer0430@contoh.test,6285248063218,Makassar,Sulawesi Selatan,2023-11-23,Reguler
+431,Umar Anggraini,customer0431@contoh.test,6285416497381,Semarang,Jawa Tengah,2022-04-05,Baru
+432,Adi Lestari,customer0432@contoh.test,6283169228397,Padang,Sumatera Barat,2024-07-23,Baru
+433,Gita Putri,customer0433@contoh.test,6289450515702,Balikpapan,Kalimantan Timur,2022-11-22,VIP
+434,Citra Ramadhan,customer0434@contoh.test,6284321062296,Malang,Jawa Timur,2024-02-01,Reguler
+435,Budi Utami,customer0435@contoh.test,6289151004756,Medan,Sumatera Utara,2026-01-26,Reguler
+436,Nanda Wijaya,customer0436@contoh.test,6282310145801,Denpasar,Bali,2023-03-14,Reguler
+437,Umar Permata,customer0437@contoh.test,6287769735865,Semarang,Jawa Tengah,2022-01-20,Baru
+438,Dimas Lestari,customer0438@contoh.test,6286527740248,Bekasi,Jawa Barat,2024-09-05,Baru
+439,Citra Lestari,customer0439@contoh.test,6282452057323,Palembang,Sumatera Selatan,2024-01-23,VIP
+440,Maya Putri,customer0440@contoh.test,6289329173414,Semarang,Jawa Tengah,2022-05-21,Reguler
+441,Vina Hidayat,customer0441@contoh.test,6286757135617,Jakarta,DKI Jakarta,2026-01-19,Baru
+442,Ayu Nugroho,customer0442@contoh.test,6288969375757,Semarang,Jawa Tengah,2023-03-21,Baru
+443,Eko Lestari,customer0443@contoh.test,6288661543890,Yogyakarta,DI Yogyakarta,2023-12-21,VIP
+444,Rina Putri,customer0444@contoh.test,6284247173969,Bekasi,Jawa Barat,2025-08-13,Baru
+445,Vina Susanto,customer0445@contoh.test,6288848241423,Pekanbaru,Riau,2026-05-15,VIP
+446,Nadia Maulana,customer0446@contoh.test,6283779491111,Jakarta,DKI Jakarta,2025-05-27,Reguler
+447,Joko Saputra,customer0447@contoh.test,6284176422705,Palembang,Sumatera Selatan,2024-03-01,Baru
+448,Wahyu Susanto,customer0448@contoh.test,6282080905413,Solo,Jawa Tengah,2022-01-25,VIP
+449,Eko Utami,customer0449@contoh.test,6288366487347,Bekasi,Jawa Barat,2024-01-19,Reguler
+450,Bagus Anggraini,customer0450@contoh.test,6282012240013,Medan,Sumatera Utara,2025-04-17,Baru
+451,Gita Saputra,customer0451@contoh.test,6281863415303,Malang,Jawa Timur,2024-11-03,Reguler
+452,Bagus Nugroho,customer0452@contoh.test,6286563992760,Depok,Jawa Barat,2022-06-18,Reguler
+453,Vina Putri,customer0453@contoh.test,6284621220209,Pekanbaru,Riau,2023-09-27,Baru
+454,Rina Putri,customer0454@contoh.test,6287953855682,Makassar,Sulawesi Selatan,2024-03-11,Reguler
+455,Joko Nugroho,customer0455@contoh.test,6284117772004,Surabaya,Jawa Timur,2023-05-16,Baru
+456,Dewi Firmansyah,customer0456@contoh.test,6288991716102,Balikpapan,Kalimantan Timur,2022-04-23,Reguler
+457,Dewi Pratama,customer0457@contoh.test,6282811523452,Medan,Sumatera Utara,2022-12-02,Reguler
+458,Sari Setiawan,customer0458@contoh.test,6284432409388,Tangerang,Banten,2024-02-01,Baru
+459,Intan Lestari,customer0459@contoh.test,6281454964418,Malang,Jawa Timur,2026-07-11,Reguler
+460,Citra Santoso,customer0460@contoh.test,6288494226031,Depok,Jawa Barat,2022-06-07,Reguler
+461,Lina Saputra,customer0461@contoh.test,6287486086168,Depok,Jawa Barat,2022-12-08,Reguler
+462,Bagus Lestari,customer0462@contoh.test,6288425479814,Malang,Jawa Timur,2023-04-13,Reguler
+463,Budi Pratama,customer0463@contoh.test,6284216171536,Jakarta,DKI Jakarta,2024-08-24,Reguler
+464,Fajar Saputra,customer0464@contoh.test,6288198007006,Semarang,Jawa Tengah,2024-05-08,Baru
+465,Nanda Purnama,customer0465@contoh.test,6284520453825,Denpasar,Bali,2025-03-16,Reguler
+466,Yuni Saputra,customer0466@contoh.test,6283339955391,Depok,Jawa Barat,2026-07-06,Reguler
+467,Maya Wijaya,customer0467@contoh.test,6287047890586,Bandung,Jawa Barat,2026-05-04,Reguler
+468,Citra Wibowo,customer0468@contoh.test,6286911069604,Bekasi,Jawa Barat,2024-01-26,Baru
+469,Rina Maulana,customer0469@contoh.test,6289042559072,Pontianak,Kalimantan Barat,2024-08-08,Reguler
+470,Bagus Kusuma,customer0470@contoh.test,6288042900372,Solo,Jawa Tengah,2022-11-05,Baru
+471,Adi Permata,customer0471@contoh.test,6288056496201,Balikpapan,Kalimantan Timur,2025-07-26,Reguler
+472,Kartika Pratama,customer0472@contoh.test,6289560502752,Jakarta,DKI Jakarta,2026-10-05,Reguler
+473,Dewi Kusuma,customer0473@contoh.test,6287841966313,Bogor,Jawa Barat,2024-05-09,Reguler
+474,Eko Santoso,customer0474@contoh.test,6282215892193,Bandung,Jawa Barat,2023-04-20,VIP
+475,Nanda Ramadhan,customer0475@contoh.test,6286921395409,Depok,Jawa Barat,2025-04-04,Baru
+476,Wahyu Utami,customer0476@contoh.test,6282089442904,Semarang,Jawa Tengah,2025-03-08,Baru
+477,Hana Maulana,customer0477@contoh.test,6284452279780,Semarang,Jawa Tengah,2026-06-29,Reguler
+478,Kartika Firmansyah,customer0478@contoh.test,6284541354768,Bekasi,Jawa Barat,2022-06-02,VIP
+479,Bagus Ananda,customer0479@contoh.test,6282430858851,Semarang,Jawa Tengah,2022-08-05,Baru
+480,Kartika Nugroho,customer0480@contoh.test,6282681930575,Padang,Sumatera Barat,2024-01-04,VIP
+481,Putri Maulana,customer0481@contoh.test,6287045568761,Makassar,Sulawesi Selatan,2026-10-12,Baru
+482,Rina Maulana,customer0482@contoh.test,6288815412975,Medan,Sumatera Utara,2023-03-17,Reguler
+483,Eko Wijaya,customer0483@contoh.test,6284257746984,Bekasi,Jawa Barat,2024-03-22,Reguler
+484,Indra Hidayat,customer0484@contoh.test,6281464276605,Bogor,Jawa Barat,2026-10-17,Reguler
+485,Hana Lestari,customer0485@contoh.test,6287023677772,Pekanbaru,Riau,2026-07-05,Reguler
+486,Adi Saputra,customer0486@contoh.test,6283927544302,Yogyakarta,DI Yogyakarta,2023-02-10,Reguler
+487,Yuni Wijaya,customer0487@contoh.test,6288588667527,Tangerang,Banten,2023-06-15,VIP
+488,Adi Wijaya,customer0488@contoh.test,6283696702893,Surabaya,Jawa Timur,2024-06-27,Reguler
+489,Rafi Purnama,customer0489@contoh.test,6282615730602,Surabaya,Jawa Timur,2024-08-02,Baru
+490,Nanda Utami,customer0490@contoh.test,6287413957046,Pontianak,Kalimantan Barat,2024-02-23,Reguler
+491,Lina Kusuma,customer0491@contoh.test,6283446907428,Medan,Sumatera Utara,2023-07-28,Reguler
+492,Budi Susanto,customer0492@contoh.test,6289092809273,Semarang,Jawa Tengah,2023-05-19,Reguler
+493,Nanda Wibowo,customer0493@contoh.test,6287218184472,Solo,Jawa Tengah,2022-06-29,Reguler
+494,Nanda Kusuma,customer0494@contoh.test,6289380573568,Semarang,Jawa Tengah,2023-05-26,Reguler
+495,Rina Pratama,customer0495@contoh.test,6285958199211,Pekanbaru,Riau,2024-09-09,Reguler
+496,Lina Ananda,customer0496@contoh.test,6287553165014,Solo,Jawa Tengah,2024-03-06,Reguler
+497,Kartika Susanto,customer0497@contoh.test,6283913933043,Jakarta,DKI Jakarta,2026-07-19,Reguler
+498,Rina Anggraini,customer0498@contoh.test,6287857973830,Bandung,Jawa Barat,2026-04-20,Reguler
+499,Fajar Lestari,customer0499@contoh.test,6284298162850,Denpasar,Bali,2023-05-09,Reguler
+500,Bagus Permata,customer0500@contoh.test,6288462133188,Bandung,Jawa Barat,2023-12-28,VIP

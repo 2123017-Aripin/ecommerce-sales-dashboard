@@ -1,0 +1,101 @@
+﻿product_id,product_name,category,brand,price,stock_qty,is_active
+1,Mouse Wireless,Elektronik,TeknoPro,91000.0,199,1
+2,Keyboard Mechanical,Elektronik,DailyChoice,500000.0,67,1
+3,Headset Bluetooth,Elektronik,UrbanWorks,527000.0,36,1
+4,Power Bank 20000mAh,Elektronik,BumiMart,224000.0,161,1
+5,Kabel USB-C,Elektronik,PixelOne,29000.0,17,1
+6,Webcam HD,Elektronik,TeknoPro,286000.0,69,1
+7,Speaker Bluetooth,Elektronik,BumiMart,147000.0,153,1
+8,SSD External 1TB,Elektronik,RumahKita,1633000.0,176,1
+9,Router WiFi,Elektronik,BumiMart,679000.0,66,1
+10,Monitor 24 Inch,Elektronik,Arunika,1969000.0,217,1
+11,Kaos Katun,Fashion,Nusantara,142000.0,216,1
+12,Kemeja Casual,Fashion,UrbanWorks,268000.0,118,1
+13,Celana Chino,Fashion,KaryaLokal,191000.0,49,1
+14,Jaket Hoodie,Fashion,RumahKita,302000.0,36,1
+15,Sepatu Sneakers,Fashion,TeknoPro,609000.0,34,1
+16,Tas Ransel,Fashion,KaryaLokal,276000.0,164,1
+17,Topi Baseball,Fashion,DailyChoice,40000.0,196,1
+18,Dress Kasual,Fashion,Arunika,173000.0,246,1
+19,Botol Minum,Rumah Tangga,PixelOne,35000.0,151,1
+20,Lampu LED,Rumah Tangga,DailyChoice,61000.0,157,1
+21,Rak Serbaguna,Rumah Tangga,RumahKita,270000.0,27,1
+22,Sprei Queen,Rumah Tangga,Nusantara,236000.0,207,1
+23,Wajan Anti Lengket,Rumah Tangga,DailyChoice,105000.0,228,1
+24,Kotak Penyimpanan,Rumah Tangga,RumahKita,140000.0,35,1
+25,Kipas Angin,Rumah Tangga,PixelOne,322000.0,126,1
+26,Kopi Arabika 250g,Makanan,KaryaLokal,65000.0,104,1
+27,Teh Premium,Makanan,KaryaLokal,38000.0,181,1
+28,Madu Murni 500ml,Makanan,DailyChoice,154000.0,249,1
+29,Camilan Kacang,Makanan,TeknoPro,28000.0,146,1
+30,Sambal Botol,Makanan,RumahKita,30000.0,128,1
+31,Granola 300g,Makanan,PixelOne,57000.0,246,1
+32,Buku Pemrograman Python,Buku,BumiMart,141000.0,185,1
+33,Novel Fiksi,Buku,KaryaLokal,52000.0,68,1
+34,Buku Data Science,Buku,Nusantara,175000.0,112,1
+35,Buku Bisnis,Buku,DailyChoice,68000.0,64,1
+36,Buku Pengembangan Diri,Buku,Cipta,141000.0,90,1
+37,Dress Kasual Model 037,Fashion,PixelOne,344000.0,46,1
+38,Lampu LED Model 038,Rumah Tangga,RumahKita,83000.0,77,1
+39,Buku Bisnis Model 039,Buku,Cipta,111000.0,102,1
+40,Celana Chino Model 040,Fashion,BumiMart,246000.0,33,1
+41,Keyboard Mechanical Model 041,Elektronik,UrbanWorks,892000.0,50,1
+42,Sambal Botol Model 042,Makanan,TeknoPro,44000.0,107,1
+43,Buku Bisnis Model 043,Buku,BumiMart,92000.0,151,1
+44,Keyboard Mechanical Model 044,Elektronik,BumiMart,523000.0,206,1
+45,Botol Minum Model 045,Rumah Tangga,DailyChoice,80000.0,50,1
+46,Kopi Arabika 250g Model 046,Makanan,DailyChoice,109000.0,205,1
+47,Kemeja Casual Model 047,Fashion,DailyChoice,253000.0,139,1
+48,Novel Fiksi Model 048,Buku,UrbanWorks,92000.0,205,1
+49,Kaos Katun Model 049,Fashion,Cipta,86000.0,135,1
+50,Keyboard Mechanical Model 050,Elektronik,KaryaLokal,564000.0,71,1
+51,Power Bank 20000mAh Model 051,Elektronik,Cipta,220000.0,31,1
+52,Kopi Arabika 250g Model 052,Makanan,BumiMart,61000.0,42,1
+53,Sambal Botol Model 053,Makanan,UrbanWorks,36000.0,145,1
+54,Buku Bisnis Model 054,Buku,RumahKita,178000.0,148,1
+55,Sepatu Sneakers Model 055,Fashion,PixelOne,602000.0,122,1
+56,Buku Bisnis Model 056,Buku,TeknoPro,91000.0,67,1
+57,Webcam HD Model 057,Elektronik,Nusantara,476000.0,151,1
+58,Jaket Hoodie Model 058,Fashion,Nusantara,166000.0,191,1
+59,Power Bank 20000mAh Model 059,Elektronik,TeknoPro,196000.0,230,1
+60,Botol Minum Model 060,Rumah Tangga,BumiMart,55000.0,81,1
+61,Teh Premium Model 061,Makanan,BumiMart,33000.0,195,1
+62,Buku Pengembangan Diri Model 062,Buku,Arunika,81000.0,210,1
+63,Camilan Kacang Model 063,Makanan,RumahKita,24000.0,34,1
+64,Madu Murni 500ml Model 064,Makanan,PixelOne,117000.0,129,1
+65,Keyboard Mechanical Model 065,Elektronik,Nusantara,662000.0,196,1
+66,Kipas Angin Model 066,Rumah Tangga,TeknoPro,307000.0,59,1
+67,Dress Kasual Model 067,Fashion,UrbanWorks,326000.0,56,1
+68,Sprei Queen Model 068,Rumah Tangga,RumahKita,158000.0,123,1
+69,Buku Pemrograman Python Model 069,Buku,Nusantara,88000.0,33,1
+70,Celana Chino Model 070,Fashion,PixelOne,244000.0,133,1
+71,Topi Baseball Model 071,Fashion,Nusantara,56000.0,107,1
+72,Speaker Bluetooth Model 072,Elektronik,DailyChoice,585000.0,83,1
+73,Granola 300g Model 073,Makanan,BumiMart,82000.0,193,1
+74,Teh Premium Model 074,Makanan,RumahKita,43000.0,65,1
+75,Monitor 24 Inch Model 075,Elektronik,BumiMart,1524000.0,201,1
+76,Botol Minum Model 076,Rumah Tangga,Nusantara,99000.0,132,1
+77,Buku Pengembangan Diri Model 077,Buku,UrbanWorks,57000.0,140,1
+78,Headset Bluetooth Model 078,Elektronik,TeknoPro,454000.0,27,1
+79,Topi Baseball Model 079,Fashion,TeknoPro,107000.0,73,1
+80,Buku Pengembangan Diri Model 080,Buku,Nusantara,129000.0,30,1
+81,Granola 300g Model 081,Makanan,Cipta,76000.0,143,1
+82,Rak Serbaguna Model 082,Rumah Tangga,RumahKita,261000.0,193,1
+83,Lampu LED Model 083,Rumah Tangga,DailyChoice,65000.0,43,1
+84,Sprei Queen Model 084,Rumah Tangga,KaryaLokal,157000.0,12,1
+85,Sambal Botol Model 085,Makanan,Cipta,26000.0,28,1
+86,Novel Fiksi Model 086,Buku,BumiMart,78000.0,43,1
+87,Botol Minum Model 087,Rumah Tangga,RumahKita,72000.0,82,1
+88,Dress Kasual Model 088,Fashion,BumiMart,264000.0,166,1
+89,Buku Pemrograman Python Model 089,Buku,BumiMart,161000.0,248,1
+90,Headset Bluetooth Model 090,Elektronik,DailyChoice,209000.0,237,1
+91,Router WiFi Model 091,Elektronik,UrbanWorks,528000.0,82,1
+92,Novel Fiksi Model 092,Buku,KaryaLokal,71000.0,185,1
+93,Wajan Anti Lengket Model 093,Rumah Tangga,Arunika,149000.0,241,1
+94,Keyboard Mechanical Model 094,Elektronik,PixelOne,533000.0,21,1
+95,Webcam HD Model 095,Elektronik,UrbanWorks,501000.0,77,1
+96,Dress Kasual Model 096,Fashion,BumiMart,328000.0,153,1
+97,Keyboard Mechanical Model 097,Elektronik,TeknoPro,402000.0,149,1
+98,Webcam HD Model 098,Elektronik,Cipta,457000.0,47,1
+99,Teh Premium Model 099,Makanan,Nusantara,44000.0,103,1
+100,Webcam HD Model 100,Elektronik,RumahKita,524000.0,73,1
