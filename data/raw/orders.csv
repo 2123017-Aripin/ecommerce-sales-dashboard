@@ -1,0 +1,2001 @@
+﻿order_id,customer_id,order_date,order_status,sales_channel,shipping_city,shipping_province,shipping_cost,discount_amount
+1,433,2024-04-29 17:25:00,Dikirim,Aplikasi,Balikpapan,Kalimantan Timur,22000.0,0.0
+2,245,2026-06-11 11:10:00,Selesai,Website,Depok,Jawa Barat,35000.0,20000.0
+3,173,2023-10-07 10:55:00,Dibatalkan,Marketplace,Balikpapan,Kalimantan Timur,18000.0,15000.0
+4,1,2025-03-12 21:45:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,35000.0,10000.0
+5,454,2025-07-03 08:20:00,Selesai,Aplikasi,Bekasi,Jawa Barat,15000.0,0.0
+6,452,2026-01-23 14:05:00,Dikirim,Marketplace,Depok,Jawa Barat,22000.0,15000.0
+7,455,2023-06-03 16:05:00,Selesai,Marketplace,Surabaya,Jawa Timur,18000.0,15000.0
+8,106,2026-02-08 19:55:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,15000.0,0.0
+9,45,2026-09-17 18:45:00,Selesai,Website,Bogor,Jawa Barat,12000.0,0.0
+10,96,2024-06-23 15:35:00,Selesai,Marketplace,Pontianak,Kalimantan Barat,22000.0,0.0
+11,420,2026-01-01 18:35:00,Selesai,Website,Tangerang,Banten,15000.0,0.0
+12,350,2026-07-08 10:45:00,Selesai,Marketplace,Pekanbaru,Riau,35000.0,0.0
+13,320,2025-05-09 09:30:00,Selesai,Aplikasi,Pekanbaru,Riau,22000.0,20000.0
+14,336,2026-06-01 15:00:00,Selesai,Aplikasi,Bekasi,Jawa Barat,22000.0,10000.0
+15,69,2025-06-26 20:25:00,Selesai,Aplikasi,Depok,Jawa Barat,28000.0,0.0
+16,364,2023-10-05 20:40:00,Dikirim,Website,Bantul,DI Yogyakarta,12000.0,20000.0
+17,326,2024-05-10 13:35:00,Selesai,Website,Jakarta,DKI Jakarta,35000.0,5000.0
+18,11,2025-08-28 22:10:00,Selesai,Aplikasi,Jakarta,DKI Jakarta,9000.0,0.0
+19,204,2023-01-16 16:50:00,Dikembalikan,Marketplace,Semarang,Jawa Tengah,22000.0,15000.0
+20,413,2025-04-07 18:25:00,Selesai,Marketplace,Bantul,DI Yogyakarta,28000.0,5000.0
+21,184,2023-12-15 21:50:00,Dikirim,Website,Bantul,DI Yogyakarta,9000.0,5000.0
+22,182,2024-09-20 14:25:00,Selesai,Aplikasi,Surabaya,Jawa Timur,18000.0,20000.0
+23,257,2026-10-26 14:40:00,Selesai,Website,Pekanbaru,Riau,35000.0,0.0
+24,171,2023-12-29 13:50:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,12000.0,20000.0
+25,20,2025-02-03 08:25:00,Diproses,Aplikasi,Semarang,Jawa Tengah,9000.0,15000.0
+26,67,2025-10-27 17:20:00,Selesai,Marketplace,Bandung,Jawa Barat,15000.0,0.0
+27,68,2023-02-14 17:40:00,Selesai,Aplikasi,Yogyakarta,DI Yogyakarta,28000.0,20000.0
+28,56,2023-02-10 08:55:00,Selesai,Aplikasi,Solo,Jawa Tengah,9000.0,10000.0
+29,426,2026-06-19 09:20:00,Selesai,Website,Depok,Jawa Barat,12000.0,10000.0
+30,353,2024-04-25 08:00:00,Selesai,Marketplace,Bekasi,Jawa Barat,35000.0,10000.0
+31,437,2026-10-18 13:30:00,Diproses,Website,Semarang,Jawa Tengah,35000.0,0.0
+32,138,2025-02-02 21:25:00,Selesai,Aplikasi,Surabaya,Jawa Timur,18000.0,0.0
+33,195,2023-03-01 21:50:00,Dikirim,Marketplace,Bantul,DI Yogyakarta,12000.0,5000.0
+34,268,2023-07-15 14:50:00,Diproses,Aplikasi,Bantul,DI Yogyakarta,28000.0,15000.0
+35,26,2026-02-01 18:30:00,Selesai,Website,Padang,Sumatera Barat,18000.0,5000.0
+36,336,2024-11-29 13:00:00,Dikirim,Marketplace,Bekasi,Jawa Barat,15000.0,10000.0
+37,460,2023-10-15 21:55:00,Diproses,Aplikasi,Depok,Jawa Barat,15000.0,10000.0
+38,24,2023-09-10 20:35:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,22000.0,0.0
+39,452,2025-02-26 14:45:00,Dibatalkan,Marketplace,Depok,Jawa Barat,15000.0,5000.0
+40,284,2024-02-16 11:45:00,Selesai,Aplikasi,Pekanbaru,Riau,28000.0,0.0
+41,383,2024-08-08 22:30:00,Dikirim,Aplikasi,Pekanbaru,Riau,9000.0,5000.0
+42,105,2025-01-04 21:35:00,Selesai,Marketplace,Bandung,Jawa Barat,28000.0,10000.0
+43,214,2026-02-04 08:00:00,Diproses,Website,Bekasi,Jawa Barat,35000.0,20000.0
+44,493,2025-11-18 09:30:00,Selesai,Aplikasi,Solo,Jawa Tengah,15000.0,0.0
+45,316,2025-10-01 20:45:00,Selesai,Website,Bogor,Jawa Barat,28000.0,0.0
+46,343,2024-05-07 22:50:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,9000.0,15000.0
+47,460,2024-10-18 16:05:00,Dibatalkan,Website,Depok,Jawa Barat,35000.0,10000.0
+48,13,2024-11-10 08:05:00,Selesai,Website,Depok,Jawa Barat,15000.0,10000.0
+49,162,2026-10-10 09:40:00,Selesai,Marketplace,Bandung,Jawa Barat,9000.0,20000.0
+50,492,2024-09-02 18:55:00,Selesai,Marketplace,Semarang,Jawa Tengah,9000.0,10000.0
+51,428,2023-08-23 10:50:00,Diproses,Marketplace,Bekasi,Jawa Barat,35000.0,20000.0
+52,163,2024-11-03 17:50:00,Selesai,Aplikasi,Padang,Sumatera Barat,22000.0,10000.0
+53,237,2024-09-17 15:40:00,Selesai,Aplikasi,Bogor,Jawa Barat,9000.0,20000.0
+54,465,2024-06-17 16:40:00,Selesai,Marketplace,Denpasar,Bali,15000.0,5000.0
+55,340,2026-06-11 18:10:00,Diproses,Website,Solo,Jawa Tengah,12000.0,0.0
+56,241,2023-03-23 18:25:00,Selesai,Marketplace,Bandung,Jawa Barat,28000.0,20000.0
+57,208,2024-12-07 15:35:00,Dikirim,Website,Solo,Jawa Tengah,12000.0,5000.0
+58,118,2024-11-07 19:05:00,Selesai,Aplikasi,Bogor,Jawa Barat,12000.0,10000.0
+59,76,2024-06-12 22:10:00,Selesai,Aplikasi,Malang,Jawa Timur,22000.0,15000.0
+60,88,2025-04-21 17:10:00,Diproses,Marketplace,Solo,Jawa Tengah,12000.0,10000.0
+61,50,2026-06-13 17:00:00,Dikirim,Aplikasi,Malang,Jawa Timur,35000.0,0.0
+62,268,2023-03-30 19:40:00,Selesai,Marketplace,Semarang,Jawa Tengah,18000.0,20000.0
+63,3,2026-03-29 16:05:00,Selesai,Aplikasi,Jakarta,DKI Jakarta,12000.0,15000.0
+64,212,2026-02-15 15:10:00,Selesai,Aplikasi,Solo,Jawa Tengah,15000.0,0.0
+65,200,2023-07-06 21:10:00,Selesai,Aplikasi,Jakarta,DKI Jakarta,9000.0,0.0
+66,254,2024-02-18 21:50:00,Dibatalkan,Aplikasi,Palembang,Sumatera Selatan,12000.0,0.0
+67,8,2023-07-04 16:20:00,Diproses,Aplikasi,Surabaya,Jawa Timur,22000.0,0.0
+68,38,2024-11-27 09:40:00,Dibatalkan,Marketplace,Padang,Sumatera Barat,35000.0,20000.0
+69,410,2024-12-24 16:40:00,Selesai,Marketplace,Solo,Jawa Tengah,12000.0,0.0
+70,112,2024-01-10 19:50:00,Dibatalkan,Website,Malang,Jawa Timur,28000.0,0.0
+71,62,2026-06-11 08:40:00,Dibatalkan,Marketplace,Solo,Jawa Tengah,15000.0,10000.0
+72,17,2025-03-17 21:50:00,Diproses,Aplikasi,Padang,Sumatera Barat,9000.0,15000.0
+73,95,2024-03-07 14:55:00,Diproses,Aplikasi,Balikpapan,Kalimantan Timur,18000.0,0.0
+74,216,2026-07-15 16:40:00,Diproses,Marketplace,Bandung,Jawa Barat,15000.0,0.0
+75,11,2024-12-20 21:50:00,Dikembalikan,Website,Pekanbaru,Riau,22000.0,15000.0
+76,208,2023-06-12 10:25:00,Selesai,Aplikasi,Surabaya,Jawa Timur,15000.0,15000.0
+77,373,2024-05-30 19:55:00,Diproses,Website,Pekanbaru,Riau,18000.0,0.0
+78,269,2023-08-01 12:45:00,Selesai,Aplikasi,Surabaya,Jawa Timur,18000.0,0.0
+79,443,2026-01-12 22:20:00,Selesai,Website,Yogyakarta,DI Yogyakarta,28000.0,10000.0
+80,466,2026-01-10 11:05:00,Selesai,Aplikasi,Depok,Jawa Barat,15000.0,0.0
+81,306,2023-01-15 16:25:00,Selesai,Marketplace,Tangerang,Banten,18000.0,5000.0
+82,392,2024-07-10 12:50:00,Diproses,Marketplace,Bantul,DI Yogyakarta,18000.0,0.0
+83,140,2024-01-20 13:00:00,Selesai,Marketplace,Solo,Jawa Tengah,9000.0,0.0
+84,8,2024-12-01 14:20:00,Diproses,Aplikasi,Malang,Jawa Timur,15000.0,5000.0
+85,279,2024-01-29 22:20:00,Dikirim,Marketplace,Bandung,Jawa Barat,9000.0,20000.0
+86,243,2024-10-01 22:25:00,Selesai,Marketplace,Palembang,Sumatera Selatan,28000.0,10000.0
+87,298,2026-05-06 10:25:00,Diproses,Website,Solo,Jawa Tengah,18000.0,0.0
+88,99,2025-02-12 13:55:00,Selesai,Marketplace,Solo,Jawa Tengah,18000.0,15000.0
+89,152,2025-01-21 15:00:00,Diproses,Aplikasi,Pekanbaru,Riau,28000.0,0.0
+90,496,2025-03-04 11:40:00,Selesai,Marketplace,Solo,Jawa Tengah,12000.0,10000.0
+91,51,2026-08-07 21:30:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,28000.0,10000.0
+92,481,2023-04-30 21:45:00,Selesai,Website,Tangerang,Banten,9000.0,20000.0
+93,286,2023-08-05 20:50:00,Selesai,Aplikasi,Surabaya,Jawa Timur,28000.0,15000.0
+94,166,2026-02-27 16:15:00,Selesai,Aplikasi,Bantul,DI Yogyakarta,28000.0,0.0
+95,396,2026-02-07 16:40:00,Selesai,Aplikasi,Malang,Jawa Timur,9000.0,0.0
+96,250,2023-07-15 17:50:00,Selesai,Marketplace,Pontianak,Kalimantan Barat,22000.0,5000.0
+97,335,2026-07-22 20:50:00,Selesai,Aplikasi,Jakarta,DKI Jakarta,9000.0,0.0
+98,293,2025-03-28 12:05:00,Selesai,Aplikasi,Pekanbaru,Riau,28000.0,0.0
+99,37,2025-05-30 13:50:00,Dibatalkan,Website,Pontianak,Kalimantan Barat,28000.0,5000.0
+100,120,2025-02-04 10:55:00,Dikirim,Website,Pekanbaru,Riau,9000.0,0.0
+101,10,2026-09-20 16:00:00,Selesai,Website,Pontianak,Kalimantan Barat,12000.0,20000.0
+102,273,2024-02-12 16:35:00,Selesai,Marketplace,Bekasi,Jawa Barat,9000.0,0.0
+103,78,2025-03-15 18:10:00,Selesai,Aplikasi,Bogor,Jawa Barat,28000.0,10000.0
+104,71,2024-02-19 21:10:00,Selesai,Marketplace,Makassar,Sulawesi Selatan,22000.0,0.0
+105,382,2023-11-08 20:15:00,Selesai,Website,Malang,Jawa Timur,35000.0,10000.0
+106,84,2023-03-08 14:00:00,Dibatalkan,Marketplace,Medan,Sumatera Utara,12000.0,15000.0
+107,398,2025-02-18 19:25:00,Selesai,Marketplace,Denpasar,Bali,22000.0,10000.0
+108,150,2024-09-15 20:20:00,Selesai,Aplikasi,Surabaya,Jawa Timur,22000.0,0.0
+109,47,2026-08-21 22:55:00,Diproses,Marketplace,Pontianak,Kalimantan Barat,9000.0,0.0
+110,406,2023-11-24 14:40:00,Selesai,Marketplace,Bantul,DI Yogyakarta,15000.0,10000.0
+111,461,2024-02-20 08:45:00,Diproses,Website,Depok,Jawa Barat,18000.0,20000.0
+112,318,2024-03-01 08:10:00,Selesai,Aplikasi,Tangerang,Banten,9000.0,0.0
+113,92,2024-08-05 17:50:00,Selesai,Aplikasi,Solo,Jawa Tengah,35000.0,10000.0
+114,34,2023-10-03 09:55:00,Dikirim,Aplikasi,Bantul,DI Yogyakarta,18000.0,10000.0
+115,479,2025-05-24 17:25:00,Selesai,Aplikasi,Bogor,Jawa Barat,22000.0,0.0
+116,61,2026-07-04 20:05:00,Diproses,Website,Solo,Jawa Tengah,22000.0,5000.0
+117,393,2024-11-13 13:30:00,Diproses,Aplikasi,Tangerang,Banten,9000.0,20000.0
+118,80,2026-01-04 22:25:00,Selesai,Marketplace,Surabaya,Jawa Timur,28000.0,0.0
+119,311,2026-05-03 09:20:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,9000.0,0.0
+120,79,2025-09-17 19:40:00,Selesai,Aplikasi,Surabaya,Jawa Timur,35000.0,20000.0
+121,443,2023-01-09 12:00:00,Selesai,Aplikasi,Yogyakarta,DI Yogyakarta,9000.0,0.0
+122,61,2023-11-19 12:05:00,Selesai,Aplikasi,Solo,Jawa Tengah,22000.0,0.0
+123,314,2025-06-27 08:10:00,Selesai,Marketplace,Pekanbaru,Riau,9000.0,0.0
+124,499,2026-03-08 10:05:00,Dikirim,Marketplace,Padang,Sumatera Barat,18000.0,0.0
+125,16,2023-08-20 13:35:00,Selesai,Website,Bogor,Jawa Barat,35000.0,0.0
+126,34,2026-04-25 14:30:00,Selesai,Aplikasi,Bantul,DI Yogyakarta,28000.0,0.0
+127,50,2024-09-22 14:05:00,Selesai,Aplikasi,Medan,Sumatera Utara,22000.0,20000.0
+128,296,2024-02-26 18:25:00,Selesai,Marketplace,Pekanbaru,Riau,28000.0,0.0
+129,441,2023-03-05 11:30:00,Selesai,Aplikasi,Jakarta,DKI Jakarta,15000.0,15000.0
+130,332,2025-09-23 18:30:00,Dikembalikan,Website,Balikpapan,Kalimantan Timur,12000.0,15000.0
+131,122,2025-04-21 22:40:00,Selesai,Website,Malang,Jawa Timur,9000.0,10000.0
+132,380,2026-10-01 09:50:00,Selesai,Marketplace,Bekasi,Jawa Barat,15000.0,10000.0
+133,170,2024-08-26 12:10:00,Selesai,Marketplace,Surabaya,Jawa Timur,28000.0,0.0
+134,141,2023-08-17 17:10:00,Dibatalkan,Marketplace,Jakarta,DKI Jakarta,28000.0,5000.0
+135,386,2024-05-02 18:35:00,Diproses,Website,Palembang,Sumatera Selatan,22000.0,15000.0
+136,195,2025-08-29 12:10:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,15000.0,20000.0
+137,336,2025-08-02 20:50:00,Diproses,Marketplace,Bekasi,Jawa Barat,22000.0,20000.0
+138,211,2023-08-01 18:35:00,Selesai,Marketplace,Bandung,Jawa Barat,15000.0,0.0
+139,491,2026-05-23 10:30:00,Selesai,Marketplace,Medan,Sumatera Utara,22000.0,20000.0
+140,83,2023-05-08 14:30:00,Selesai,Website,Malang,Jawa Timur,35000.0,0.0
+141,315,2025-06-23 19:20:00,Selesai,Website,Pekanbaru,Riau,22000.0,15000.0
+142,2,2025-10-01 15:30:00,Selesai,Marketplace,Denpasar,Bali,35000.0,20000.0
+143,350,2023-04-24 18:50:00,Selesai,Aplikasi,Pekanbaru,Riau,15000.0,0.0
+144,98,2024-01-31 08:55:00,Dikembalikan,Website,Denpasar,Bali,18000.0,0.0
+145,297,2023-05-28 08:55:00,Selesai,Aplikasi,Yogyakarta,DI Yogyakarta,18000.0,10000.0
+146,234,2026-04-25 09:05:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,22000.0,0.0
+147,71,2024-03-12 20:00:00,Selesai,Aplikasi,Makassar,Sulawesi Selatan,9000.0,0.0
+148,314,2023-11-20 08:35:00,Selesai,Website,Makassar,Sulawesi Selatan,9000.0,15000.0
+149,322,2024-12-13 14:00:00,Selesai,Website,Bogor,Jawa Barat,22000.0,0.0
+150,331,2024-03-05 14:20:00,Selesai,Marketplace,Denpasar,Bali,35000.0,5000.0
+151,37,2026-04-28 17:25:00,Selesai,Marketplace,Padang,Sumatera Barat,15000.0,0.0
+152,300,2025-06-11 10:15:00,Dibatalkan,Aplikasi,Yogyakarta,DI Yogyakarta,18000.0,0.0
+153,144,2025-08-11 15:30:00,Selesai,Aplikasi,Padang,Sumatera Barat,15000.0,10000.0
+154,243,2023-01-30 19:30:00,Diproses,Website,Malang,Jawa Timur,15000.0,5000.0
+155,124,2023-01-26 19:55:00,Selesai,Website,Tangerang,Banten,15000.0,0.0
+156,238,2024-01-14 20:25:00,Selesai,Marketplace,Palembang,Sumatera Selatan,9000.0,20000.0
+157,485,2026-03-24 20:15:00,Diproses,Website,Pekanbaru,Riau,15000.0,15000.0
+158,197,2026-06-21 08:25:00,Selesai,Aplikasi,Medan,Sumatera Utara,28000.0,0.0
+159,217,2023-05-10 13:25:00,Selesai,Aplikasi,Surabaya,Jawa Timur,35000.0,0.0
+160,56,2023-08-18 19:10:00,Selesai,Marketplace,Solo,Jawa Tengah,22000.0,15000.0
+161,378,2024-08-20 11:05:00,Selesai,Marketplace,Bantul,DI Yogyakarta,35000.0,10000.0
+162,88,2025-09-18 13:20:00,Diproses,Website,Denpasar,Bali,15000.0,0.0
+163,295,2024-06-17 13:10:00,Selesai,Marketplace,Pontianak,Kalimantan Barat,28000.0,0.0
+164,497,2024-11-09 18:55:00,Selesai,Marketplace,Depok,Jawa Barat,35000.0,10000.0
+165,158,2026-06-18 21:15:00,Selesai,Website,Bogor,Jawa Barat,9000.0,10000.0
+166,202,2024-10-12 17:45:00,Selesai,Website,Solo,Jawa Tengah,28000.0,0.0
+167,84,2025-04-28 10:45:00,Selesai,Website,Balikpapan,Kalimantan Timur,15000.0,5000.0
+168,22,2026-04-13 12:35:00,Selesai,Aplikasi,Bogor,Jawa Barat,9000.0,20000.0
+169,92,2026-08-13 11:00:00,Selesai,Aplikasi,Solo,Jawa Tengah,9000.0,10000.0
+170,84,2023-10-27 13:35:00,Dikirim,Website,Medan,Sumatera Utara,12000.0,0.0
+171,279,2024-10-09 21:50:00,Diproses,Aplikasi,Bandung,Jawa Barat,28000.0,15000.0
+172,112,2024-03-28 21:15:00,Diproses,Aplikasi,Pontianak,Kalimantan Barat,28000.0,20000.0
+173,268,2023-12-19 19:20:00,Selesai,Marketplace,Bekasi,Jawa Barat,12000.0,0.0
+174,388,2024-02-07 09:00:00,Diproses,Aplikasi,Surabaya,Jawa Timur,9000.0,5000.0
+175,472,2026-04-18 22:15:00,Selesai,Aplikasi,Jakarta,DKI Jakarta,9000.0,0.0
+176,367,2024-07-31 10:40:00,Selesai,Marketplace,Surabaya,Jawa Timur,12000.0,10000.0
+177,267,2025-01-09 19:20:00,Selesai,Website,Semarang,Jawa Tengah,15000.0,5000.0
+178,149,2024-01-22 21:05:00,Dikirim,Marketplace,Balikpapan,Kalimantan Timur,28000.0,0.0
+179,206,2023-12-12 09:25:00,Dikembalikan,Aplikasi,Yogyakarta,DI Yogyakarta,22000.0,20000.0
+180,143,2025-07-20 09:05:00,Selesai,Aplikasi,Jakarta,DKI Jakarta,28000.0,0.0
+181,348,2024-09-12 17:45:00,Selesai,Website,Surabaya,Jawa Timur,35000.0,10000.0
+182,227,2023-03-09 10:40:00,Selesai,Marketplace,Bekasi,Jawa Barat,28000.0,0.0
+183,135,2025-02-12 17:50:00,Selesai,Marketplace,Bandung,Jawa Barat,15000.0,0.0
+184,50,2025-01-01 14:25:00,Selesai,Website,Malang,Jawa Timur,12000.0,15000.0
+185,462,2023-02-11 19:35:00,Selesai,Marketplace,Malang,Jawa Timur,18000.0,10000.0
+186,434,2026-01-02 11:20:00,Selesai,Aplikasi,Surabaya,Jawa Timur,22000.0,5000.0
+187,244,2024-12-12 20:05:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,35000.0,0.0
+188,493,2024-07-02 22:50:00,Selesai,Aplikasi,Padang,Sumatera Barat,35000.0,5000.0
+189,352,2025-04-11 11:05:00,Selesai,Website,Medan,Sumatera Utara,35000.0,20000.0
+190,330,2023-02-10 08:05:00,Selesai,Aplikasi,Solo,Jawa Tengah,9000.0,5000.0
+191,129,2023-07-04 11:45:00,Selesai,Marketplace,Semarang,Jawa Tengah,15000.0,20000.0
+192,127,2025-01-13 15:55:00,Selesai,Aplikasi,Semarang,Jawa Tengah,28000.0,10000.0
+193,491,2025-12-31 21:15:00,Dikirim,Aplikasi,Yogyakarta,DI Yogyakarta,18000.0,0.0
+194,242,2025-05-15 22:05:00,Dikirim,Aplikasi,Bekasi,Jawa Barat,22000.0,0.0
+195,70,2024-02-14 18:20:00,Selesai,Website,Bogor,Jawa Barat,12000.0,0.0
+196,202,2024-04-04 08:00:00,Dibatalkan,Aplikasi,Pontianak,Kalimantan Barat,28000.0,0.0
+197,308,2023-07-02 13:10:00,Dibatalkan,Website,Padang,Sumatera Barat,28000.0,10000.0
+198,145,2025-05-06 10:30:00,Diproses,Website,Makassar,Sulawesi Selatan,15000.0,0.0
+199,38,2023-05-01 08:25:00,Dibatalkan,Aplikasi,Padang,Sumatera Barat,15000.0,10000.0
+200,450,2023-07-03 13:55:00,Selesai,Website,Medan,Sumatera Utara,9000.0,0.0
+201,265,2023-12-04 13:55:00,Dikembalikan,Marketplace,Pontianak,Kalimantan Barat,12000.0,10000.0
+202,253,2023-10-31 09:25:00,Selesai,Marketplace,Solo,Jawa Tengah,12000.0,20000.0
+203,214,2025-10-17 18:05:00,Dikirim,Website,Denpasar,Bali,28000.0,15000.0
+204,426,2025-07-18 18:20:00,Selesai,Website,Solo,Jawa Tengah,9000.0,15000.0
+205,46,2024-03-02 10:30:00,Diproses,Aplikasi,Denpasar,Bali,35000.0,15000.0
+206,184,2025-01-22 16:15:00,Selesai,Marketplace,Bantul,DI Yogyakarta,18000.0,0.0
+207,149,2023-06-12 22:35:00,Selesai,Marketplace,Balikpapan,Kalimantan Timur,28000.0,0.0
+208,238,2026-03-10 21:20:00,Selesai,Aplikasi,Padang,Sumatera Barat,35000.0,10000.0
+209,449,2026-04-17 19:35:00,Diproses,Aplikasi,Bekasi,Jawa Barat,35000.0,0.0
+210,7,2025-09-04 15:55:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,28000.0,10000.0
+211,333,2024-05-10 14:50:00,Dikirim,Aplikasi,Bekasi,Jawa Barat,9000.0,0.0
+212,27,2023-07-30 18:55:00,Selesai,Aplikasi,Solo,Jawa Tengah,18000.0,15000.0
+213,33,2026-08-20 14:35:00,Selesai,Aplikasi,Tangerang,Banten,28000.0,0.0
+214,453,2025-03-10 14:50:00,Selesai,Aplikasi,Pekanbaru,Riau,18000.0,20000.0
+215,52,2024-09-13 11:15:00,Selesai,Marketplace,Solo,Jawa Tengah,15000.0,0.0
+216,133,2023-04-06 20:40:00,Selesai,Website,Tangerang,Banten,28000.0,20000.0
+217,467,2024-08-21 19:35:00,Diproses,Aplikasi,Bandung,Jawa Barat,35000.0,0.0
+218,126,2024-11-30 12:40:00,Selesai,Aplikasi,Solo,Jawa Tengah,28000.0,20000.0
+219,75,2023-05-23 09:25:00,Selesai,Marketplace,Depok,Jawa Barat,12000.0,5000.0
+220,215,2026-10-26 19:40:00,Dikirim,Marketplace,Pekanbaru,Riau,15000.0,0.0
+221,455,2026-06-20 18:35:00,Selesai,Marketplace,Surabaya,Jawa Timur,35000.0,15000.0
+222,267,2026-07-25 10:00:00,Selesai,Marketplace,Semarang,Jawa Tengah,22000.0,0.0
+223,25,2025-07-08 12:45:00,Diproses,Aplikasi,Yogyakarta,DI Yogyakarta,12000.0,20000.0
+224,265,2025-01-09 15:05:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,18000.0,0.0
+225,270,2026-02-18 16:30:00,Dikirim,Aplikasi,Depok,Jawa Barat,28000.0,5000.0
+226,243,2023-11-18 16:25:00,Dibatalkan,Website,Palembang,Sumatera Selatan,35000.0,5000.0
+227,192,2025-09-22 08:10:00,Selesai,Aplikasi,Bekasi,Jawa Barat,9000.0,0.0
+228,401,2026-05-25 10:10:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,18000.0,15000.0
+229,363,2026-07-14 20:55:00,Selesai,Aplikasi,Denpasar,Bali,28000.0,10000.0
+230,258,2026-09-10 22:40:00,Selesai,Website,Yogyakarta,DI Yogyakarta,35000.0,0.0
+231,93,2025-12-17 13:30:00,Selesai,Website,Solo,Jawa Tengah,9000.0,10000.0
+232,366,2025-03-09 09:25:00,Selesai,Marketplace,Pontianak,Kalimantan Barat,15000.0,5000.0
+233,487,2023-05-05 13:35:00,Selesai,Website,Tangerang,Banten,9000.0,5000.0
+234,229,2026-07-26 16:15:00,Diproses,Website,Tangerang,Banten,22000.0,0.0
+235,335,2023-05-04 22:35:00,Selesai,Aplikasi,Jakarta,DKI Jakarta,28000.0,5000.0
+236,285,2024-03-07 17:40:00,Dibatalkan,Aplikasi,Balikpapan,Kalimantan Timur,28000.0,0.0
+237,312,2023-01-20 18:10:00,Selesai,Marketplace,Semarang,Jawa Tengah,28000.0,5000.0
+238,190,2023-01-20 11:55:00,Selesai,Aplikasi,Padang,Sumatera Barat,28000.0,0.0
+239,4,2026-07-31 14:05:00,Dikirim,Aplikasi,Yogyakarta,DI Yogyakarta,18000.0,0.0
+240,497,2026-06-12 12:50:00,Selesai,Aplikasi,Pekanbaru,Riau,18000.0,15000.0
+241,186,2023-03-31 22:55:00,Selesai,Aplikasi,Padang,Sumatera Barat,18000.0,10000.0
+242,321,2023-02-27 15:30:00,Dikirim,Aplikasi,Semarang,Jawa Tengah,28000.0,0.0
+243,321,2023-09-13 09:00:00,Dibatalkan,Aplikasi,Semarang,Jawa Tengah,35000.0,15000.0
+244,53,2026-02-19 08:20:00,Dikirim,Aplikasi,Jakarta,DKI Jakarta,22000.0,20000.0
+245,301,2023-07-30 08:45:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,35000.0,0.0
+246,241,2024-12-03 12:25:00,Dikembalikan,Aplikasi,Semarang,Jawa Tengah,28000.0,15000.0
+247,175,2025-09-01 19:55:00,Dikembalikan,Aplikasi,Depok,Jawa Barat,15000.0,20000.0
+248,205,2023-01-14 13:00:00,Selesai,Website,Tangerang,Banten,9000.0,0.0
+249,126,2023-02-14 10:20:00,Dibatalkan,Website,Pekanbaru,Riau,28000.0,0.0
+250,474,2024-01-24 11:40:00,Selesai,Aplikasi,Bandung,Jawa Barat,22000.0,5000.0
+251,436,2026-04-11 22:35:00,Selesai,Website,Denpasar,Bali,18000.0,20000.0
+252,472,2024-02-29 11:15:00,Selesai,Website,Bandung,Jawa Barat,12000.0,0.0
+253,231,2025-04-17 13:35:00,Selesai,Aplikasi,Medan,Sumatera Utara,12000.0,5000.0
+254,51,2025-01-07 08:40:00,Selesai,Website,Pontianak,Kalimantan Barat,15000.0,0.0
+255,401,2026-04-02 20:50:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,35000.0,0.0
+256,225,2026-02-17 08:25:00,Selesai,Marketplace,Solo,Jawa Tengah,15000.0,15000.0
+257,276,2026-04-17 08:45:00,Diproses,Marketplace,Bantul,DI Yogyakarta,12000.0,0.0
+258,284,2026-05-20 15:00:00,Selesai,Website,Pekanbaru,Riau,18000.0,0.0
+259,81,2026-01-03 14:35:00,Diproses,Aplikasi,Semarang,Jawa Tengah,35000.0,0.0
+260,104,2025-07-28 12:15:00,Selesai,Website,Pekanbaru,Riau,9000.0,20000.0
+261,422,2025-04-30 11:10:00,Dikirim,Marketplace,Medan,Sumatera Utara,18000.0,5000.0
+262,150,2023-05-17 19:55:00,Diproses,Website,Surabaya,Jawa Timur,18000.0,5000.0
+263,176,2025-03-23 08:00:00,Selesai,Marketplace,Makassar,Sulawesi Selatan,12000.0,0.0
+264,274,2023-06-08 18:00:00,Selesai,Website,Medan,Sumatera Utara,15000.0,0.0
+265,354,2023-04-18 17:00:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,12000.0,0.0
+266,86,2025-11-15 09:25:00,Selesai,Aplikasi,Bekasi,Jawa Barat,22000.0,0.0
+267,454,2024-09-09 20:45:00,Selesai,Marketplace,Makassar,Sulawesi Selatan,28000.0,10000.0
+268,230,2026-08-04 19:15:00,Selesai,Marketplace,Surabaya,Jawa Timur,9000.0,0.0
+269,41,2025-02-06 15:20:00,Selesai,Aplikasi,Bandung,Jawa Barat,28000.0,0.0
+270,406,2023-02-18 11:55:00,Selesai,Website,Bogor,Jawa Barat,22000.0,0.0
+271,446,2024-01-30 08:50:00,Dikembalikan,Marketplace,Jakarta,DKI Jakarta,12000.0,0.0
+272,102,2023-12-28 17:15:00,Selesai,Aplikasi,Semarang,Jawa Tengah,28000.0,0.0
+273,438,2024-09-06 17:40:00,Selesai,Marketplace,Bekasi,Jawa Barat,15000.0,5000.0
+274,474,2025-03-19 19:25:00,Selesai,Aplikasi,Bandung,Jawa Barat,22000.0,0.0
+275,377,2025-09-05 08:25:00,Selesai,Aplikasi,Padang,Sumatera Barat,28000.0,15000.0
+276,395,2025-02-26 14:55:00,Selesai,Marketplace,Makassar,Sulawesi Selatan,22000.0,0.0
+277,138,2024-09-22 08:10:00,Dikirim,Website,Palembang,Sumatera Selatan,9000.0,20000.0
+278,103,2024-01-10 20:15:00,Selesai,Marketplace,Bekasi,Jawa Barat,18000.0,5000.0
+279,50,2023-01-15 14:45:00,Selesai,Marketplace,Malang,Jawa Timur,15000.0,5000.0
+280,234,2023-10-12 08:45:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,28000.0,20000.0
+281,325,2023-04-04 20:55:00,Selesai,Aplikasi,Bandung,Jawa Barat,22000.0,5000.0
+282,259,2025-10-16 20:05:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,22000.0,20000.0
+283,393,2024-06-11 18:35:00,Dibatalkan,Aplikasi,Tangerang,Banten,28000.0,0.0
+284,115,2024-08-18 09:05:00,Selesai,Marketplace,Pontianak,Kalimantan Barat,12000.0,15000.0
+285,303,2025-03-05 14:25:00,Diproses,Marketplace,Yogyakarta,DI Yogyakarta,35000.0,0.0
+286,341,2026-05-11 13:20:00,Selesai,Aplikasi,Bandung,Jawa Barat,15000.0,20000.0
+287,468,2026-01-27 14:25:00,Selesai,Aplikasi,Jakarta,DKI Jakarta,15000.0,20000.0
+288,84,2025-06-23 19:35:00,Selesai,Website,Medan,Sumatera Utara,12000.0,20000.0
+289,50,2025-08-28 10:00:00,Selesai,Aplikasi,Malang,Jawa Timur,15000.0,10000.0
+290,443,2024-07-17 18:50:00,Selesai,Website,Palembang,Sumatera Selatan,9000.0,0.0
+291,141,2026-04-29 10:30:00,Selesai,Aplikasi,Yogyakarta,DI Yogyakarta,18000.0,0.0
+292,495,2023-08-29 10:45:00,Selesai,Website,Pekanbaru,Riau,18000.0,20000.0
+293,88,2026-09-09 08:15:00,Selesai,Marketplace,Solo,Jawa Tengah,22000.0,20000.0
+294,420,2023-03-17 11:10:00,Selesai,Marketplace,Tangerang,Banten,12000.0,10000.0
+295,323,2025-02-01 17:50:00,Selesai,Aplikasi,Makassar,Sulawesi Selatan,12000.0,5000.0
+296,34,2023-07-02 13:25:00,Diproses,Website,Bantul,DI Yogyakarta,35000.0,0.0
+297,421,2025-12-19 13:55:00,Selesai,Aplikasi,Yogyakarta,DI Yogyakarta,15000.0,10000.0
+298,305,2025-09-03 17:10:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,28000.0,0.0
+299,362,2025-06-17 13:35:00,Selesai,Aplikasi,Semarang,Jawa Tengah,18000.0,10000.0
+300,85,2023-06-23 19:20:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,35000.0,0.0
+301,274,2026-09-16 22:40:00,Selesai,Website,Denpasar,Bali,18000.0,0.0
+302,110,2026-07-16 17:30:00,Selesai,Aplikasi,Malang,Jawa Timur,28000.0,10000.0
+303,153,2023-01-11 13:55:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,9000.0,5000.0
+304,275,2025-06-17 18:35:00,Selesai,Aplikasi,Yogyakarta,DI Yogyakarta,18000.0,0.0
+305,216,2025-10-11 20:50:00,Selesai,Aplikasi,Bandung,Jawa Barat,35000.0,20000.0
+306,378,2025-09-10 12:20:00,Selesai,Marketplace,Bantul,DI Yogyakarta,12000.0,10000.0
+307,401,2026-06-05 10:15:00,Dikembalikan,Aplikasi,Depok,Jawa Barat,28000.0,0.0
+308,195,2024-09-19 19:50:00,Dikembalikan,Website,Bogor,Jawa Barat,18000.0,5000.0
+309,365,2024-10-17 22:00:00,Selesai,Website,Padang,Sumatera Barat,28000.0,15000.0
+310,7,2024-11-09 13:55:00,Dikirim,Marketplace,Semarang,Jawa Tengah,22000.0,10000.0
+311,39,2024-12-03 12:55:00,Selesai,Marketplace,Bantul,DI Yogyakarta,22000.0,15000.0
+312,35,2025-12-08 22:40:00,Diproses,Website,Jakarta,DKI Jakarta,15000.0,15000.0
+313,351,2025-11-17 09:10:00,Selesai,Aplikasi,Pekanbaru,Riau,22000.0,20000.0
+314,138,2023-12-17 11:00:00,Selesai,Aplikasi,Semarang,Jawa Tengah,28000.0,0.0
+315,485,2024-06-24 19:10:00,Selesai,Aplikasi,Pekanbaru,Riau,15000.0,0.0
+316,370,2026-09-01 12:50:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,35000.0,5000.0
+317,462,2025-10-12 10:35:00,Selesai,Marketplace,Malang,Jawa Timur,12000.0,10000.0
+318,371,2023-01-25 17:05:00,Selesai,Website,Surabaya,Jawa Timur,35000.0,0.0
+319,491,2024-11-24 21:55:00,Selesai,Website,Pekanbaru,Riau,35000.0,10000.0
+320,73,2024-04-04 08:15:00,Selesai,Website,Bantul,DI Yogyakarta,28000.0,0.0
+321,183,2024-11-14 09:25:00,Dibatalkan,Marketplace,Pontianak,Kalimantan Barat,9000.0,10000.0
+322,179,2025-10-19 18:25:00,Dibatalkan,Marketplace,Malang,Jawa Timur,28000.0,20000.0
+323,229,2023-05-18 09:45:00,Selesai,Marketplace,Solo,Jawa Tengah,12000.0,0.0
+324,215,2026-01-08 16:35:00,Selesai,Marketplace,Pekanbaru,Riau,18000.0,0.0
+325,151,2026-02-03 22:30:00,Selesai,Marketplace,Tangerang,Banten,9000.0,15000.0
+326,245,2023-03-03 10:25:00,Selesai,Website,Medan,Sumatera Utara,9000.0,10000.0
+327,17,2023-12-22 16:10:00,Selesai,Marketplace,Padang,Sumatera Barat,28000.0,5000.0
+328,500,2023-06-08 21:55:00,Selesai,Aplikasi,Bandung,Jawa Barat,28000.0,5000.0
+329,6,2024-01-20 16:15:00,Selesai,Website,Bogor,Jawa Barat,15000.0,0.0
+330,209,2023-07-26 16:10:00,Selesai,Marketplace,Depok,Jawa Barat,18000.0,10000.0
+331,414,2023-11-26 16:40:00,Dikembalikan,Aplikasi,Semarang,Jawa Tengah,22000.0,20000.0
+332,491,2026-07-09 15:05:00,Dikirim,Website,Medan,Sumatera Utara,35000.0,0.0
+333,474,2023-09-11 17:35:00,Selesai,Marketplace,Bandung,Jawa Barat,18000.0,5000.0
+334,437,2025-02-08 10:45:00,Selesai,Website,Semarang,Jawa Tengah,18000.0,20000.0
+335,176,2024-03-11 19:55:00,Selesai,Aplikasi,Solo,Jawa Tengah,9000.0,10000.0
+336,28,2023-02-16 20:50:00,Selesai,Aplikasi,Depok,Jawa Barat,12000.0,0.0
+337,426,2025-05-27 13:20:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,18000.0,5000.0
+338,78,2025-10-19 21:25:00,Selesai,Marketplace,Semarang,Jawa Tengah,18000.0,0.0
+339,296,2025-01-15 08:20:00,Dikirim,Aplikasi,Tangerang,Banten,35000.0,0.0
+340,196,2026-09-12 19:50:00,Selesai,Aplikasi,Depok,Jawa Barat,22000.0,20000.0
+341,255,2026-01-20 09:50:00,Selesai,Aplikasi,Bantul,DI Yogyakarta,9000.0,15000.0
+342,482,2024-04-03 16:20:00,Selesai,Aplikasi,Medan,Sumatera Utara,15000.0,20000.0
+343,285,2026-06-16 18:30:00,Dikirim,Marketplace,Makassar,Sulawesi Selatan,22000.0,5000.0
+344,259,2026-03-27 20:30:00,Dikirim,Aplikasi,Balikpapan,Kalimantan Timur,15000.0,20000.0
+345,399,2024-05-05 18:15:00,Selesai,Aplikasi,Padang,Sumatera Barat,12000.0,15000.0
+346,48,2025-01-10 22:15:00,Selesai,Aplikasi,Surabaya,Jawa Timur,9000.0,5000.0
+347,466,2023-11-26 10:20:00,Selesai,Website,Depok,Jawa Barat,22000.0,15000.0
+348,59,2024-11-01 10:15:00,Selesai,Aplikasi,Jakarta,DKI Jakarta,12000.0,0.0
+349,102,2025-03-15 09:45:00,Diproses,Aplikasi,Malang,Jawa Timur,12000.0,20000.0
+350,56,2025-05-29 11:45:00,Selesai,Marketplace,Solo,Jawa Tengah,35000.0,0.0
+351,126,2026-09-07 13:25:00,Selesai,Aplikasi,Pekanbaru,Riau,9000.0,0.0
+352,146,2025-12-15 11:05:00,Selesai,Marketplace,Depok,Jawa Barat,35000.0,20000.0
+353,411,2023-04-06 12:30:00,Selesai,Aplikasi,Bandung,Jawa Barat,22000.0,0.0
+354,425,2024-07-16 13:25:00,Selesai,Aplikasi,Bogor,Jawa Barat,15000.0,5000.0
+355,46,2025-01-25 21:40:00,Dikembalikan,Marketplace,Denpasar,Bali,35000.0,0.0
+356,62,2023-10-31 20:45:00,Dikirim,Marketplace,Makassar,Sulawesi Selatan,18000.0,15000.0
+357,286,2026-09-12 18:55:00,Dikirim,Aplikasi,Denpasar,Bali,9000.0,5000.0
+358,175,2026-04-24 20:40:00,Selesai,Aplikasi,Depok,Jawa Barat,15000.0,15000.0
+359,158,2026-08-20 09:10:00,Selesai,Website,Pontianak,Kalimantan Barat,9000.0,0.0
+360,61,2024-12-26 14:15:00,Selesai,Aplikasi,Surabaya,Jawa Timur,22000.0,0.0
+361,97,2026-05-01 12:40:00,Selesai,Aplikasi,Bekasi,Jawa Barat,9000.0,15000.0
+362,123,2023-07-26 12:15:00,Dikirim,Aplikasi,Tangerang,Banten,18000.0,5000.0
+363,245,2023-12-15 13:50:00,Selesai,Website,Denpasar,Bali,18000.0,0.0
+364,390,2024-12-22 15:45:00,Selesai,Marketplace,Bantul,DI Yogyakarta,18000.0,0.0
+365,52,2024-11-18 15:35:00,Diproses,Marketplace,Denpasar,Bali,15000.0,15000.0
+366,211,2025-01-01 15:00:00,Selesai,Marketplace,Semarang,Jawa Tengah,18000.0,0.0
+367,179,2026-04-21 14:20:00,Selesai,Website,Palembang,Sumatera Selatan,22000.0,15000.0
+368,495,2026-02-17 18:10:00,Selesai,Aplikasi,Pekanbaru,Riau,35000.0,0.0
+369,221,2023-01-02 08:20:00,Selesai,Marketplace,Makassar,Sulawesi Selatan,35000.0,20000.0
+370,496,2024-09-10 17:20:00,Selesai,Aplikasi,Malang,Jawa Timur,15000.0,20000.0
+371,161,2025-01-02 15:25:00,Selesai,Aplikasi,Medan,Sumatera Utara,18000.0,5000.0
+372,263,2026-06-25 16:45:00,Dikirim,Website,Solo,Jawa Tengah,35000.0,5000.0
+373,305,2024-08-18 17:35:00,Selesai,Marketplace,Denpasar,Bali,9000.0,15000.0
+374,353,2023-05-18 08:10:00,Selesai,Website,Depok,Jawa Barat,9000.0,0.0
+375,431,2026-06-08 18:35:00,Dikirim,Aplikasi,Malang,Jawa Timur,18000.0,0.0
+376,103,2024-08-16 12:50:00,Selesai,Aplikasi,Bekasi,Jawa Barat,15000.0,15000.0
+377,156,2026-08-25 22:50:00,Selesai,Website,Denpasar,Bali,15000.0,0.0
+378,369,2025-07-30 19:10:00,Selesai,Marketplace,Bogor,Jawa Barat,15000.0,5000.0
+379,270,2024-10-25 17:45:00,Selesai,Aplikasi,Depok,Jawa Barat,18000.0,0.0
+380,244,2024-04-19 20:55:00,Diproses,Website,Pontianak,Kalimantan Barat,12000.0,15000.0
+381,358,2023-09-30 18:45:00,Selesai,Website,Pontianak,Kalimantan Barat,18000.0,5000.0
+382,397,2026-01-24 21:05:00,Selesai,Aplikasi,Jakarta,DKI Jakarta,28000.0,15000.0
+383,61,2023-04-16 17:40:00,Selesai,Website,Solo,Jawa Tengah,15000.0,20000.0
+384,30,2023-08-16 17:35:00,Dibatalkan,Marketplace,Denpasar,Bali,28000.0,0.0
+385,419,2024-04-27 15:05:00,Dikirim,Aplikasi,Bandung,Jawa Barat,22000.0,15000.0
+386,485,2023-03-27 09:00:00,Selesai,Website,Pekanbaru,Riau,15000.0,5000.0
+387,219,2023-08-25 15:05:00,Dikirim,Marketplace,Medan,Sumatera Utara,15000.0,0.0
+388,24,2024-05-26 21:00:00,Selesai,Website,Jakarta,DKI Jakarta,12000.0,0.0
+389,337,2023-06-07 09:20:00,Dibatalkan,Website,Solo,Jawa Tengah,28000.0,15000.0
+390,258,2024-12-10 22:30:00,Selesai,Aplikasi,Denpasar,Bali,15000.0,0.0
+391,226,2025-07-18 09:00:00,Selesai,Website,Balikpapan,Kalimantan Timur,15000.0,10000.0
+392,157,2024-12-13 22:00:00,Dibatalkan,Marketplace,Pekanbaru,Riau,15000.0,20000.0
+393,488,2025-12-31 15:30:00,Selesai,Aplikasi,Bogor,Jawa Barat,22000.0,0.0
+394,152,2025-03-19 08:45:00,Selesai,Aplikasi,Pekanbaru,Riau,15000.0,20000.0
+395,142,2024-10-05 09:35:00,Selesai,Marketplace,Pekanbaru,Riau,15000.0,0.0
+396,117,2024-06-14 12:00:00,Selesai,Marketplace,Bantul,DI Yogyakarta,15000.0,10000.0
+397,122,2026-03-14 13:50:00,Selesai,Aplikasi,Surabaya,Jawa Timur,15000.0,0.0
+398,319,2025-01-24 08:20:00,Dibatalkan,Marketplace,Denpasar,Bali,9000.0,0.0
+399,295,2025-05-06 16:55:00,Selesai,Marketplace,Pontianak,Kalimantan Barat,35000.0,0.0
+400,41,2025-11-01 09:25:00,Selesai,Aplikasi,Bandung,Jawa Barat,18000.0,20000.0
+401,76,2026-07-19 22:15:00,Dikirim,Marketplace,Malang,Jawa Timur,9000.0,0.0
+402,446,2025-06-02 08:55:00,Selesai,Website,Jakarta,DKI Jakarta,22000.0,20000.0
+403,323,2025-06-11 12:35:00,Selesai,Marketplace,Bandung,Jawa Barat,28000.0,20000.0
+404,266,2025-11-06 21:30:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,35000.0,0.0
+405,146,2024-08-12 12:35:00,Selesai,Marketplace,Depok,Jawa Barat,15000.0,0.0
+406,105,2026-03-15 14:55:00,Selesai,Website,Surabaya,Jawa Timur,18000.0,0.0
+407,143,2024-12-25 20:05:00,Diproses,Website,Yogyakarta,DI Yogyakarta,9000.0,0.0
+408,222,2025-12-03 13:15:00,Dikirim,Aplikasi,Pekanbaru,Riau,28000.0,0.0
+409,241,2024-01-19 19:35:00,Selesai,Website,Semarang,Jawa Tengah,9000.0,10000.0
+410,324,2026-07-30 13:35:00,Selesai,Marketplace,Palembang,Sumatera Selatan,15000.0,20000.0
+411,494,2025-05-09 15:25:00,Selesai,Aplikasi,Bogor,Jawa Barat,12000.0,5000.0
+412,138,2025-04-17 08:40:00,Diproses,Aplikasi,Semarang,Jawa Tengah,15000.0,5000.0
+413,106,2026-06-10 17:25:00,Selesai,Aplikasi,Yogyakarta,DI Yogyakarta,28000.0,0.0
+414,467,2025-04-26 11:40:00,Diproses,Marketplace,Bandung,Jawa Barat,9000.0,20000.0
+415,81,2023-02-19 11:50:00,Diproses,Website,Malang,Jawa Timur,15000.0,15000.0
+416,40,2025-04-30 08:00:00,Diproses,Aplikasi,Solo,Jawa Tengah,12000.0,0.0
+417,496,2024-07-24 15:20:00,Dibatalkan,Aplikasi,Solo,Jawa Tengah,12000.0,5000.0
+418,500,2024-04-20 15:25:00,Selesai,Website,Bandung,Jawa Barat,15000.0,0.0
+419,430,2026-03-06 20:15:00,Selesai,Aplikasi,Makassar,Sulawesi Selatan,18000.0,0.0
+420,121,2025-09-16 16:40:00,Dikirim,Marketplace,Malang,Jawa Timur,9000.0,0.0
+421,412,2023-10-14 19:40:00,Selesai,Website,Palembang,Sumatera Selatan,9000.0,5000.0
+422,191,2024-05-29 15:35:00,Selesai,Aplikasi,Semarang,Jawa Tengah,28000.0,15000.0
+423,360,2023-07-12 16:35:00,Selesai,Website,Pontianak,Kalimantan Barat,18000.0,10000.0
+424,157,2025-04-05 22:20:00,Selesai,Aplikasi,Pekanbaru,Riau,12000.0,0.0
+425,402,2024-03-19 09:45:00,Selesai,Website,Surabaya,Jawa Timur,35000.0,0.0
+426,362,2024-09-30 21:40:00,Selesai,Website,Semarang,Jawa Tengah,22000.0,20000.0
+427,461,2024-12-14 10:00:00,Dikirim,Marketplace,Depok,Jawa Barat,35000.0,15000.0
+428,301,2023-07-12 22:25:00,Dibatalkan,Aplikasi,Palembang,Sumatera Selatan,9000.0,10000.0
+429,475,2026-05-29 18:35:00,Selesai,Aplikasi,Depok,Jawa Barat,35000.0,15000.0
+430,336,2023-02-04 13:50:00,Dikirim,Aplikasi,Bekasi,Jawa Barat,28000.0,0.0
+431,210,2023-01-07 12:20:00,Selesai,Website,Bantul,DI Yogyakarta,18000.0,10000.0
+432,303,2023-02-11 20:10:00,Diproses,Website,Yogyakarta,DI Yogyakarta,15000.0,5000.0
+433,387,2023-04-20 14:55:00,Selesai,Aplikasi,Bogor,Jawa Barat,22000.0,0.0
+434,487,2023-11-15 16:45:00,Selesai,Marketplace,Palembang,Sumatera Selatan,15000.0,15000.0
+435,265,2024-01-17 15:10:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,22000.0,5000.0
+436,415,2026-04-30 17:55:00,Selesai,Aplikasi,Padang,Sumatera Barat,35000.0,0.0
+437,206,2023-12-02 16:10:00,Dibatalkan,Marketplace,Denpasar,Bali,28000.0,10000.0
+438,235,2025-08-01 08:50:00,Selesai,Marketplace,Denpasar,Bali,15000.0,0.0
+439,285,2023-01-11 15:10:00,Selesai,Aplikasi,Tangerang,Banten,28000.0,5000.0
+440,460,2026-10-13 19:30:00,Selesai,Aplikasi,Depok,Jawa Barat,15000.0,5000.0
+441,174,2024-01-04 14:10:00,Selesai,Aplikasi,Bekasi,Jawa Barat,35000.0,5000.0
+442,239,2023-07-27 18:30:00,Dikirim,Website,Tangerang,Banten,15000.0,0.0
+443,498,2024-01-02 14:40:00,Diproses,Marketplace,Bandung,Jawa Barat,9000.0,0.0
+444,417,2025-07-20 14:00:00,Selesai,Website,Padang,Sumatera Barat,35000.0,5000.0
+445,153,2026-05-05 09:25:00,Diproses,Aplikasi,Balikpapan,Kalimantan Timur,18000.0,0.0
+446,498,2026-06-18 11:55:00,Dikirim,Aplikasi,Bandung,Jawa Barat,9000.0,0.0
+447,95,2026-08-30 19:05:00,Dikirim,Aplikasi,Malang,Jawa Timur,9000.0,20000.0
+448,111,2024-07-16 19:55:00,Diproses,Aplikasi,Balikpapan,Kalimantan Timur,28000.0,0.0
+449,10,2023-05-11 17:20:00,Diproses,Aplikasi,Denpasar,Bali,18000.0,10000.0
+450,88,2024-06-07 14:00:00,Selesai,Aplikasi,Solo,Jawa Tengah,9000.0,15000.0
+451,290,2023-02-17 20:20:00,Selesai,Aplikasi,Solo,Jawa Tengah,12000.0,5000.0
+452,164,2026-09-22 22:50:00,Dikembalikan,Marketplace,Yogyakarta,DI Yogyakarta,15000.0,10000.0
+453,298,2025-05-06 14:15:00,Selesai,Aplikasi,Jakarta,DKI Jakarta,12000.0,10000.0
+454,436,2025-01-25 19:15:00,Selesai,Marketplace,Padang,Sumatera Barat,12000.0,0.0
+455,499,2026-08-06 09:45:00,Dikirim,Marketplace,Denpasar,Bali,12000.0,0.0
+456,332,2025-06-17 15:55:00,Selesai,Marketplace,Jakarta,DKI Jakarta,35000.0,20000.0
+457,389,2023-12-13 13:30:00,Selesai,Website,Yogyakarta,DI Yogyakarta,12000.0,20000.0
+458,133,2026-05-02 08:10:00,Selesai,Aplikasi,Tangerang,Banten,12000.0,0.0
+459,436,2024-09-12 10:45:00,Selesai,Aplikasi,Denpasar,Bali,22000.0,15000.0
+460,485,2024-04-05 12:15:00,Selesai,Aplikasi,Pekanbaru,Riau,35000.0,15000.0
+461,380,2026-09-22 08:30:00,Selesai,Marketplace,Bekasi,Jawa Barat,22000.0,0.0
+462,354,2023-03-24 17:20:00,Selesai,Website,Medan,Sumatera Utara,12000.0,15000.0
+463,238,2023-04-15 13:50:00,Selesai,Aplikasi,Padang,Sumatera Barat,18000.0,0.0
+464,129,2024-07-08 15:50:00,Selesai,Aplikasi,Bantul,DI Yogyakarta,22000.0,0.0
+465,254,2023-05-15 20:30:00,Selesai,Website,Palembang,Sumatera Selatan,35000.0,5000.0
+466,154,2026-03-15 18:10:00,Selesai,Website,Makassar,Sulawesi Selatan,18000.0,20000.0
+467,242,2025-01-29 10:20:00,Selesai,Aplikasi,Bogor,Jawa Barat,28000.0,0.0
+468,367,2025-02-03 08:25:00,Selesai,Aplikasi,Surabaya,Jawa Timur,22000.0,10000.0
+469,488,2026-09-12 14:55:00,Dibatalkan,Marketplace,Bandung,Jawa Barat,12000.0,0.0
+470,294,2023-06-30 15:15:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,28000.0,0.0
+471,186,2026-10-19 19:20:00,Selesai,Marketplace,Padang,Sumatera Barat,9000.0,0.0
+472,9,2023-03-07 16:25:00,Diproses,Aplikasi,Tangerang,Banten,22000.0,0.0
+473,82,2026-03-21 22:35:00,Selesai,Marketplace,Surabaya,Jawa Timur,35000.0,0.0
+474,320,2023-01-18 11:25:00,Selesai,Aplikasi,Jakarta,DKI Jakarta,12000.0,10000.0
+475,14,2023-03-22 20:10:00,Selesai,Marketplace,Semarang,Jawa Tengah,15000.0,20000.0
+476,14,2024-03-03 14:00:00,Selesai,Aplikasi,Semarang,Jawa Tengah,12000.0,20000.0
+477,108,2025-01-06 15:20:00,Selesai,Marketplace,Depok,Jawa Barat,9000.0,0.0
+478,488,2023-04-03 10:15:00,Selesai,Website,Bekasi,Jawa Barat,22000.0,0.0
+479,89,2025-11-28 10:55:00,Dikirim,Aplikasi,Bogor,Jawa Barat,15000.0,0.0
+480,456,2023-10-23 22:30:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,22000.0,15000.0
+481,244,2024-06-10 10:25:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,22000.0,15000.0
+482,116,2023-07-14 19:30:00,Selesai,Aplikasi,Bogor,Jawa Barat,12000.0,0.0
+483,339,2023-03-12 19:30:00,Selesai,Marketplace,Bogor,Jawa Barat,12000.0,0.0
+484,322,2025-04-10 15:15:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,18000.0,0.0
+485,135,2025-01-18 14:50:00,Selesai,Aplikasi,Bandung,Jawa Barat,9000.0,0.0
+486,114,2024-12-25 16:45:00,Diproses,Aplikasi,Makassar,Sulawesi Selatan,22000.0,10000.0
+487,192,2026-10-25 10:50:00,Selesai,Aplikasi,Bekasi,Jawa Barat,35000.0,20000.0
+488,165,2024-09-06 08:05:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,15000.0,0.0
+489,64,2026-10-08 10:15:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,35000.0,0.0
+490,339,2023-09-13 16:55:00,Selesai,Website,Bogor,Jawa Barat,35000.0,15000.0
+491,375,2026-05-11 21:25:00,Selesai,Marketplace,Medan,Sumatera Utara,18000.0,20000.0
+492,52,2024-05-12 17:35:00,Selesai,Aplikasi,Solo,Jawa Tengah,15000.0,0.0
+493,364,2025-03-17 19:55:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,18000.0,20000.0
+494,411,2025-07-24 21:20:00,Selesai,Aplikasi,Bandung,Jawa Barat,15000.0,0.0
+495,439,2024-12-21 17:40:00,Diproses,Marketplace,Palembang,Sumatera Selatan,12000.0,0.0
+496,173,2023-11-23 10:25:00,Selesai,Website,Tangerang,Banten,15000.0,10000.0
+497,69,2024-08-24 17:45:00,Dikembalikan,Aplikasi,Yogyakarta,DI Yogyakarta,12000.0,5000.0
+498,449,2026-08-19 20:15:00,Selesai,Aplikasi,Bekasi,Jawa Barat,9000.0,20000.0
+499,164,2023-06-07 19:10:00,Selesai,Marketplace,Makassar,Sulawesi Selatan,28000.0,0.0
+500,225,2025-06-12 09:10:00,Selesai,Aplikasi,Solo,Jawa Tengah,28000.0,0.0
+501,392,2024-03-16 18:35:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,15000.0,0.0
+502,387,2023-09-03 20:05:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,28000.0,0.0
+503,485,2025-03-04 20:30:00,Selesai,Aplikasi,Pekanbaru,Riau,35000.0,0.0
+504,117,2026-08-18 18:05:00,Selesai,Marketplace,Bantul,DI Yogyakarta,22000.0,0.0
+505,494,2023-01-10 13:30:00,Selesai,Marketplace,Jakarta,DKI Jakarta,22000.0,10000.0
+506,362,2025-11-05 10:35:00,Selesai,Website,Medan,Sumatera Utara,22000.0,20000.0
+507,461,2024-01-31 17:10:00,Dikembalikan,Marketplace,Depok,Jawa Barat,18000.0,15000.0
+508,47,2024-10-18 22:40:00,Selesai,Marketplace,Pontianak,Kalimantan Barat,22000.0,5000.0
+509,255,2023-04-23 16:00:00,Selesai,Website,Bogor,Jawa Barat,22000.0,15000.0
+510,190,2024-03-15 09:35:00,Dibatalkan,Marketplace,Bandung,Jawa Barat,28000.0,0.0
+511,196,2023-08-27 22:20:00,Selesai,Website,Depok,Jawa Barat,35000.0,20000.0
+512,482,2025-04-18 19:00:00,Selesai,Aplikasi,Malang,Jawa Timur,15000.0,20000.0
+513,327,2023-11-22 22:35:00,Selesai,Aplikasi,Semarang,Jawa Tengah,12000.0,15000.0
+514,66,2023-03-15 15:35:00,Selesai,Website,Solo,Jawa Tengah,35000.0,5000.0
+515,394,2025-10-28 20:15:00,Diproses,Marketplace,Surabaya,Jawa Timur,9000.0,10000.0
+516,103,2025-03-12 14:10:00,Dibatalkan,Aplikasi,Bandung,Jawa Barat,12000.0,0.0
+517,83,2024-10-12 08:05:00,Selesai,Aplikasi,Surabaya,Jawa Timur,22000.0,0.0
+518,11,2025-09-02 22:45:00,Selesai,Aplikasi,Pekanbaru,Riau,22000.0,5000.0
+519,132,2023-02-12 14:20:00,Selesai,Aplikasi,Tangerang,Banten,28000.0,10000.0
+520,238,2024-10-29 18:30:00,Selesai,Aplikasi,Padang,Sumatera Barat,12000.0,0.0
+521,158,2023-10-17 15:05:00,Selesai,Aplikasi,Bogor,Jawa Barat,35000.0,20000.0
+522,329,2024-02-10 10:30:00,Selesai,Website,Tangerang,Banten,28000.0,0.0
+523,78,2023-05-16 13:45:00,Dibatalkan,Aplikasi,Bogor,Jawa Barat,35000.0,5000.0
+524,359,2023-08-21 18:10:00,Dibatalkan,Website,Denpasar,Bali,9000.0,0.0
+525,454,2023-06-24 22:25:00,Selesai,Website,Makassar,Sulawesi Selatan,15000.0,15000.0
+526,144,2025-09-29 13:10:00,Selesai,Website,Jakarta,DKI Jakarta,15000.0,0.0
+527,103,2025-03-06 08:55:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,15000.0,0.0
+528,125,2025-02-03 09:10:00,Selesai,Website,Tangerang,Banten,9000.0,20000.0
+529,495,2026-07-16 21:25:00,Diproses,Website,Padang,Sumatera Barat,9000.0,0.0
+530,26,2024-10-18 18:40:00,Selesai,Marketplace,Palembang,Sumatera Selatan,28000.0,5000.0
+531,96,2023-11-29 14:50:00,Dikirim,Aplikasi,Denpasar,Bali,18000.0,10000.0
+532,253,2023-05-04 17:30:00,Selesai,Marketplace,Solo,Jawa Tengah,28000.0,5000.0
+533,492,2024-06-21 19:25:00,Selesai,Marketplace,Semarang,Jawa Tengah,18000.0,0.0
+534,79,2025-02-28 14:00:00,Dikirim,Marketplace,Surabaya,Jawa Timur,18000.0,20000.0
+535,201,2024-07-08 13:15:00,Selesai,Aplikasi,Medan,Sumatera Utara,15000.0,20000.0
+536,483,2024-03-19 14:35:00,Selesai,Aplikasi,Bekasi,Jawa Barat,12000.0,0.0
+537,229,2024-05-19 11:25:00,Selesai,Marketplace,Tangerang,Banten,15000.0,15000.0
+538,241,2025-11-12 22:05:00,Selesai,Website,Bekasi,Jawa Barat,15000.0,0.0
+539,75,2025-09-19 13:45:00,Dikirim,Website,Bekasi,Jawa Barat,35000.0,15000.0
+540,217,2024-09-02 12:15:00,Selesai,Website,Jakarta,DKI Jakarta,28000.0,15000.0
+541,311,2023-11-30 17:10:00,Selesai,Website,Pontianak,Kalimantan Barat,9000.0,20000.0
+542,330,2026-03-04 20:45:00,Selesai,Aplikasi,Semarang,Jawa Tengah,28000.0,15000.0
+543,174,2024-12-04 20:05:00,Selesai,Aplikasi,Bekasi,Jawa Barat,22000.0,5000.0
+544,22,2024-04-21 10:10:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,35000.0,15000.0
+545,360,2025-01-23 16:10:00,Selesai,Website,Pontianak,Kalimantan Barat,9000.0,15000.0
+546,105,2023-03-27 14:05:00,Diproses,Marketplace,Surabaya,Jawa Timur,12000.0,20000.0
+547,7,2024-01-06 21:25:00,Selesai,Marketplace,Palembang,Sumatera Selatan,18000.0,15000.0
+548,318,2023-01-23 12:00:00,Selesai,Aplikasi,Tangerang,Banten,22000.0,0.0
+549,214,2024-09-01 20:00:00,Dikirim,Aplikasi,Balikpapan,Kalimantan Timur,15000.0,5000.0
+550,234,2026-02-15 12:20:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,9000.0,15000.0
+551,460,2023-05-10 20:20:00,Selesai,Marketplace,Depok,Jawa Barat,12000.0,20000.0
+552,367,2024-08-09 13:05:00,Selesai,Aplikasi,Bandung,Jawa Barat,18000.0,10000.0
+553,298,2025-08-15 13:20:00,Selesai,Aplikasi,Jakarta,DKI Jakarta,18000.0,15000.0
+554,277,2023-11-23 21:45:00,Selesai,Marketplace,Yogyakarta,DI Yogyakarta,12000.0,20000.0
+555,167,2026-01-28 22:30:00,Selesai,Marketplace,Tangerang,Banten,12000.0,10000.0
+556,74,2024-05-10 20:30:00,Selesai,Website,Bogor,Jawa Barat,28000.0,0.0
+557,484,2025-04-05 08:55:00,Selesai,Aplikasi,Bogor,Jawa Barat,15000.0,0.0
+558,243,2026-01-08 20:05:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,15000.0,15000.0
+559,241,2024-09-26 16:55:00,Dikirim,Website,Semarang,Jawa Tengah,18000.0,0.0
+560,93,2026-03-03 14:40:00,Selesai,Website,Solo,Jawa Tengah,22000.0,0.0
+561,175,2025-10-07 11:55:00,Selesai,Marketplace,Pontianak,Kalimantan Barat,9000.0,0.0
+562,269,2026-07-24 16:05:00,Selesai,Website,Tangerang,Banten,18000.0,10000.0
+563,338,2026-02-15 12:35:00,Selesai,Marketplace,Tangerang,Banten,12000.0,10000.0
+564,5,2023-10-08 13:15:00,Dikirim,Marketplace,Padang,Sumatera Barat,12000.0,15000.0
+565,290,2026-07-07 20:30:00,Dikirim,Aplikasi,Solo,Jawa Tengah,12000.0,20000.0
+566,384,2026-06-13 20:40:00,Dikirim,Aplikasi,Solo,Jawa Tengah,35000.0,15000.0
+567,361,2026-08-06 08:25:00,Selesai,Aplikasi,Semarang,Jawa Tengah,28000.0,20000.0
+568,339,2025-08-19 13:05:00,Selesai,Marketplace,Semarang,Jawa Tengah,22000.0,10000.0
+569,218,2024-01-21 20:45:00,Dikirim,Website,Bekasi,Jawa Barat,35000.0,15000.0
+570,307,2024-01-10 22:50:00,Dikirim,Aplikasi,Bekasi,Jawa Barat,18000.0,5000.0
+571,416,2025-07-20 22:40:00,Selesai,Aplikasi,Solo,Jawa Tengah,22000.0,5000.0
+572,72,2025-01-10 20:00:00,Selesai,Website,Medan,Sumatera Utara,9000.0,10000.0
+573,293,2024-12-25 21:15:00,Selesai,Aplikasi,Pekanbaru,Riau,15000.0,20000.0
+574,64,2025-04-12 11:15:00,Selesai,Website,Semarang,Jawa Tengah,12000.0,0.0
+575,228,2025-02-26 21:45:00,Diproses,Website,Medan,Sumatera Utara,35000.0,0.0
+576,430,2024-02-25 13:10:00,Selesai,Aplikasi,Makassar,Sulawesi Selatan,28000.0,15000.0
+577,366,2026-03-16 13:25:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,28000.0,5000.0
+578,187,2024-04-13 09:55:00,Dibatalkan,Website,Bogor,Jawa Barat,28000.0,10000.0
+579,143,2024-04-14 14:20:00,Selesai,Website,Medan,Sumatera Utara,35000.0,0.0
+580,390,2024-01-02 10:40:00,Dibatalkan,Website,Bekasi,Jawa Barat,9000.0,0.0
+581,434,2026-06-01 21:25:00,Selesai,Aplikasi,Malang,Jawa Timur,12000.0,5000.0
+582,271,2026-02-01 16:55:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,28000.0,10000.0
+583,308,2023-08-25 17:30:00,Selesai,Aplikasi,Bogor,Jawa Barat,9000.0,0.0
+584,130,2025-08-13 19:35:00,Selesai,Website,Pekanbaru,Riau,12000.0,5000.0
+585,466,2026-08-31 21:30:00,Selesai,Aplikasi,Depok,Jawa Barat,35000.0,10000.0
+586,409,2024-12-11 17:25:00,Selesai,Website,Medan,Sumatera Utara,22000.0,10000.0
+587,35,2025-02-12 13:50:00,Selesai,Marketplace,Semarang,Jawa Tengah,28000.0,0.0
+588,489,2025-05-06 17:15:00,Selesai,Marketplace,Surabaya,Jawa Timur,12000.0,5000.0
+589,373,2024-06-12 17:40:00,Selesai,Marketplace,Solo,Jawa Tengah,28000.0,0.0
+590,169,2025-10-18 19:30:00,Selesai,Aplikasi,Bogor,Jawa Barat,35000.0,20000.0
+591,381,2026-03-06 13:20:00,Selesai,Website,Solo,Jawa Tengah,18000.0,15000.0
+592,16,2025-01-28 09:20:00,Selesai,Marketplace,Bogor,Jawa Barat,18000.0,5000.0
+593,479,2023-04-16 08:35:00,Selesai,Website,Semarang,Jawa Tengah,35000.0,0.0
+594,422,2024-07-01 17:20:00,Selesai,Aplikasi,Yogyakarta,DI Yogyakarta,35000.0,10000.0
+595,437,2023-11-30 19:35:00,Dikirim,Aplikasi,Semarang,Jawa Tengah,22000.0,0.0
+596,41,2023-08-30 10:05:00,Dikembalikan,Website,Bandung,Jawa Barat,28000.0,0.0
+597,336,2023-11-17 14:15:00,Selesai,Website,Bekasi,Jawa Barat,35000.0,20000.0
+598,446,2025-05-01 09:35:00,Dikirim,Aplikasi,Malang,Jawa Timur,9000.0,0.0
+599,365,2026-06-13 13:25:00,Selesai,Aplikasi,Padang,Sumatera Barat,35000.0,10000.0
+600,314,2025-06-09 20:55:00,Dikirim,Aplikasi,Makassar,Sulawesi Selatan,28000.0,10000.0
+601,136,2026-08-28 21:00:00,Dikirim,Aplikasi,Surabaya,Jawa Timur,22000.0,0.0
+602,445,2026-05-14 18:00:00,Selesai,Aplikasi,Bogor,Jawa Barat,22000.0,15000.0
+603,150,2025-05-01 10:30:00,Selesai,Website,Surabaya,Jawa Timur,9000.0,20000.0
+604,173,2025-12-30 15:40:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,15000.0,20000.0
+605,10,2023-06-26 09:10:00,Selesai,Website,Bantul,DI Yogyakarta,35000.0,15000.0
+606,117,2026-02-15 20:35:00,Selesai,Aplikasi,Solo,Jawa Tengah,12000.0,0.0
+607,384,2025-08-07 09:10:00,Dikirim,Aplikasi,Bekasi,Jawa Barat,22000.0,20000.0
+608,320,2024-05-18 12:40:00,Dikirim,Aplikasi,Bekasi,Jawa Barat,35000.0,0.0
+609,436,2023-06-02 16:25:00,Selesai,Aplikasi,Denpasar,Bali,15000.0,5000.0
+610,307,2023-08-21 09:20:00,Diproses,Aplikasi,Tangerang,Banten,9000.0,0.0
+611,386,2025-05-10 09:50:00,Selesai,Marketplace,Bogor,Jawa Barat,12000.0,0.0
+612,136,2026-02-23 22:15:00,Selesai,Website,Surabaya,Jawa Timur,28000.0,10000.0
+613,491,2024-05-03 14:00:00,Selesai,Marketplace,Depok,Jawa Barat,22000.0,20000.0
+614,208,2026-03-30 12:20:00,Selesai,Marketplace,Balikpapan,Kalimantan Timur,9000.0,15000.0
+615,21,2024-05-26 19:00:00,Diproses,Aplikasi,Surabaya,Jawa Timur,12000.0,0.0
+616,76,2025-01-25 13:30:00,Selesai,Aplikasi,Yogyakarta,DI Yogyakarta,15000.0,5000.0
+617,130,2025-08-07 10:00:00,Diproses,Marketplace,Pekanbaru,Riau,28000.0,5000.0
+618,443,2025-09-03 14:20:00,Selesai,Website,Yogyakarta,DI Yogyakarta,12000.0,0.0
+619,354,2026-09-10 16:20:00,Diproses,Website,Palembang,Sumatera Selatan,22000.0,0.0
+620,322,2025-12-18 08:10:00,Dibatalkan,Aplikasi,Bantul,DI Yogyakarta,28000.0,20000.0
+621,50,2026-07-03 11:15:00,Selesai,Marketplace,Malang,Jawa Timur,15000.0,5000.0
+622,444,2025-08-14 14:40:00,Dikembalikan,Website,Bekasi,Jawa Barat,28000.0,10000.0
+623,314,2024-05-27 20:45:00,Selesai,Aplikasi,Makassar,Sulawesi Selatan,35000.0,0.0
+624,408,2024-11-08 09:05:00,Selesai,Website,Depok,Jawa Barat,22000.0,0.0
+625,50,2023-02-13 18:20:00,Selesai,Marketplace,Pontianak,Kalimantan Barat,12000.0,15000.0
+626,231,2023-10-03 08:05:00,Diproses,Marketplace,Medan,Sumatera Utara,15000.0,15000.0
+627,44,2023-05-30 10:30:00,Selesai,Website,Makassar,Sulawesi Selatan,35000.0,0.0
+628,291,2025-07-08 14:10:00,Selesai,Marketplace,Solo,Jawa Tengah,15000.0,0.0
+629,118,2023-08-20 16:35:00,Selesai,Aplikasi,Pekanbaru,Riau,28000.0,15000.0
+630,276,2024-11-25 16:40:00,Selesai,Aplikasi,Bantul,DI Yogyakarta,22000.0,0.0
+631,217,2023-06-14 19:25:00,Selesai,Aplikasi,Pekanbaru,Riau,35000.0,0.0
+632,388,2023-06-16 09:55:00,Selesai,Marketplace,Pontianak,Kalimantan Barat,9000.0,5000.0
+633,343,2025-09-03 12:35:00,Selesai,Marketplace,Palembang,Sumatera Selatan,12000.0,0.0
+634,194,2024-11-30 09:25:00,Diproses,Aplikasi,Makassar,Sulawesi Selatan,12000.0,5000.0
+635,22,2023-03-22 18:35:00,Selesai,Website,Palembang,Sumatera Selatan,18000.0,10000.0
+636,3,2024-06-13 21:50:00,Selesai,Marketplace,Bekasi,Jawa Barat,18000.0,0.0
+637,153,2024-05-12 22:30:00,Diproses,Website,Balikpapan,Kalimantan Timur,28000.0,15000.0
+638,207,2024-11-27 16:50:00,Selesai,Website,Tangerang,Banten,35000.0,15000.0
+639,492,2023-02-16 20:15:00,Diproses,Aplikasi,Depok,Jawa Barat,22000.0,15000.0
+640,105,2024-12-28 11:40:00,Selesai,Aplikasi,Makassar,Sulawesi Selatan,28000.0,0.0
+641,111,2026-08-11 13:15:00,Selesai,Aplikasi,Bogor,Jawa Barat,9000.0,15000.0
+642,492,2025-04-13 20:40:00,Diproses,Aplikasi,Semarang,Jawa Tengah,9000.0,0.0
+643,66,2023-01-27 11:55:00,Selesai,Aplikasi,Depok,Jawa Barat,28000.0,5000.0
+644,454,2024-09-29 17:05:00,Dikirim,Marketplace,Makassar,Sulawesi Selatan,28000.0,20000.0
+645,232,2024-11-22 14:05:00,Selesai,Marketplace,Denpasar,Bali,28000.0,15000.0
+646,24,2023-07-16 09:55:00,Selesai,Marketplace,Depok,Jawa Barat,9000.0,0.0
+647,165,2023-07-24 10:15:00,Selesai,Aplikasi,Makassar,Sulawesi Selatan,9000.0,20000.0
+648,494,2024-05-10 12:40:00,Selesai,Aplikasi,Semarang,Jawa Tengah,18000.0,20000.0
+649,331,2023-09-12 08:05:00,Selesai,Aplikasi,Denpasar,Bali,28000.0,0.0
+650,216,2025-02-08 21:50:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,22000.0,20000.0
+651,292,2024-02-03 10:15:00,Selesai,Marketplace,Surabaya,Jawa Timur,35000.0,20000.0
+652,80,2023-08-30 15:30:00,Dikembalikan,Website,Surabaya,Jawa Timur,18000.0,0.0
+653,333,2025-12-01 10:50:00,Dikirim,Marketplace,Bekasi,Jawa Barat,35000.0,20000.0
+654,391,2026-10-17 10:30:00,Selesai,Website,Depok,Jawa Barat,22000.0,5000.0
+655,432,2024-06-30 14:40:00,Selesai,Aplikasi,Padang,Sumatera Barat,35000.0,0.0
+656,343,2026-06-07 13:00:00,Selesai,Website,Palembang,Sumatera Selatan,22000.0,0.0
+657,374,2026-07-29 12:20:00,Selesai,Aplikasi,Medan,Sumatera Utara,18000.0,10000.0
+658,409,2025-10-04 19:50:00,Dikirim,Marketplace,Medan,Sumatera Utara,9000.0,0.0
+659,104,2025-04-01 09:35:00,Selesai,Website,Pekanbaru,Riau,9000.0,0.0
+660,240,2026-03-20 13:30:00,Selesai,Website,Medan,Sumatera Utara,9000.0,15000.0
+661,105,2025-03-26 15:40:00,Selesai,Website,Yogyakarta,DI Yogyakarta,18000.0,15000.0
+662,88,2024-11-27 19:35:00,Diproses,Aplikasi,Solo,Jawa Tengah,18000.0,0.0
+663,403,2026-07-27 14:30:00,Selesai,Marketplace,Pekanbaru,Riau,18000.0,5000.0
+664,392,2026-01-12 10:05:00,Selesai,Website,Padang,Sumatera Barat,12000.0,15000.0
+665,292,2023-05-30 16:50:00,Diproses,Website,Surabaya,Jawa Timur,22000.0,0.0
+666,278,2026-01-24 21:00:00,Dibatalkan,Website,Makassar,Sulawesi Selatan,9000.0,20000.0
+667,332,2026-05-25 13:55:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,9000.0,15000.0
+668,183,2026-01-19 14:35:00,Selesai,Website,Denpasar,Bali,35000.0,15000.0
+669,313,2025-02-26 16:10:00,Dikirim,Aplikasi,Bogor,Jawa Barat,18000.0,10000.0
+670,321,2023-04-17 19:20:00,Dikirim,Aplikasi,Tangerang,Banten,35000.0,0.0
+671,94,2025-08-01 17:30:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,35000.0,10000.0
+672,175,2024-06-17 09:50:00,Selesai,Aplikasi,Depok,Jawa Barat,22000.0,20000.0
+673,401,2024-04-02 21:40:00,Selesai,Marketplace,Yogyakarta,DI Yogyakarta,15000.0,0.0
+674,388,2026-10-24 12:20:00,Selesai,Website,Surabaya,Jawa Timur,28000.0,10000.0
+675,25,2024-11-14 17:15:00,Selesai,Website,Semarang,Jawa Tengah,35000.0,0.0
+676,318,2025-09-01 19:40:00,Selesai,Marketplace,Balikpapan,Kalimantan Timur,18000.0,20000.0
+677,316,2023-09-07 19:45:00,Selesai,Aplikasi,Semarang,Jawa Tengah,22000.0,15000.0
+678,479,2025-05-26 14:00:00,Dibatalkan,Marketplace,Semarang,Jawa Tengah,22000.0,10000.0
+679,494,2024-10-11 20:55:00,Dikirim,Aplikasi,Semarang,Jawa Tengah,22000.0,0.0
+680,328,2026-08-18 22:15:00,Selesai,Website,Pekanbaru,Riau,28000.0,20000.0
+681,268,2026-07-20 14:40:00,Diproses,Aplikasi,Semarang,Jawa Tengah,15000.0,0.0
+682,230,2024-08-22 18:30:00,Selesai,Website,Padang,Sumatera Barat,15000.0,20000.0
+683,157,2023-05-01 14:55:00,Selesai,Website,Pekanbaru,Riau,12000.0,5000.0
+684,403,2024-12-17 15:35:00,Selesai,Marketplace,Padang,Sumatera Barat,15000.0,10000.0
+685,284,2023-07-29 14:00:00,Selesai,Website,Pekanbaru,Riau,18000.0,0.0
+686,490,2026-06-13 11:55:00,Selesai,Website,Pontianak,Kalimantan Barat,9000.0,15000.0
+687,482,2025-05-05 09:35:00,Diproses,Aplikasi,Medan,Sumatera Utara,28000.0,5000.0
+688,313,2024-01-05 22:35:00,Selesai,Marketplace,Yogyakarta,DI Yogyakarta,22000.0,5000.0
+689,462,2025-12-15 22:35:00,Selesai,Website,Malang,Jawa Timur,28000.0,20000.0
+690,97,2023-04-02 12:40:00,Selesai,Marketplace,Bekasi,Jawa Barat,28000.0,5000.0
+691,473,2023-06-17 21:45:00,Dikirim,Aplikasi,Bogor,Jawa Barat,9000.0,5000.0
+692,330,2026-04-16 19:25:00,Selesai,Website,Semarang,Jawa Tengah,12000.0,5000.0
+693,312,2025-03-25 08:50:00,Selesai,Website,Semarang,Jawa Tengah,12000.0,0.0
+694,311,2023-08-26 09:30:00,Selesai,Website,Surabaya,Jawa Timur,12000.0,0.0
+695,478,2026-06-29 19:55:00,Selesai,Aplikasi,Bekasi,Jawa Barat,12000.0,5000.0
+696,350,2025-12-10 10:25:00,Dikirim,Aplikasi,Pekanbaru,Riau,15000.0,0.0
+697,430,2024-03-15 19:50:00,Selesai,Aplikasi,Jakarta,DKI Jakarta,35000.0,15000.0
+698,399,2023-10-16 15:00:00,Selesai,Aplikasi,Padang,Sumatera Barat,12000.0,5000.0
+699,442,2025-04-24 11:10:00,Selesai,Aplikasi,Semarang,Jawa Tengah,28000.0,0.0
+700,316,2025-04-10 15:45:00,Dibatalkan,Aplikasi,Semarang,Jawa Tengah,15000.0,5000.0
+701,55,2024-05-29 15:30:00,Selesai,Website,Makassar,Sulawesi Selatan,9000.0,20000.0
+702,231,2023-07-04 15:10:00,Selesai,Website,Medan,Sumatera Utara,9000.0,10000.0
+703,361,2023-06-22 11:40:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,12000.0,0.0
+704,290,2024-12-15 16:40:00,Selesai,Aplikasi,Solo,Jawa Tengah,28000.0,5000.0
+705,181,2025-12-10 11:10:00,Selesai,Aplikasi,Bogor,Jawa Barat,9000.0,0.0
+706,468,2023-02-10 19:50:00,Selesai,Website,Bekasi,Jawa Barat,35000.0,10000.0
+707,363,2023-12-19 08:20:00,Selesai,Aplikasi,Denpasar,Bali,35000.0,10000.0
+708,225,2025-02-21 17:40:00,Diproses,Website,Balikpapan,Kalimantan Timur,18000.0,0.0
+709,391,2024-01-10 11:55:00,Selesai,Aplikasi,Depok,Jawa Barat,22000.0,10000.0
+710,240,2025-08-01 21:40:00,Dikirim,Website,Medan,Sumatera Utara,18000.0,0.0
+711,351,2026-03-16 16:45:00,Selesai,Marketplace,Bantul,DI Yogyakarta,22000.0,5000.0
+712,418,2026-01-24 22:30:00,Dikirim,Aplikasi,Surabaya,Jawa Timur,12000.0,0.0
+713,192,2023-01-24 16:10:00,Selesai,Website,Bekasi,Jawa Barat,22000.0,0.0
+714,406,2026-10-05 14:40:00,Dibatalkan,Website,Bogor,Jawa Barat,28000.0,20000.0
+715,23,2026-02-04 18:15:00,Selesai,Aplikasi,Yogyakarta,DI Yogyakarta,35000.0,15000.0
+716,197,2024-06-26 22:45:00,Selesai,Aplikasi,Medan,Sumatera Utara,22000.0,0.0
+717,209,2026-01-24 10:00:00,Selesai,Aplikasi,Surabaya,Jawa Timur,35000.0,20000.0
+718,78,2025-06-30 17:45:00,Selesai,Website,Depok,Jawa Barat,35000.0,0.0
+719,418,2024-02-23 19:30:00,Selesai,Website,Denpasar,Bali,28000.0,5000.0
+720,206,2023-02-14 22:10:00,Selesai,Marketplace,Denpasar,Bali,35000.0,0.0
+721,34,2024-06-13 17:40:00,Selesai,Aplikasi,Semarang,Jawa Tengah,9000.0,10000.0
+722,276,2024-05-24 19:45:00,Selesai,Aplikasi,Bantul,DI Yogyakarta,18000.0,0.0
+723,357,2024-12-20 09:05:00,Selesai,Aplikasi,Bandung,Jawa Barat,28000.0,0.0
+724,264,2024-11-02 13:45:00,Selesai,Aplikasi,Malang,Jawa Timur,9000.0,0.0
+725,26,2025-06-11 12:10:00,Selesai,Marketplace,Padang,Sumatera Barat,15000.0,0.0
+726,133,2023-09-25 21:50:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,28000.0,0.0
+727,356,2023-11-25 21:10:00,Selesai,Website,Balikpapan,Kalimantan Timur,12000.0,20000.0
+728,467,2024-05-29 16:40:00,Selesai,Marketplace,Depok,Jawa Barat,9000.0,20000.0
+729,210,2026-07-31 20:30:00,Selesai,Marketplace,Medan,Sumatera Utara,12000.0,0.0
+730,237,2026-07-25 10:25:00,Dikembalikan,Marketplace,Bogor,Jawa Barat,12000.0,0.0
+731,157,2024-08-07 18:35:00,Selesai,Website,Pekanbaru,Riau,12000.0,20000.0
+732,392,2026-06-25 19:05:00,Selesai,Marketplace,Solo,Jawa Tengah,18000.0,20000.0
+733,195,2025-08-30 13:55:00,Selesai,Aplikasi,Surabaya,Jawa Timur,35000.0,20000.0
+734,198,2024-04-15 13:55:00,Selesai,Marketplace,Denpasar,Bali,15000.0,10000.0
+735,259,2023-05-18 21:30:00,Selesai,Website,Balikpapan,Kalimantan Timur,15000.0,0.0
+736,8,2026-08-26 20:55:00,Selesai,Website,Malang,Jawa Timur,22000.0,0.0
+737,271,2023-11-14 22:55:00,Selesai,Aplikasi,Bantul,DI Yogyakarta,15000.0,5000.0
+738,333,2025-07-09 10:40:00,Selesai,Aplikasi,Bekasi,Jawa Barat,9000.0,0.0
+739,265,2026-03-29 16:15:00,Selesai,Website,Bandung,Jawa Barat,35000.0,0.0
+740,223,2023-04-03 22:00:00,Selesai,Aplikasi,Bandung,Jawa Barat,28000.0,20000.0
+741,262,2024-07-19 14:40:00,Selesai,Website,Solo,Jawa Tengah,15000.0,5000.0
+742,463,2025-06-05 22:50:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,9000.0,0.0
+743,268,2025-01-22 20:40:00,Diproses,Aplikasi,Semarang,Jawa Tengah,22000.0,0.0
+744,120,2026-02-16 16:40:00,Dikirim,Aplikasi,Pekanbaru,Riau,18000.0,10000.0
+745,483,2025-06-02 22:55:00,Diproses,Aplikasi,Bekasi,Jawa Barat,35000.0,15000.0
+746,498,2025-09-23 15:20:00,Selesai,Aplikasi,Padang,Sumatera Barat,12000.0,5000.0
+747,224,2023-11-30 10:45:00,Dibatalkan,Aplikasi,Palembang,Sumatera Selatan,22000.0,0.0
+748,259,2026-03-29 10:10:00,Dikirim,Aplikasi,Balikpapan,Kalimantan Timur,35000.0,0.0
+749,471,2024-11-02 22:55:00,Dikirim,Aplikasi,Balikpapan,Kalimantan Timur,9000.0,0.0
+750,31,2026-08-06 19:00:00,Selesai,Aplikasi,Pekanbaru,Riau,9000.0,10000.0
+751,485,2023-04-20 21:45:00,Selesai,Website,Padang,Sumatera Barat,18000.0,0.0
+752,416,2026-03-08 16:35:00,Selesai,Aplikasi,Malang,Jawa Timur,12000.0,20000.0
+753,43,2023-05-25 08:20:00,Selesai,Website,Makassar,Sulawesi Selatan,35000.0,10000.0
+754,223,2025-05-29 15:15:00,Selesai,Website,Bandung,Jawa Barat,28000.0,0.0
+755,172,2025-06-28 22:20:00,Selesai,Aplikasi,Bantul,DI Yogyakarta,18000.0,10000.0
+756,22,2024-09-25 19:00:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,12000.0,0.0
+757,169,2025-03-07 08:50:00,Selesai,Website,Padang,Sumatera Barat,9000.0,5000.0
+758,471,2024-10-16 09:25:00,Selesai,Marketplace,Balikpapan,Kalimantan Timur,12000.0,0.0
+759,15,2023-04-09 08:30:00,Selesai,Aplikasi,Surabaya,Jawa Timur,12000.0,0.0
+760,450,2023-04-04 16:45:00,Selesai,Marketplace,Medan,Sumatera Utara,9000.0,0.0
+761,37,2025-04-14 15:45:00,Dibatalkan,Website,Pontianak,Kalimantan Barat,9000.0,5000.0
+762,435,2026-04-04 19:25:00,Dikirim,Website,Medan,Sumatera Utara,18000.0,5000.0
+763,55,2024-06-05 10:45:00,Selesai,Website,Makassar,Sulawesi Selatan,22000.0,15000.0
+764,24,2023-01-12 18:40:00,Selesai,Aplikasi,Depok,Jawa Barat,15000.0,0.0
+765,316,2026-10-21 13:35:00,Selesai,Marketplace,Bogor,Jawa Barat,22000.0,10000.0
+766,267,2024-06-07 15:35:00,Dikirim,Aplikasi,Semarang,Jawa Tengah,12000.0,0.0
+767,403,2026-03-19 22:35:00,Diproses,Aplikasi,Padang,Sumatera Barat,22000.0,0.0
+768,499,2023-07-12 14:40:00,Selesai,Marketplace,Denpasar,Bali,35000.0,20000.0
+769,412,2024-11-10 22:20:00,Dikirim,Aplikasi,Palembang,Sumatera Selatan,22000.0,0.0
+770,475,2023-10-05 18:10:00,Selesai,Website,Denpasar,Bali,15000.0,5000.0
+771,65,2023-09-19 08:50:00,Selesai,Website,Jakarta,DKI Jakarta,28000.0,15000.0
+772,258,2024-11-18 22:00:00,Selesai,Aplikasi,Denpasar,Bali,9000.0,15000.0
+773,463,2026-06-05 16:15:00,Selesai,Website,Jakarta,DKI Jakarta,9000.0,15000.0
+774,299,2024-03-22 09:00:00,Selesai,Marketplace,Depok,Jawa Barat,28000.0,10000.0
+775,286,2025-03-16 15:00:00,Selesai,Marketplace,Balikpapan,Kalimantan Timur,12000.0,0.0
+776,5,2026-05-23 14:10:00,Selesai,Website,Padang,Sumatera Barat,12000.0,5000.0
+777,165,2023-11-06 09:50:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,9000.0,10000.0
+778,287,2024-05-05 22:10:00,Diproses,Marketplace,Makassar,Sulawesi Selatan,15000.0,5000.0
+779,415,2023-06-11 19:25:00,Dikirim,Aplikasi,Surabaya,Jawa Timur,18000.0,0.0
+780,370,2024-02-13 13:15:00,Selesai,Aplikasi,Bekasi,Jawa Barat,35000.0,0.0
+781,474,2024-09-19 16:05:00,Dikirim,Website,Bantul,DI Yogyakarta,18000.0,10000.0
+782,70,2026-04-20 09:20:00,Selesai,Website,Bogor,Jawa Barat,35000.0,0.0
+783,419,2024-10-10 22:20:00,Selesai,Marketplace,Surabaya,Jawa Timur,18000.0,10000.0
+784,189,2023-07-09 22:40:00,Selesai,Website,Padang,Sumatera Barat,15000.0,20000.0
+785,495,2026-08-20 22:50:00,Selesai,Aplikasi,Pekanbaru,Riau,35000.0,0.0
+786,58,2023-05-07 18:00:00,Dibatalkan,Aplikasi,Pekanbaru,Riau,15000.0,20000.0
+787,78,2023-12-31 19:10:00,Selesai,Website,Bogor,Jawa Barat,18000.0,15000.0
+788,85,2023-09-07 11:30:00,Selesai,Aplikasi,Makassar,Sulawesi Selatan,12000.0,10000.0
+789,76,2026-08-03 19:35:00,Selesai,Aplikasi,Malang,Jawa Timur,22000.0,10000.0
+790,24,2025-03-07 17:35:00,Diproses,Website,Depok,Jawa Barat,22000.0,20000.0
+791,433,2024-03-31 22:40:00,Selesai,Aplikasi,Pekanbaru,Riau,12000.0,15000.0
+792,245,2025-06-25 20:20:00,Selesai,Website,Depok,Jawa Barat,12000.0,15000.0
+793,344,2023-11-12 19:50:00,Dikembalikan,Aplikasi,Pontianak,Kalimantan Barat,12000.0,0.0
+794,35,2025-12-24 08:20:00,Selesai,Marketplace,Yogyakarta,DI Yogyakarta,15000.0,0.0
+795,455,2024-03-26 20:30:00,Selesai,Aplikasi,Surabaya,Jawa Timur,22000.0,20000.0
+796,292,2023-12-23 22:50:00,Selesai,Aplikasi,Surabaya,Jawa Timur,18000.0,15000.0
+797,303,2026-01-25 15:25:00,Dikirim,Website,Yogyakarta,DI Yogyakarta,35000.0,0.0
+798,46,2023-05-31 11:45:00,Selesai,Marketplace,Denpasar,Bali,22000.0,5000.0
+799,334,2023-02-27 15:25:00,Selesai,Marketplace,Makassar,Sulawesi Selatan,22000.0,10000.0
+800,159,2025-11-15 18:55:00,Diproses,Aplikasi,Pontianak,Kalimantan Barat,12000.0,0.0
+801,397,2025-02-13 12:20:00,Selesai,Aplikasi,Jakarta,DKI Jakarta,15000.0,5000.0
+802,279,2025-06-10 15:30:00,Selesai,Aplikasi,Bandung,Jawa Barat,18000.0,0.0
+803,17,2024-05-15 13:25:00,Selesai,Aplikasi,Padang,Sumatera Barat,9000.0,10000.0
+804,26,2025-08-12 19:00:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,12000.0,10000.0
+805,431,2024-11-17 17:30:00,Selesai,Aplikasi,Semarang,Jawa Tengah,28000.0,5000.0
+806,292,2024-05-15 20:45:00,Selesai,Marketplace,Pontianak,Kalimantan Barat,35000.0,0.0
+807,169,2023-09-20 17:55:00,Selesai,Marketplace,Tangerang,Banten,22000.0,15000.0
+808,179,2026-07-14 19:30:00,Selesai,Aplikasi,Bantul,DI Yogyakarta,22000.0,0.0
+809,291,2023-02-26 10:55:00,Dikirim,Website,Solo,Jawa Tengah,35000.0,0.0
+810,173,2025-08-23 08:40:00,Dibatalkan,Marketplace,Balikpapan,Kalimantan Timur,9000.0,10000.0
+811,98,2026-10-05 19:10:00,Selesai,Website,Medan,Sumatera Utara,15000.0,5000.0
+812,426,2026-02-04 20:50:00,Selesai,Marketplace,Balikpapan,Kalimantan Timur,12000.0,10000.0
+813,97,2024-03-01 21:25:00,Selesai,Website,Bogor,Jawa Barat,35000.0,20000.0
+814,320,2023-10-07 08:10:00,Selesai,Aplikasi,Jakarta,DKI Jakarta,9000.0,0.0
+815,187,2025-06-15 21:30:00,Selesai,Aplikasi,Jakarta,DKI Jakarta,22000.0,0.0
+816,88,2024-03-19 12:55:00,Dibatalkan,Marketplace,Solo,Jawa Tengah,9000.0,0.0
+817,280,2023-07-28 21:35:00,Selesai,Aplikasi,Solo,Jawa Tengah,15000.0,20000.0
+818,447,2026-10-19 15:50:00,Selesai,Aplikasi,Semarang,Jawa Tengah,9000.0,0.0
+819,372,2025-09-21 11:50:00,Selesai,Aplikasi,Denpasar,Bali,9000.0,20000.0
+820,414,2023-04-13 18:05:00,Selesai,Website,Bantul,DI Yogyakarta,35000.0,5000.0
+821,163,2025-10-08 09:10:00,Selesai,Marketplace,Yogyakarta,DI Yogyakarta,18000.0,15000.0
+822,416,2026-08-16 14:15:00,Dibatalkan,Marketplace,Malang,Jawa Timur,9000.0,15000.0
+823,393,2024-12-16 09:45:00,Diproses,Aplikasi,Tangerang,Banten,35000.0,15000.0
+824,472,2024-10-15 20:10:00,Selesai,Aplikasi,Jakarta,DKI Jakarta,12000.0,0.0
+825,112,2026-04-26 13:25:00,Diproses,Marketplace,Pontianak,Kalimantan Barat,18000.0,0.0
+826,172,2026-06-30 16:00:00,Selesai,Aplikasi,Bantul,DI Yogyakarta,9000.0,0.0
+827,439,2026-08-08 09:10:00,Dikirim,Website,Palembang,Sumatera Selatan,35000.0,0.0
+828,79,2025-05-04 16:35:00,Dikembalikan,Aplikasi,Pekanbaru,Riau,9000.0,0.0
+829,426,2024-11-01 20:55:00,Dibatalkan,Aplikasi,Balikpapan,Kalimantan Timur,15000.0,20000.0
+830,94,2023-05-11 08:20:00,Selesai,Aplikasi,Bantul,DI Yogyakarta,12000.0,20000.0
+831,229,2025-04-12 17:45:00,Selesai,Aplikasi,Tangerang,Banten,22000.0,15000.0
+832,480,2023-11-27 16:25:00,Selesai,Aplikasi,Padang,Sumatera Barat,35000.0,0.0
+833,364,2024-12-28 16:55:00,Selesai,Aplikasi,Bantul,DI Yogyakarta,35000.0,10000.0
+834,388,2024-05-14 21:15:00,Selesai,Aplikasi,Surabaya,Jawa Timur,12000.0,20000.0
+835,283,2023-08-11 08:05:00,Selesai,Aplikasi,Bogor,Jawa Barat,35000.0,0.0
+836,439,2025-09-03 13:55:00,Dibatalkan,Marketplace,Palembang,Sumatera Selatan,28000.0,0.0
+837,335,2023-06-03 17:10:00,Selesai,Aplikasi,Denpasar,Bali,18000.0,0.0
+838,421,2025-02-10 13:55:00,Dibatalkan,Aplikasi,Palembang,Sumatera Selatan,18000.0,20000.0
+839,457,2024-10-29 11:45:00,Selesai,Aplikasi,Bekasi,Jawa Barat,28000.0,0.0
+840,249,2023-01-08 16:45:00,Selesai,Aplikasi,Bogor,Jawa Barat,18000.0,0.0
+841,205,2025-12-28 09:30:00,Selesai,Aplikasi,Pekanbaru,Riau,9000.0,0.0
+842,493,2025-03-23 14:20:00,Selesai,Marketplace,Solo,Jawa Tengah,9000.0,20000.0
+843,243,2023-08-06 16:25:00,Selesai,Marketplace,Palembang,Sumatera Selatan,9000.0,0.0
+844,150,2024-06-18 20:45:00,Selesai,Aplikasi,Surabaya,Jawa Timur,22000.0,15000.0
+845,58,2024-02-22 14:25:00,Dikirim,Website,Pekanbaru,Riau,12000.0,0.0
+846,482,2023-10-18 20:10:00,Selesai,Marketplace,Medan,Sumatera Utara,22000.0,10000.0
+847,246,2026-01-13 12:50:00,Diproses,Aplikasi,Bogor,Jawa Barat,12000.0,10000.0
+848,425,2023-04-26 08:55:00,Selesai,Website,Bantul,DI Yogyakarta,12000.0,0.0
+849,396,2026-08-08 16:55:00,Selesai,Aplikasi,Padang,Sumatera Barat,15000.0,15000.0
+850,251,2023-06-22 15:05:00,Selesai,Marketplace,Bekasi,Jawa Barat,22000.0,20000.0
+851,118,2024-12-31 20:10:00,Selesai,Marketplace,Makassar,Sulawesi Selatan,28000.0,15000.0
+852,251,2023-03-04 11:15:00,Selesai,Website,Bekasi,Jawa Barat,9000.0,20000.0
+853,243,2023-12-25 20:40:00,Selesai,Marketplace,Palembang,Sumatera Selatan,18000.0,10000.0
+854,416,2023-04-13 09:40:00,Selesai,Website,Depok,Jawa Barat,18000.0,15000.0
+855,70,2026-03-24 12:30:00,Selesai,Aplikasi,Bogor,Jawa Barat,15000.0,0.0
+856,210,2024-08-17 22:20:00,Selesai,Aplikasi,Bantul,DI Yogyakarta,15000.0,15000.0
+857,65,2026-04-28 08:10:00,Selesai,Aplikasi,Yogyakarta,DI Yogyakarta,22000.0,5000.0
+858,405,2024-02-27 14:35:00,Diproses,Website,Tangerang,Banten,18000.0,10000.0
+859,258,2025-06-08 21:40:00,Selesai,Website,Denpasar,Bali,12000.0,10000.0
+860,162,2025-05-20 22:30:00,Selesai,Website,Bandung,Jawa Barat,35000.0,0.0
+861,164,2026-10-10 14:00:00,Diproses,Website,Makassar,Sulawesi Selatan,22000.0,0.0
+862,424,2023-07-26 21:40:00,Selesai,Website,Semarang,Jawa Tengah,15000.0,0.0
+863,469,2024-03-20 19:25:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,22000.0,0.0
+864,325,2026-09-25 11:05:00,Selesai,Marketplace,Padang,Sumatera Barat,35000.0,5000.0
+865,315,2023-10-02 21:40:00,Dibatalkan,Aplikasi,Pekanbaru,Riau,12000.0,5000.0
+866,469,2023-12-29 16:05:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,9000.0,20000.0
+867,20,2026-02-21 16:00:00,Selesai,Marketplace,Semarang,Jawa Tengah,9000.0,0.0
+868,60,2026-03-31 11:45:00,Selesai,Website,Bekasi,Jawa Barat,9000.0,10000.0
+869,481,2025-07-19 20:20:00,Dikirim,Marketplace,Makassar,Sulawesi Selatan,15000.0,0.0
+870,496,2026-02-06 16:05:00,Diproses,Marketplace,Solo,Jawa Tengah,35000.0,20000.0
+871,106,2025-06-26 18:55:00,Selesai,Aplikasi,Yogyakarta,DI Yogyakarta,28000.0,0.0
+872,319,2024-01-31 16:50:00,Dikirim,Marketplace,Tangerang,Banten,12000.0,10000.0
+873,18,2025-07-11 15:10:00,Selesai,Marketplace,Tangerang,Banten,9000.0,0.0
+874,82,2024-05-06 21:40:00,Selesai,Website,Malang,Jawa Timur,18000.0,15000.0
+875,254,2024-01-15 12:00:00,Selesai,Marketplace,Semarang,Jawa Tengah,28000.0,15000.0
+876,51,2023-04-13 15:00:00,Selesai,Aplikasi,Makassar,Sulawesi Selatan,28000.0,15000.0
+877,185,2026-01-18 17:00:00,Selesai,Aplikasi,Bekasi,Jawa Barat,22000.0,0.0
+878,111,2023-07-03 11:00:00,Selesai,Website,Bogor,Jawa Barat,9000.0,0.0
+879,412,2024-07-26 19:30:00,Diproses,Marketplace,Bekasi,Jawa Barat,9000.0,10000.0
+880,423,2024-09-09 12:10:00,Selesai,Website,Depok,Jawa Barat,28000.0,5000.0
+881,140,2025-07-02 20:35:00,Dikirim,Aplikasi,Medan,Sumatera Utara,9000.0,0.0
+882,419,2026-02-15 08:50:00,Selesai,Marketplace,Surabaya,Jawa Timur,35000.0,15000.0
+883,277,2026-05-27 20:40:00,Dikirim,Aplikasi,Bogor,Jawa Barat,22000.0,5000.0
+884,293,2024-08-20 17:45:00,Selesai,Aplikasi,Bandung,Jawa Barat,9000.0,0.0
+885,230,2025-10-29 10:05:00,Selesai,Marketplace,Bandung,Jawa Barat,18000.0,0.0
+886,463,2024-03-02 20:15:00,Selesai,Website,Jakarta,DKI Jakarta,22000.0,10000.0
+887,409,2026-04-02 21:05:00,Selesai,Marketplace,Medan,Sumatera Utara,28000.0,0.0
+888,199,2024-11-20 12:40:00,Dikembalikan,Marketplace,Bogor,Jawa Barat,35000.0,20000.0
+889,163,2026-05-22 16:50:00,Selesai,Aplikasi,Padang,Sumatera Barat,22000.0,0.0
+890,298,2025-04-08 14:35:00,Selesai,Website,Malang,Jawa Timur,9000.0,10000.0
+891,114,2026-05-06 22:20:00,Dikembalikan,Website,Pontianak,Kalimantan Barat,18000.0,0.0
+892,117,2026-07-28 11:30:00,Selesai,Marketplace,Tangerang,Banten,12000.0,0.0
+893,91,2024-12-09 17:00:00,Selesai,Marketplace,Bekasi,Jawa Barat,18000.0,0.0
+894,28,2026-02-24 11:40:00,Selesai,Website,Depok,Jawa Barat,9000.0,15000.0
+895,367,2025-10-16 19:30:00,Selesai,Aplikasi,Surabaya,Jawa Timur,35000.0,20000.0
+896,319,2024-04-29 08:25:00,Selesai,Marketplace,Denpasar,Bali,28000.0,0.0
+897,348,2025-07-28 18:10:00,Selesai,Marketplace,Surabaya,Jawa Timur,22000.0,5000.0
+898,243,2023-06-14 18:10:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,15000.0,0.0
+899,499,2024-04-26 13:20:00,Dikirim,Aplikasi,Denpasar,Bali,15000.0,15000.0
+900,295,2025-03-29 18:55:00,Selesai,Aplikasi,Jakarta,DKI Jakarta,35000.0,0.0
+901,76,2023-01-06 21:50:00,Selesai,Aplikasi,Malang,Jawa Timur,15000.0,15000.0
+902,160,2024-07-25 09:55:00,Selesai,Marketplace,Jakarta,DKI Jakarta,9000.0,15000.0
+903,32,2023-08-04 17:35:00,Selesai,Aplikasi,Makassar,Sulawesi Selatan,22000.0,0.0
+904,55,2023-07-22 17:35:00,Diproses,Aplikasi,Solo,Jawa Tengah,9000.0,20000.0
+905,367,2023-04-15 19:40:00,Selesai,Aplikasi,Surabaya,Jawa Timur,15000.0,20000.0
+906,347,2025-12-06 19:00:00,Selesai,Marketplace,Padang,Sumatera Barat,22000.0,20000.0
+907,263,2026-06-14 15:10:00,Selesai,Website,Solo,Jawa Tengah,22000.0,20000.0
+908,371,2024-12-21 15:40:00,Selesai,Website,Tangerang,Banten,15000.0,15000.0
+909,391,2024-12-22 21:35:00,Selesai,Aplikasi,Depok,Jawa Barat,9000.0,5000.0
+910,3,2023-01-20 11:15:00,Selesai,Marketplace,Bekasi,Jawa Barat,35000.0,15000.0
+911,379,2023-06-02 21:00:00,Selesai,Website,Bantul,DI Yogyakarta,12000.0,0.0
+912,159,2023-07-11 08:25:00,Selesai,Website,Pontianak,Kalimantan Barat,35000.0,0.0
+913,169,2024-04-24 17:25:00,Diproses,Aplikasi,Semarang,Jawa Tengah,9000.0,0.0
+914,79,2024-08-22 14:55:00,Dikirim,Aplikasi,Surabaya,Jawa Timur,15000.0,5000.0
+915,329,2026-09-23 19:00:00,Selesai,Aplikasi,Solo,Jawa Tengah,15000.0,0.0
+916,76,2026-02-10 16:20:00,Dikembalikan,Aplikasi,Medan,Sumatera Utara,18000.0,0.0
+917,373,2025-04-01 15:30:00,Selesai,Aplikasi,Pekanbaru,Riau,12000.0,0.0
+918,4,2023-02-22 18:40:00,Dibatalkan,Aplikasi,Yogyakarta,DI Yogyakarta,12000.0,5000.0
+919,350,2024-10-20 14:35:00,Selesai,Aplikasi,Pekanbaru,Riau,22000.0,5000.0
+920,106,2023-12-27 10:50:00,Selesai,Website,Yogyakarta,DI Yogyakarta,35000.0,0.0
+921,296,2023-03-08 13:10:00,Dibatalkan,Marketplace,Pekanbaru,Riau,22000.0,0.0
+922,456,2026-10-21 14:20:00,Selesai,Website,Balikpapan,Kalimantan Timur,18000.0,10000.0
+923,455,2023-01-23 08:20:00,Selesai,Website,Surabaya,Jawa Timur,18000.0,20000.0
+924,17,2024-06-16 08:10:00,Dikirim,Aplikasi,Bekasi,Jawa Barat,22000.0,20000.0
+925,25,2026-02-27 21:30:00,Selesai,Marketplace,Semarang,Jawa Tengah,28000.0,5000.0
+926,232,2026-01-23 14:20:00,Dikirim,Aplikasi,Depok,Jawa Barat,18000.0,0.0
+927,318,2024-06-14 16:45:00,Dibatalkan,Aplikasi,Tangerang,Banten,12000.0,0.0
+928,31,2024-04-08 13:20:00,Selesai,Marketplace,Pekanbaru,Riau,9000.0,0.0
+929,416,2024-12-11 17:55:00,Diproses,Marketplace,Malang,Jawa Timur,12000.0,0.0
+930,202,2026-06-06 17:45:00,Selesai,Website,Solo,Jawa Tengah,12000.0,0.0
+931,176,2023-07-20 17:10:00,Selesai,Aplikasi,Semarang,Jawa Tengah,28000.0,0.0
+932,78,2025-11-07 18:30:00,Selesai,Website,Bogor,Jawa Barat,12000.0,15000.0
+933,338,2024-07-04 13:10:00,Selesai,Website,Pekanbaru,Riau,28000.0,0.0
+934,369,2026-04-06 18:05:00,Selesai,Aplikasi,Yogyakarta,DI Yogyakarta,9000.0,10000.0
+935,420,2026-10-15 13:55:00,Dibatalkan,Marketplace,Tangerang,Banten,22000.0,0.0
+936,425,2024-03-03 22:15:00,Diproses,Aplikasi,Denpasar,Bali,22000.0,5000.0
+937,453,2026-07-27 16:25:00,Diproses,Aplikasi,Pekanbaru,Riau,35000.0,15000.0
+938,474,2026-07-29 21:25:00,Diproses,Website,Bandung,Jawa Barat,22000.0,5000.0
+939,408,2026-07-25 14:10:00,Diproses,Marketplace,Depok,Jawa Barat,18000.0,0.0
+940,311,2025-03-18 10:55:00,Selesai,Website,Balikpapan,Kalimantan Timur,18000.0,0.0
+941,26,2026-03-23 11:15:00,Selesai,Website,Surabaya,Jawa Timur,22000.0,0.0
+942,478,2025-08-02 15:50:00,Selesai,Aplikasi,Bekasi,Jawa Barat,18000.0,0.0
+943,47,2025-05-21 18:10:00,Dikirim,Aplikasi,Pontianak,Kalimantan Barat,12000.0,20000.0
+944,367,2024-12-15 12:20:00,Selesai,Marketplace,Surabaya,Jawa Timur,18000.0,0.0
+945,451,2023-05-23 15:25:00,Dikirim,Website,Malang,Jawa Timur,22000.0,5000.0
+946,358,2023-12-12 12:40:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,35000.0,0.0
+947,422,2024-06-07 15:45:00,Diproses,Website,Bantul,DI Yogyakarta,15000.0,20000.0
+948,102,2024-06-29 09:50:00,Selesai,Marketplace,Semarang,Jawa Tengah,22000.0,0.0
+949,400,2023-02-02 21:00:00,Selesai,Website,Balikpapan,Kalimantan Timur,22000.0,0.0
+950,235,2025-02-07 09:40:00,Diproses,Marketplace,Denpasar,Bali,35000.0,0.0
+951,191,2026-03-15 08:00:00,Selesai,Aplikasi,Bantul,DI Yogyakarta,28000.0,0.0
+952,137,2025-11-08 11:15:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,18000.0,15000.0
+953,467,2024-07-29 20:05:00,Selesai,Marketplace,Bandung,Jawa Barat,18000.0,10000.0
+954,13,2026-07-29 13:00:00,Dikirim,Aplikasi,Bekasi,Jawa Barat,22000.0,0.0
+955,371,2025-04-13 14:15:00,Selesai,Website,Surabaya,Jawa Timur,9000.0,5000.0
+956,291,2025-10-01 09:40:00,Selesai,Marketplace,Medan,Sumatera Utara,35000.0,0.0
+957,81,2026-04-26 16:50:00,Dibatalkan,Website,Malang,Jawa Timur,9000.0,15000.0
+958,215,2025-02-18 17:10:00,Selesai,Aplikasi,Pekanbaru,Riau,22000.0,5000.0
+959,358,2026-10-21 21:55:00,Selesai,Marketplace,Pontianak,Kalimantan Barat,9000.0,5000.0
+960,472,2026-09-01 16:05:00,Selesai,Website,Semarang,Jawa Tengah,18000.0,20000.0
+961,451,2023-03-05 16:50:00,Selesai,Aplikasi,Malang,Jawa Timur,35000.0,20000.0
+962,334,2024-09-04 21:40:00,Selesai,Marketplace,Bogor,Jawa Barat,28000.0,20000.0
+963,142,2025-05-08 16:00:00,Selesai,Aplikasi,Depok,Jawa Barat,9000.0,15000.0
+964,138,2026-05-03 14:50:00,Selesai,Aplikasi,Semarang,Jawa Tengah,15000.0,10000.0
+965,481,2025-07-28 13:15:00,Selesai,Aplikasi,Denpasar,Bali,15000.0,10000.0
+966,114,2024-06-07 16:05:00,Selesai,Marketplace,Balikpapan,Kalimantan Timur,35000.0,0.0
+967,266,2025-03-30 14:10:00,Dikembalikan,Marketplace,Depok,Jawa Barat,12000.0,5000.0
+968,38,2026-04-05 12:45:00,Dikirim,Marketplace,Padang,Sumatera Barat,35000.0,15000.0
+969,66,2025-05-03 14:05:00,Dikembalikan,Marketplace,Solo,Jawa Tengah,22000.0,10000.0
+970,385,2025-09-04 21:30:00,Selesai,Aplikasi,Denpasar,Bali,18000.0,5000.0
+971,80,2023-01-21 08:00:00,Dikirim,Aplikasi,Palembang,Sumatera Selatan,9000.0,15000.0
+972,61,2025-11-23 20:45:00,Selesai,Website,Solo,Jawa Tengah,28000.0,20000.0
+973,266,2024-11-20 21:15:00,Selesai,Marketplace,Depok,Jawa Barat,18000.0,5000.0
+974,322,2026-06-14 14:30:00,Selesai,Aplikasi,Padang,Sumatera Barat,22000.0,0.0
+975,494,2024-02-02 15:50:00,Selesai,Marketplace,Semarang,Jawa Tengah,9000.0,0.0
+976,215,2026-03-24 20:50:00,Selesai,Website,Pekanbaru,Riau,28000.0,0.0
+977,400,2025-06-02 08:35:00,Diproses,Aplikasi,Balikpapan,Kalimantan Timur,35000.0,0.0
+978,37,2026-02-15 21:25:00,Selesai,Aplikasi,Bandung,Jawa Barat,28000.0,0.0
+979,134,2026-06-22 14:50:00,Selesai,Aplikasi,Padang,Sumatera Barat,9000.0,5000.0
+980,457,2024-09-29 13:20:00,Selesai,Aplikasi,Jakarta,DKI Jakarta,9000.0,20000.0
+981,394,2023-03-23 11:40:00,Selesai,Marketplace,Surabaya,Jawa Timur,22000.0,5000.0
+982,145,2024-02-28 21:15:00,Diproses,Aplikasi,Bantul,DI Yogyakarta,18000.0,0.0
+983,391,2025-09-25 08:40:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,18000.0,0.0
+984,52,2026-01-05 12:40:00,Selesai,Website,Denpasar,Bali,12000.0,20000.0
+985,348,2025-09-04 12:25:00,Selesai,Aplikasi,Surabaya,Jawa Timur,28000.0,15000.0
+986,149,2023-05-31 21:45:00,Selesai,Marketplace,Balikpapan,Kalimantan Timur,22000.0,0.0
+987,274,2023-09-23 13:35:00,Dikirim,Marketplace,Jakarta,DKI Jakarta,9000.0,0.0
+988,45,2025-05-28 12:00:00,Selesai,Aplikasi,Bogor,Jawa Barat,9000.0,20000.0
+989,12,2024-11-25 10:55:00,Selesai,Marketplace,Bekasi,Jawa Barat,35000.0,0.0
+990,165,2024-07-13 18:45:00,Dibatalkan,Website,Pontianak,Kalimantan Barat,15000.0,15000.0
+991,204,2023-12-10 17:50:00,Selesai,Website,Medan,Sumatera Utara,22000.0,5000.0
+992,159,2023-03-04 15:00:00,Selesai,Marketplace,Pontianak,Kalimantan Barat,12000.0,20000.0
+993,255,2025-05-16 08:25:00,Selesai,Aplikasi,Bekasi,Jawa Barat,15000.0,0.0
+994,375,2023-07-18 18:25:00,Selesai,Marketplace,Makassar,Sulawesi Selatan,18000.0,10000.0
+995,295,2025-06-09 19:20:00,Dikirim,Aplikasi,Pontianak,Kalimantan Barat,12000.0,5000.0
+996,352,2024-01-16 11:55:00,Selesai,Marketplace,Medan,Sumatera Utara,35000.0,15000.0
+997,185,2024-05-10 11:15:00,Dikirim,Website,Bekasi,Jawa Barat,28000.0,10000.0
+998,317,2024-06-12 10:35:00,Selesai,Website,Medan,Sumatera Utara,28000.0,0.0
+999,129,2023-05-14 14:45:00,Selesai,Marketplace,Jakarta,DKI Jakarta,12000.0,10000.0
+1000,442,2024-07-04 19:25:00,Selesai,Aplikasi,Semarang,Jawa Tengah,18000.0,0.0
+1001,321,2023-09-20 15:35:00,Selesai,Website,Semarang,Jawa Tengah,9000.0,5000.0
+1002,408,2026-07-14 12:05:00,Diproses,Website,Depok,Jawa Barat,18000.0,20000.0
+1003,86,2025-05-10 10:25:00,Selesai,Website,Bekasi,Jawa Barat,18000.0,20000.0
+1004,37,2025-07-06 12:25:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,12000.0,0.0
+1005,417,2024-07-31 17:55:00,Dikirim,Website,Padang,Sumatera Barat,35000.0,5000.0
+1006,444,2026-06-15 12:40:00,Dibatalkan,Website,Bekasi,Jawa Barat,9000.0,0.0
+1007,419,2025-12-23 19:20:00,Dibatalkan,Aplikasi,Surabaya,Jawa Timur,35000.0,15000.0
+1008,466,2025-07-11 16:50:00,Selesai,Aplikasi,Makassar,Sulawesi Selatan,15000.0,15000.0
+1009,386,2025-11-21 14:50:00,Selesai,Aplikasi,Bantul,DI Yogyakarta,35000.0,20000.0
+1010,197,2023-01-16 09:30:00,Selesai,Marketplace,Medan,Sumatera Utara,28000.0,5000.0
+1011,229,2025-04-29 20:40:00,Dikirim,Aplikasi,Tangerang,Banten,9000.0,0.0
+1012,134,2025-11-15 17:45:00,Selesai,Aplikasi,Padang,Sumatera Barat,12000.0,20000.0
+1013,33,2024-05-17 14:15:00,Selesai,Aplikasi,Tangerang,Banten,35000.0,0.0
+1014,274,2026-05-31 20:20:00,Diproses,Website,Jakarta,DKI Jakarta,28000.0,10000.0
+1015,306,2026-03-25 22:35:00,Selesai,Aplikasi,Tangerang,Banten,12000.0,10000.0
+1016,261,2026-03-19 13:35:00,Selesai,Marketplace,Jakarta,DKI Jakarta,22000.0,0.0
+1017,87,2024-07-07 10:50:00,Dikirim,Marketplace,Malang,Jawa Timur,35000.0,0.0
+1018,313,2025-08-17 11:20:00,Selesai,Website,Jakarta,DKI Jakarta,22000.0,15000.0
+1019,82,2025-10-22 16:55:00,Selesai,Aplikasi,Malang,Jawa Timur,35000.0,15000.0
+1020,216,2025-11-23 11:05:00,Dikirim,Aplikasi,Bogor,Jawa Barat,28000.0,0.0
+1021,454,2025-01-10 21:25:00,Selesai,Aplikasi,Makassar,Sulawesi Selatan,22000.0,10000.0
+1022,243,2026-07-03 16:45:00,Selesai,Website,Palembang,Sumatera Selatan,12000.0,0.0
+1023,229,2024-06-15 09:50:00,Diproses,Aplikasi,Tangerang,Banten,15000.0,0.0
+1024,108,2023-05-16 13:45:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,9000.0,10000.0
+1025,41,2026-04-30 14:50:00,Selesai,Website,Bandung,Jawa Barat,28000.0,20000.0
+1026,469,2026-05-05 08:05:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,12000.0,5000.0
+1027,156,2025-07-19 22:00:00,Selesai,Aplikasi,Denpasar,Bali,18000.0,5000.0
+1028,227,2023-07-27 20:10:00,Dikirim,Aplikasi,Bekasi,Jawa Barat,12000.0,0.0
+1029,450,2024-07-14 19:20:00,Selesai,Aplikasi,Depok,Jawa Barat,22000.0,10000.0
+1030,102,2025-06-28 09:25:00,Selesai,Aplikasi,Semarang,Jawa Tengah,35000.0,10000.0
+1031,211,2024-08-23 08:15:00,Dikirim,Aplikasi,Pontianak,Kalimantan Barat,35000.0,5000.0
+1032,484,2025-07-16 19:10:00,Selesai,Marketplace,Bogor,Jawa Barat,12000.0,15000.0
+1033,154,2025-02-02 09:40:00,Selesai,Marketplace,Pontianak,Kalimantan Barat,22000.0,0.0
+1034,250,2026-06-02 09:30:00,Selesai,Website,Pontianak,Kalimantan Barat,9000.0,0.0
+1035,246,2023-04-30 19:45:00,Selesai,Aplikasi,Semarang,Jawa Tengah,28000.0,5000.0
+1036,16,2026-08-15 17:30:00,Selesai,Website,Bogor,Jawa Barat,22000.0,0.0
+1037,407,2023-10-01 18:55:00,Dikembalikan,Aplikasi,Semarang,Jawa Tengah,22000.0,10000.0
+1038,184,2023-02-03 09:35:00,Dikirim,Aplikasi,Bantul,DI Yogyakarta,15000.0,0.0
+1039,452,2025-02-10 21:00:00,Selesai,Aplikasi,Depok,Jawa Barat,18000.0,20000.0
+1040,389,2024-01-10 15:50:00,Selesai,Marketplace,Bantul,DI Yogyakarta,15000.0,20000.0
+1041,411,2023-05-11 19:55:00,Dikembalikan,Marketplace,Bandung,Jawa Barat,35000.0,0.0
+1042,474,2025-02-13 19:55:00,Selesai,Aplikasi,Bandung,Jawa Barat,18000.0,0.0
+1043,226,2025-06-10 14:05:00,Selesai,Website,Balikpapan,Kalimantan Timur,22000.0,20000.0
+1044,118,2025-12-31 14:10:00,Selesai,Marketplace,Bogor,Jawa Barat,9000.0,5000.0
+1045,337,2023-05-28 13:20:00,Selesai,Marketplace,Solo,Jawa Tengah,9000.0,5000.0
+1046,10,2023-10-10 10:20:00,Diproses,Website,Pontianak,Kalimantan Barat,35000.0,0.0
+1047,164,2023-10-18 08:05:00,Dikembalikan,Aplikasi,Pontianak,Kalimantan Barat,12000.0,0.0
+1048,59,2025-12-30 12:15:00,Selesai,Website,Malang,Jawa Timur,12000.0,15000.0
+1049,348,2023-09-16 11:20:00,Selesai,Aplikasi,Surabaya,Jawa Timur,35000.0,20000.0
+1050,127,2025-07-18 18:50:00,Selesai,Marketplace,Padang,Sumatera Barat,35000.0,0.0
+1051,190,2023-05-16 12:35:00,Diproses,Aplikasi,Pontianak,Kalimantan Barat,12000.0,0.0
+1052,128,2026-04-06 19:25:00,Selesai,Marketplace,Bandung,Jawa Barat,35000.0,0.0
+1053,104,2025-10-08 22:45:00,Selesai,Website,Palembang,Sumatera Selatan,18000.0,0.0
+1054,147,2024-11-03 16:55:00,Selesai,Aplikasi,Yogyakarta,DI Yogyakarta,9000.0,5000.0
+1055,312,2026-09-08 09:30:00,Selesai,Marketplace,Pekanbaru,Riau,28000.0,10000.0
+1056,12,2024-03-02 15:10:00,Selesai,Aplikasi,Bekasi,Jawa Barat,12000.0,20000.0
+1057,198,2024-03-01 09:10:00,Dikembalikan,Marketplace,Pontianak,Kalimantan Barat,18000.0,20000.0
+1058,432,2025-04-10 11:15:00,Selesai,Aplikasi,Tangerang,Banten,28000.0,10000.0
+1059,232,2025-04-23 18:40:00,Selesai,Aplikasi,Jakarta,DKI Jakarta,22000.0,0.0
+1060,398,2026-05-17 12:55:00,Selesai,Marketplace,Pontianak,Kalimantan Barat,9000.0,0.0
+1061,407,2023-04-04 21:45:00,Selesai,Aplikasi,Yogyakarta,DI Yogyakarta,9000.0,15000.0
+1062,47,2023-01-22 12:45:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,28000.0,0.0
+1063,437,2023-09-01 14:40:00,Dikembalikan,Marketplace,Semarang,Jawa Tengah,9000.0,10000.0
+1064,245,2026-10-06 09:35:00,Dikirim,Marketplace,Depok,Jawa Barat,9000.0,0.0
+1065,343,2025-12-02 16:50:00,Selesai,Website,Medan,Sumatera Utara,12000.0,20000.0
+1066,284,2023-03-18 22:50:00,Selesai,Aplikasi,Surabaya,Jawa Timur,9000.0,15000.0
+1067,340,2026-09-17 10:30:00,Selesai,Aplikasi,Solo,Jawa Tengah,35000.0,0.0
+1068,278,2026-06-10 12:40:00,Selesai,Marketplace,Makassar,Sulawesi Selatan,18000.0,5000.0
+1069,454,2024-01-13 15:50:00,Diproses,Aplikasi,Makassar,Sulawesi Selatan,18000.0,5000.0
+1070,340,2024-08-25 21:50:00,Dibatalkan,Website,Solo,Jawa Tengah,12000.0,0.0
+1071,498,2025-09-22 10:40:00,Selesai,Aplikasi,Yogyakarta,DI Yogyakarta,12000.0,0.0
+1072,303,2023-03-07 08:20:00,Selesai,Marketplace,Yogyakarta,DI Yogyakarta,22000.0,0.0
+1073,272,2023-01-16 20:30:00,Selesai,Aplikasi,Pekanbaru,Riau,28000.0,0.0
+1074,40,2023-09-16 20:40:00,Diproses,Website,Solo,Jawa Tengah,28000.0,0.0
+1075,285,2023-02-16 14:15:00,Diproses,Aplikasi,Denpasar,Bali,22000.0,15000.0
+1076,75,2026-09-15 17:55:00,Dibatalkan,Aplikasi,Makassar,Sulawesi Selatan,12000.0,20000.0
+1077,96,2023-01-02 21:30:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,28000.0,0.0
+1078,232,2025-06-28 22:00:00,Selesai,Aplikasi,Tangerang,Banten,18000.0,5000.0
+1079,184,2023-02-11 16:20:00,Selesai,Marketplace,Bantul,DI Yogyakarta,22000.0,10000.0
+1080,346,2023-10-16 22:20:00,Selesai,Aplikasi,Pekanbaru,Riau,9000.0,20000.0
+1081,483,2023-08-10 13:40:00,Selesai,Aplikasi,Bantul,DI Yogyakarta,35000.0,10000.0
+1082,189,2024-05-04 20:15:00,Selesai,Website,Malang,Jawa Timur,35000.0,0.0
+1083,47,2023-07-23 15:20:00,Dibatalkan,Aplikasi,Pontianak,Kalimantan Barat,35000.0,0.0
+1084,124,2025-04-11 14:45:00,Selesai,Marketplace,Tangerang,Banten,35000.0,0.0
+1085,49,2023-04-10 09:45:00,Selesai,Website,Balikpapan,Kalimantan Timur,15000.0,10000.0
+1086,51,2024-01-13 21:25:00,Selesai,Marketplace,Pontianak,Kalimantan Barat,15000.0,15000.0
+1087,381,2025-02-27 18:50:00,Selesai,Marketplace,Solo,Jawa Tengah,22000.0,20000.0
+1088,401,2024-08-28 20:25:00,Selesai,Aplikasi,Bantul,DI Yogyakarta,9000.0,0.0
+1089,281,2026-09-18 09:55:00,Selesai,Website,Bekasi,Jawa Barat,12000.0,0.0
+1090,219,2024-05-18 10:10:00,Selesai,Aplikasi,Medan,Sumatera Utara,22000.0,0.0
+1091,126,2024-11-20 20:15:00,Selesai,Aplikasi,Pekanbaru,Riau,28000.0,0.0
+1092,498,2026-01-01 19:20:00,Selesai,Aplikasi,Bandung,Jawa Barat,12000.0,20000.0
+1093,150,2025-06-30 21:15:00,Dikirim,Aplikasi,Surabaya,Jawa Timur,35000.0,0.0
+1094,262,2025-05-22 10:10:00,Selesai,Marketplace,Bandung,Jawa Barat,15000.0,15000.0
+1095,74,2025-05-13 20:10:00,Diproses,Marketplace,Bandung,Jawa Barat,28000.0,5000.0
+1096,351,2023-05-30 10:45:00,Selesai,Aplikasi,Semarang,Jawa Tengah,35000.0,15000.0
+1097,440,2023-08-27 21:40:00,Selesai,Aplikasi,Tangerang,Banten,18000.0,0.0
+1098,331,2023-04-25 22:45:00,Selesai,Aplikasi,Semarang,Jawa Tengah,9000.0,15000.0
+1099,453,2023-02-25 21:00:00,Dikirim,Marketplace,Semarang,Jawa Tengah,22000.0,0.0
+1100,371,2024-02-28 14:00:00,Dikirim,Aplikasi,Surabaya,Jawa Timur,15000.0,10000.0
+1101,190,2026-02-28 22:15:00,Selesai,Marketplace,Surabaya,Jawa Timur,35000.0,0.0
+1102,354,2026-01-12 22:00:00,Selesai,Aplikasi,Bandung,Jawa Barat,22000.0,10000.0
+1103,179,2025-11-08 13:05:00,Selesai,Marketplace,Bantul,DI Yogyakarta,12000.0,10000.0
+1104,26,2026-07-02 18:00:00,Selesai,Aplikasi,Padang,Sumatera Barat,15000.0,5000.0
+1105,460,2026-02-18 18:55:00,Selesai,Marketplace,Depok,Jawa Barat,18000.0,0.0
+1106,293,2025-02-28 15:25:00,Selesai,Marketplace,Bandung,Jawa Barat,12000.0,15000.0
+1107,183,2023-05-18 17:25:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,12000.0,10000.0
+1108,464,2024-11-17 16:00:00,Selesai,Aplikasi,Solo,Jawa Tengah,35000.0,0.0
+1109,287,2024-06-06 13:05:00,Selesai,Marketplace,Denpasar,Bali,28000.0,0.0
+1110,482,2026-03-01 22:35:00,Selesai,Marketplace,Pekanbaru,Riau,9000.0,15000.0
+1111,355,2025-03-09 11:00:00,Diproses,Website,Depok,Jawa Barat,18000.0,0.0
+1112,111,2024-12-15 19:50:00,Selesai,Marketplace,Bandung,Jawa Barat,28000.0,5000.0
+1113,209,2026-05-28 17:55:00,Selesai,Aplikasi,Surabaya,Jawa Timur,12000.0,0.0
+1114,400,2024-02-15 19:10:00,Selesai,Website,Balikpapan,Kalimantan Timur,9000.0,20000.0
+1115,301,2024-11-04 08:55:00,Selesai,Website,Palembang,Sumatera Selatan,18000.0,15000.0
+1116,466,2025-07-22 21:40:00,Dibatalkan,Website,Depok,Jawa Barat,15000.0,0.0
+1117,146,2024-05-06 20:10:00,Selesai,Website,Depok,Jawa Barat,18000.0,15000.0
+1118,462,2025-10-17 18:10:00,Selesai,Website,Malang,Jawa Timur,9000.0,15000.0
+1119,287,2024-03-02 21:10:00,Selesai,Website,Malang,Jawa Timur,28000.0,0.0
+1120,307,2023-01-27 09:00:00,Selesai,Website,Makassar,Sulawesi Selatan,9000.0,10000.0
+1121,451,2026-07-03 18:00:00,Selesai,Website,Medan,Sumatera Utara,15000.0,15000.0
+1122,404,2023-10-08 18:50:00,Selesai,Website,Semarang,Jawa Tengah,35000.0,20000.0
+1123,310,2025-10-28 12:10:00,Selesai,Aplikasi,Bekasi,Jawa Barat,9000.0,15000.0
+1124,246,2025-11-08 15:35:00,Selesai,Marketplace,Yogyakarta,DI Yogyakarta,28000.0,10000.0
+1125,223,2025-11-20 08:45:00,Selesai,Website,Bandung,Jawa Barat,28000.0,5000.0
+1126,457,2023-01-02 15:20:00,Selesai,Website,Bantul,DI Yogyakarta,15000.0,10000.0
+1127,16,2023-09-13 20:35:00,Selesai,Marketplace,Bogor,Jawa Barat,18000.0,0.0
+1128,270,2023-04-25 21:50:00,Selesai,Website,Depok,Jawa Barat,28000.0,10000.0
+1129,321,2023-02-04 20:10:00,Selesai,Website,Semarang,Jawa Tengah,9000.0,15000.0
+1130,206,2026-05-15 13:10:00,Dikembalikan,Website,Denpasar,Bali,35000.0,0.0
+1131,133,2025-07-13 13:15:00,Selesai,Marketplace,Pontianak,Kalimantan Barat,28000.0,0.0
+1132,493,2025-04-15 18:35:00,Selesai,Marketplace,Solo,Jawa Tengah,22000.0,5000.0
+1133,500,2025-05-07 13:40:00,Selesai,Marketplace,Bandung,Jawa Barat,15000.0,10000.0
+1134,111,2025-03-13 21:20:00,Selesai,Website,Bogor,Jawa Barat,9000.0,20000.0
+1135,125,2026-05-07 19:25:00,Dikirim,Website,Balikpapan,Kalimantan Timur,9000.0,20000.0
+1136,144,2026-05-20 20:15:00,Selesai,Aplikasi,Padang,Sumatera Barat,18000.0,0.0
+1137,182,2023-09-29 19:55:00,Selesai,Aplikasi,Surabaya,Jawa Timur,15000.0,0.0
+1138,385,2024-11-08 11:05:00,Diproses,Marketplace,Denpasar,Bali,9000.0,0.0
+1139,419,2026-02-03 14:50:00,Selesai,Website,Surabaya,Jawa Timur,28000.0,0.0
+1140,347,2024-08-22 13:05:00,Selesai,Marketplace,Bandung,Jawa Barat,9000.0,20000.0
+1141,433,2025-07-22 11:15:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,35000.0,0.0
+1142,453,2025-05-18 08:40:00,Selesai,Website,Pekanbaru,Riau,35000.0,15000.0
+1143,253,2024-11-18 08:55:00,Selesai,Aplikasi,Bogor,Jawa Barat,22000.0,10000.0
+1144,471,2023-03-20 12:40:00,Selesai,Marketplace,Balikpapan,Kalimantan Timur,28000.0,0.0
+1145,122,2024-06-06 10:35:00,Selesai,Aplikasi,Surabaya,Jawa Timur,18000.0,5000.0
+1146,459,2024-02-20 18:20:00,Selesai,Marketplace,Malang,Jawa Timur,15000.0,0.0
+1147,9,2026-04-12 09:50:00,Dibatalkan,Aplikasi,Tangerang,Banten,18000.0,20000.0
+1148,118,2023-11-17 09:45:00,Selesai,Aplikasi,Semarang,Jawa Tengah,9000.0,20000.0
+1149,330,2026-05-03 19:45:00,Dikirim,Website,Semarang,Jawa Tengah,35000.0,0.0
+1150,194,2024-05-14 16:35:00,Selesai,Website,Depok,Jawa Barat,12000.0,15000.0
+1151,400,2024-07-13 14:50:00,Selesai,Aplikasi,Makassar,Sulawesi Selatan,15000.0,15000.0
+1152,39,2026-09-23 10:35:00,Selesai,Website,Pekanbaru,Riau,35000.0,0.0
+1153,2,2026-01-01 18:40:00,Selesai,Marketplace,Denpasar,Bali,12000.0,0.0
+1154,481,2025-02-18 17:00:00,Selesai,Aplikasi,Denpasar,Bali,28000.0,0.0
+1155,288,2023-02-26 20:50:00,Selesai,Marketplace,Yogyakarta,DI Yogyakarta,15000.0,0.0
+1156,133,2026-05-25 15:10:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,18000.0,20000.0
+1157,351,2025-10-21 14:10:00,Dikirim,Website,Depok,Jawa Barat,15000.0,5000.0
+1158,191,2024-02-29 15:05:00,Selesai,Marketplace,Semarang,Jawa Tengah,22000.0,5000.0
+1159,91,2024-02-24 19:15:00,Selesai,Marketplace,Surabaya,Jawa Timur,9000.0,0.0
+1160,135,2024-05-27 14:25:00,Selesai,Marketplace,Bandung,Jawa Barat,18000.0,10000.0
+1161,383,2023-08-21 18:50:00,Selesai,Marketplace,Bantul,DI Yogyakarta,18000.0,0.0
+1162,45,2025-07-03 19:45:00,Diproses,Marketplace,Bogor,Jawa Barat,28000.0,0.0
+1163,30,2023-10-04 09:35:00,Selesai,Aplikasi,Denpasar,Bali,35000.0,5000.0
+1164,442,2025-04-15 11:05:00,Selesai,Aplikasi,Semarang,Jawa Tengah,15000.0,20000.0
+1165,294,2025-12-12 21:55:00,Selesai,Aplikasi,Makassar,Sulawesi Selatan,22000.0,0.0
+1166,114,2025-05-13 22:05:00,Dikirim,Website,Makassar,Sulawesi Selatan,18000.0,10000.0
+1167,356,2024-04-25 18:45:00,Dibatalkan,Aplikasi,Solo,Jawa Tengah,35000.0,0.0
+1168,415,2026-05-14 19:55:00,Selesai,Aplikasi,Padang,Sumatera Barat,9000.0,15000.0
+1169,293,2025-01-03 12:05:00,Dikirim,Marketplace,Bandung,Jawa Barat,22000.0,0.0
+1170,397,2026-08-25 17:30:00,Selesai,Aplikasi,Bandung,Jawa Barat,35000.0,10000.0
+1171,111,2024-01-29 22:30:00,Selesai,Aplikasi,Solo,Jawa Tengah,12000.0,0.0
+1172,118,2025-04-23 18:15:00,Selesai,Website,Bandung,Jawa Barat,15000.0,0.0
+1173,447,2026-10-02 18:00:00,Selesai,Aplikasi,Semarang,Jawa Tengah,35000.0,20000.0
+1174,141,2026-03-25 12:05:00,Selesai,Aplikasi,Surabaya,Jawa Timur,22000.0,10000.0
+1175,103,2024-10-16 17:20:00,Selesai,Aplikasi,Bekasi,Jawa Barat,12000.0,0.0
+1176,120,2025-02-24 09:45:00,Selesai,Marketplace,Pekanbaru,Riau,28000.0,20000.0
+1177,210,2024-09-06 18:40:00,Selesai,Website,Bantul,DI Yogyakarta,12000.0,0.0
+1178,398,2023-12-26 12:15:00,Diproses,Website,Bogor,Jawa Barat,22000.0,0.0
+1179,444,2026-03-11 14:45:00,Dikirim,Aplikasi,Bekasi,Jawa Barat,15000.0,0.0
+1180,141,2025-11-07 15:15:00,Dibatalkan,Marketplace,Surabaya,Jawa Timur,28000.0,15000.0
+1181,44,2025-06-20 22:05:00,Selesai,Marketplace,Bantul,DI Yogyakarta,12000.0,20000.0
+1182,150,2024-01-06 11:20:00,Selesai,Marketplace,Surabaya,Jawa Timur,15000.0,10000.0
+1183,70,2023-12-31 20:40:00,Selesai,Aplikasi,Malang,Jawa Timur,28000.0,10000.0
+1184,211,2025-11-25 18:20:00,Selesai,Marketplace,Denpasar,Bali,18000.0,20000.0
+1185,107,2024-08-25 18:40:00,Dikirim,Website,Bandung,Jawa Barat,35000.0,15000.0
+1186,145,2026-05-03 12:30:00,Selesai,Aplikasi,Malang,Jawa Timur,28000.0,15000.0
+1187,245,2025-07-07 22:15:00,Dikirim,Marketplace,Bandung,Jawa Barat,15000.0,0.0
+1188,251,2025-10-12 20:25:00,Selesai,Aplikasi,Malang,Jawa Timur,28000.0,0.0
+1189,286,2023-02-21 12:10:00,Selesai,Marketplace,Surabaya,Jawa Timur,18000.0,5000.0
+1190,30,2026-03-15 21:20:00,Diproses,Marketplace,Bandung,Jawa Barat,15000.0,5000.0
+1191,126,2024-01-05 22:15:00,Dikirim,Website,Pekanbaru,Riau,18000.0,5000.0
+1192,438,2023-05-24 08:55:00,Selesai,Aplikasi,Surabaya,Jawa Timur,35000.0,15000.0
+1193,111,2024-07-20 14:30:00,Selesai,Marketplace,Padang,Sumatera Barat,18000.0,5000.0
+1194,363,2025-02-02 19:10:00,Selesai,Aplikasi,Denpasar,Bali,22000.0,10000.0
+1195,217,2024-10-08 12:35:00,Selesai,Aplikasi,Jakarta,DKI Jakarta,18000.0,0.0
+1196,158,2024-05-13 11:40:00,Selesai,Website,Bogor,Jawa Barat,18000.0,15000.0
+1197,43,2025-04-12 14:20:00,Dibatalkan,Marketplace,Makassar,Sulawesi Selatan,18000.0,0.0
+1198,5,2025-11-18 13:15:00,Selesai,Marketplace,Padang,Sumatera Barat,18000.0,20000.0
+1199,449,2026-06-23 08:45:00,Selesai,Marketplace,Bekasi,Jawa Barat,28000.0,20000.0
+1200,236,2026-06-25 10:15:00,Selesai,Marketplace,Pekanbaru,Riau,9000.0,10000.0
+1201,420,2025-02-27 11:20:00,Selesai,Aplikasi,Tangerang,Banten,35000.0,0.0
+1202,161,2024-01-31 12:05:00,Dikembalikan,Aplikasi,Medan,Sumatera Utara,18000.0,0.0
+1203,31,2023-01-22 15:35:00,Selesai,Aplikasi,Bogor,Jawa Barat,9000.0,0.0
+1204,51,2026-06-11 21:45:00,Selesai,Website,Pontianak,Kalimantan Barat,18000.0,0.0
+1205,316,2023-05-01 22:55:00,Diproses,Aplikasi,Semarang,Jawa Tengah,12000.0,15000.0
+1206,476,2023-12-16 18:30:00,Dikirim,Aplikasi,Semarang,Jawa Tengah,18000.0,0.0
+1207,177,2023-10-12 18:50:00,Selesai,Marketplace,Semarang,Jawa Tengah,28000.0,0.0
+1208,413,2025-08-06 09:10:00,Selesai,Website,Balikpapan,Kalimantan Timur,15000.0,0.0
+1209,9,2024-08-12 16:00:00,Selesai,Marketplace,Bandung,Jawa Barat,12000.0,0.0
+1210,22,2024-06-10 21:05:00,Selesai,Marketplace,Jakarta,DKI Jakarta,22000.0,10000.0
+1211,272,2025-11-11 15:55:00,Dikirim,Aplikasi,Pekanbaru,Riau,28000.0,10000.0
+1212,142,2025-07-04 22:05:00,Diproses,Aplikasi,Depok,Jawa Barat,12000.0,10000.0
+1213,409,2024-05-18 16:10:00,Dibatalkan,Aplikasi,Bekasi,Jawa Barat,15000.0,0.0
+1214,29,2024-03-28 10:50:00,Diproses,Aplikasi,Bekasi,Jawa Barat,35000.0,10000.0
+1215,457,2026-09-20 18:40:00,Selesai,Marketplace,Medan,Sumatera Utara,12000.0,10000.0
+1216,264,2026-01-01 19:20:00,Selesai,Marketplace,Malang,Jawa Timur,18000.0,5000.0
+1217,326,2025-09-05 13:25:00,Selesai,Marketplace,Pontianak,Kalimantan Barat,22000.0,15000.0
+1218,198,2025-05-27 15:25:00,Diproses,Marketplace,Medan,Sumatera Utara,28000.0,0.0
+1219,307,2023-01-17 22:00:00,Selesai,Website,Makassar,Sulawesi Selatan,28000.0,10000.0
+1220,473,2023-09-16 16:20:00,Diproses,Marketplace,Bogor,Jawa Barat,12000.0,0.0
+1221,407,2024-09-06 16:00:00,Selesai,Marketplace,Yogyakarta,DI Yogyakarta,35000.0,0.0
+1222,315,2024-07-01 22:55:00,Dikirim,Aplikasi,Solo,Jawa Tengah,28000.0,0.0
+1223,379,2023-11-11 20:40:00,Selesai,Website,Bantul,DI Yogyakarta,9000.0,0.0
+1224,94,2024-03-21 17:25:00,Selesai,Aplikasi,Bantul,DI Yogyakarta,15000.0,0.0
+1225,190,2026-03-18 18:55:00,Selesai,Website,Semarang,Jawa Tengah,15000.0,10000.0
+1226,400,2026-09-19 17:35:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,15000.0,5000.0
+1227,242,2023-07-28 13:30:00,Dikirim,Website,Padang,Sumatera Barat,12000.0,15000.0
+1228,153,2024-03-07 13:45:00,Selesai,Website,Tangerang,Banten,9000.0,15000.0
+1229,493,2026-09-20 09:50:00,Selesai,Aplikasi,Solo,Jawa Tengah,12000.0,0.0
+1230,449,2025-08-15 11:45:00,Selesai,Website,Bekasi,Jawa Barat,35000.0,0.0
+1231,404,2024-06-21 18:50:00,Selesai,Website,Depok,Jawa Barat,12000.0,0.0
+1232,414,2025-06-29 18:55:00,Selesai,Marketplace,Denpasar,Bali,18000.0,15000.0
+1233,14,2025-03-06 09:00:00,Selesai,Aplikasi,Semarang,Jawa Tengah,28000.0,0.0
+1234,18,2025-06-04 19:45:00,Selesai,Aplikasi,Medan,Sumatera Utara,15000.0,15000.0
+1235,282,2025-05-18 15:30:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,12000.0,20000.0
+1236,119,2024-02-02 17:00:00,Selesai,Website,Yogyakarta,DI Yogyakarta,22000.0,5000.0
+1237,394,2024-07-02 16:00:00,Selesai,Marketplace,Surabaya,Jawa Timur,28000.0,0.0
+1238,200,2023-12-23 21:25:00,Selesai,Marketplace,Depok,Jawa Barat,18000.0,0.0
+1239,337,2023-11-22 20:30:00,Selesai,Website,Solo,Jawa Tengah,18000.0,20000.0
+1240,57,2025-12-26 18:55:00,Selesai,Website,Palembang,Sumatera Selatan,18000.0,0.0
+1241,196,2023-12-06 08:05:00,Selesai,Aplikasi,Depok,Jawa Barat,12000.0,0.0
+1242,240,2026-03-19 08:30:00,Selesai,Aplikasi,Bandung,Jawa Barat,9000.0,10000.0
+1243,214,2023-07-12 15:10:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,35000.0,10000.0
+1244,153,2026-06-09 09:30:00,Selesai,Marketplace,Balikpapan,Kalimantan Timur,28000.0,20000.0
+1245,153,2026-09-17 09:55:00,Dikembalikan,Aplikasi,Balikpapan,Kalimantan Timur,9000.0,0.0
+1246,462,2023-10-11 20:25:00,Dibatalkan,Aplikasi,Malang,Jawa Timur,9000.0,0.0
+1247,443,2024-04-19 11:25:00,Selesai,Marketplace,Bantul,DI Yogyakarta,35000.0,0.0
+1248,471,2026-03-21 11:55:00,Selesai,Website,Balikpapan,Kalimantan Timur,12000.0,15000.0
+1249,170,2026-07-24 17:55:00,Selesai,Aplikasi,Surabaya,Jawa Timur,12000.0,0.0
+1250,277,2026-04-24 13:15:00,Selesai,Aplikasi,Pekanbaru,Riau,15000.0,0.0
+1251,328,2023-04-02 11:15:00,Selesai,Aplikasi,Denpasar,Bali,18000.0,15000.0
+1252,278,2024-12-06 14:00:00,Dikirim,Marketplace,Makassar,Sulawesi Selatan,12000.0,5000.0
+1253,412,2023-08-29 09:05:00,Selesai,Marketplace,Palembang,Sumatera Selatan,22000.0,5000.0
+1254,260,2026-10-25 08:15:00,Selesai,Aplikasi,Medan,Sumatera Utara,15000.0,15000.0
+1255,401,2023-03-11 17:35:00,Dikirim,Marketplace,Palembang,Sumatera Selatan,18000.0,10000.0
+1256,36,2023-06-24 08:35:00,Diproses,Marketplace,Padang,Sumatera Barat,9000.0,0.0
+1257,316,2024-04-15 12:20:00,Selesai,Marketplace,Semarang,Jawa Tengah,35000.0,15000.0
+1258,336,2024-11-29 15:40:00,Dikirim,Aplikasi,Bekasi,Jawa Barat,12000.0,10000.0
+1259,173,2025-09-07 20:25:00,Selesai,Website,Balikpapan,Kalimantan Timur,22000.0,15000.0
+1260,272,2025-07-03 16:30:00,Selesai,Website,Pekanbaru,Riau,12000.0,15000.0
+1261,416,2025-12-10 20:35:00,Selesai,Marketplace,Malang,Jawa Timur,18000.0,0.0
+1262,243,2025-03-14 12:20:00,Selesai,Website,Pontianak,Kalimantan Barat,12000.0,20000.0
+1263,160,2023-06-12 10:00:00,Selesai,Website,Jakarta,DKI Jakarta,28000.0,15000.0
+1264,142,2026-06-22 10:50:00,Dikirim,Website,Depok,Jawa Barat,35000.0,0.0
+1265,29,2024-11-30 12:55:00,Selesai,Marketplace,Denpasar,Bali,12000.0,0.0
+1266,274,2025-05-22 08:05:00,Dikirim,Aplikasi,Jakarta,DKI Jakarta,22000.0,0.0
+1267,4,2023-04-01 19:05:00,Selesai,Aplikasi,Yogyakarta,DI Yogyakarta,35000.0,5000.0
+1268,122,2023-11-02 17:35:00,Dikirim,Marketplace,Surabaya,Jawa Timur,22000.0,15000.0
+1269,220,2026-08-15 15:05:00,Selesai,Website,Bantul,DI Yogyakarta,9000.0,20000.0
+1270,41,2026-01-22 11:55:00,Selesai,Aplikasi,Bandung,Jawa Barat,22000.0,20000.0
+1271,460,2025-10-11 10:45:00,Dikembalikan,Aplikasi,Depok,Jawa Barat,18000.0,0.0
+1272,332,2024-08-30 10:20:00,Selesai,Marketplace,Balikpapan,Kalimantan Timur,9000.0,15000.0
+1273,117,2023-09-19 12:10:00,Selesai,Aplikasi,Bantul,DI Yogyakarta,28000.0,20000.0
+1274,368,2023-07-25 18:25:00,Selesai,Website,Bandung,Jawa Barat,28000.0,0.0
+1275,271,2025-07-07 20:20:00,Selesai,Aplikasi,Malang,Jawa Timur,28000.0,0.0
+1276,221,2024-09-08 15:55:00,Diproses,Aplikasi,Medan,Sumatera Utara,9000.0,0.0
+1277,209,2026-08-13 12:20:00,Selesai,Aplikasi,Surabaya,Jawa Timur,12000.0,20000.0
+1278,362,2025-06-26 13:20:00,Dibatalkan,Website,Balikpapan,Kalimantan Timur,12000.0,0.0
+1279,353,2025-11-17 15:40:00,Selesai,Aplikasi,Depok,Jawa Barat,12000.0,0.0
+1280,292,2024-01-26 19:35:00,Selesai,Website,Surabaya,Jawa Timur,15000.0,0.0
+1281,412,2024-06-30 18:55:00,Selesai,Website,Palembang,Sumatera Selatan,28000.0,20000.0
+1282,395,2026-04-15 09:15:00,Dikirim,Marketplace,Makassar,Sulawesi Selatan,15000.0,0.0
+1283,440,2025-10-13 09:30:00,Selesai,Website,Tangerang,Banten,22000.0,15000.0
+1284,187,2024-05-01 13:10:00,Selesai,Marketplace,Balikpapan,Kalimantan Timur,18000.0,5000.0
+1285,415,2026-08-28 14:45:00,Selesai,Marketplace,Padang,Sumatera Barat,15000.0,0.0
+1286,376,2023-04-13 19:15:00,Selesai,Aplikasi,Tangerang,Banten,22000.0,10000.0
+1287,181,2023-04-04 13:50:00,Selesai,Aplikasi,Bantul,DI Yogyakarta,15000.0,5000.0
+1288,324,2024-03-07 13:30:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,12000.0,15000.0
+1289,292,2026-08-06 12:25:00,Dikembalikan,Aplikasi,Surabaya,Jawa Timur,12000.0,5000.0
+1290,218,2025-06-01 08:25:00,Selesai,Marketplace,Bekasi,Jawa Barat,35000.0,5000.0
+1291,17,2025-12-19 21:25:00,Selesai,Marketplace,Padang,Sumatera Barat,12000.0,0.0
+1292,345,2023-07-31 10:20:00,Selesai,Website,Tangerang,Banten,15000.0,20000.0
+1293,291,2026-07-16 15:15:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,15000.0,5000.0
+1294,16,2024-08-19 11:25:00,Selesai,Aplikasi,Bogor,Jawa Barat,12000.0,0.0
+1295,52,2025-02-12 10:10:00,Selesai,Aplikasi,Denpasar,Bali,15000.0,15000.0
+1296,289,2023-07-29 22:40:00,Dikirim,Website,Malang,Jawa Timur,35000.0,10000.0
+1297,297,2025-12-15 16:20:00,Diproses,Aplikasi,Yogyakarta,DI Yogyakarta,22000.0,0.0
+1298,285,2026-01-04 16:30:00,Selesai,Website,Palembang,Sumatera Selatan,35000.0,5000.0
+1299,195,2023-09-07 22:20:00,Diproses,Aplikasi,Bogor,Jawa Barat,12000.0,15000.0
+1300,490,2026-05-12 10:20:00,Diproses,Aplikasi,Pontianak,Kalimantan Barat,22000.0,15000.0
+1301,54,2026-02-25 18:05:00,Selesai,Marketplace,Malang,Jawa Timur,15000.0,0.0
+1302,185,2026-03-18 19:20:00,Diproses,Marketplace,Bekasi,Jawa Barat,18000.0,5000.0
+1303,12,2024-06-21 20:25:00,Diproses,Aplikasi,Bekasi,Jawa Barat,15000.0,5000.0
+1304,372,2024-03-31 11:35:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,22000.0,10000.0
+1305,86,2025-07-12 13:15:00,Dibatalkan,Marketplace,Bekasi,Jawa Barat,22000.0,0.0
+1306,116,2025-03-06 22:20:00,Selesai,Aplikasi,Bogor,Jawa Barat,15000.0,10000.0
+1307,13,2025-08-17 08:05:00,Selesai,Marketplace,Padang,Sumatera Barat,35000.0,20000.0
+1308,227,2025-05-16 21:00:00,Dikembalikan,Aplikasi,Bekasi,Jawa Barat,9000.0,0.0
+1309,117,2026-09-25 18:40:00,Selesai,Aplikasi,Bantul,DI Yogyakarta,18000.0,15000.0
+1310,317,2026-04-10 10:30:00,Selesai,Marketplace,Pontianak,Kalimantan Barat,12000.0,15000.0
+1311,406,2024-12-15 21:40:00,Selesai,Aplikasi,Pekanbaru,Riau,28000.0,0.0
+1312,188,2026-08-05 09:35:00,Dikirim,Marketplace,Bekasi,Jawa Barat,18000.0,10000.0
+1313,479,2025-03-16 12:30:00,Selesai,Aplikasi,Malang,Jawa Timur,28000.0,10000.0
+1314,277,2026-04-09 10:25:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,35000.0,15000.0
+1315,342,2023-06-20 21:25:00,Selesai,Aplikasi,Bandung,Jawa Barat,35000.0,10000.0
+1316,336,2024-09-12 18:30:00,Dikirim,Aplikasi,Depok,Jawa Barat,35000.0,15000.0
+1317,36,2023-09-16 09:40:00,Selesai,Marketplace,Padang,Sumatera Barat,9000.0,5000.0
+1318,80,2024-06-20 20:05:00,Selesai,Aplikasi,Surabaya,Jawa Timur,12000.0,5000.0
+1319,72,2023-11-02 22:50:00,Dikirim,Marketplace,Pekanbaru,Riau,9000.0,0.0
+1320,267,2024-05-23 20:55:00,Selesai,Marketplace,Semarang,Jawa Tengah,28000.0,10000.0
+1321,163,2026-10-14 18:55:00,Selesai,Aplikasi,Bantul,DI Yogyakarta,18000.0,15000.0
+1322,374,2025-03-10 11:35:00,Selesai,Aplikasi,Medan,Sumatera Utara,28000.0,5000.0
+1323,370,2026-03-15 11:45:00,Dikirim,Marketplace,Balikpapan,Kalimantan Timur,35000.0,10000.0
+1324,111,2023-01-25 11:55:00,Selesai,Website,Padang,Sumatera Barat,15000.0,5000.0
+1325,486,2023-10-27 17:10:00,Selesai,Marketplace,Yogyakarta,DI Yogyakarta,22000.0,0.0
+1326,242,2023-05-12 17:35:00,Dikirim,Aplikasi,Padang,Sumatera Barat,12000.0,10000.0
+1327,181,2023-02-09 08:25:00,Dikirim,Website,Bogor,Jawa Barat,9000.0,10000.0
+1328,67,2023-03-20 10:55:00,Selesai,Website,Bandung,Jawa Barat,28000.0,0.0
+1329,447,2025-03-22 11:05:00,Selesai,Marketplace,Palembang,Sumatera Selatan,18000.0,10000.0
+1330,298,2023-03-04 18:40:00,Selesai,Marketplace,Jakarta,DKI Jakarta,15000.0,10000.0
+1331,485,2023-12-15 16:00:00,Selesai,Aplikasi,Pekanbaru,Riau,9000.0,0.0
+1332,375,2023-09-08 13:10:00,Selesai,Aplikasi,Makassar,Sulawesi Selatan,28000.0,0.0
+1333,156,2024-07-09 19:00:00,Dibatalkan,Marketplace,Denpasar,Bali,15000.0,5000.0
+1334,361,2026-01-07 10:30:00,Selesai,Website,Pontianak,Kalimantan Barat,18000.0,0.0
+1335,169,2026-09-15 19:25:00,Selesai,Website,Bogor,Jawa Barat,15000.0,15000.0
+1336,157,2025-04-23 10:35:00,Dikirim,Aplikasi,Padang,Sumatera Barat,35000.0,15000.0
+1337,467,2024-12-14 18:10:00,Selesai,Marketplace,Yogyakarta,DI Yogyakarta,12000.0,5000.0
+1338,472,2025-03-10 22:05:00,Diproses,Marketplace,Jakarta,DKI Jakarta,28000.0,20000.0
+1339,277,2023-10-26 16:25:00,Diproses,Marketplace,Tangerang,Banten,22000.0,20000.0
+1340,122,2024-08-05 17:45:00,Dikembalikan,Marketplace,Surabaya,Jawa Timur,28000.0,15000.0
+1341,198,2024-12-04 12:50:00,Selesai,Marketplace,Denpasar,Bali,35000.0,0.0
+1342,260,2025-11-05 20:15:00,Dibatalkan,Aplikasi,Padang,Sumatera Barat,18000.0,15000.0
+1343,49,2024-10-09 18:00:00,Selesai,Website,Makassar,Sulawesi Selatan,22000.0,10000.0
+1344,210,2026-05-22 13:10:00,Dibatalkan,Aplikasi,Bantul,DI Yogyakarta,35000.0,0.0
+1345,122,2026-10-06 19:25:00,Dikirim,Aplikasi,Surabaya,Jawa Timur,18000.0,0.0
+1346,125,2025-01-23 13:55:00,Selesai,Marketplace,Bekasi,Jawa Barat,12000.0,0.0
+1347,289,2025-08-20 20:30:00,Selesai,Website,Depok,Jawa Barat,22000.0,10000.0
+1348,208,2023-11-12 10:10:00,Dibatalkan,Aplikasi,Solo,Jawa Tengah,12000.0,15000.0
+1349,480,2025-01-27 13:25:00,Selesai,Website,Padang,Sumatera Barat,18000.0,0.0
+1350,296,2024-06-22 18:30:00,Selesai,Aplikasi,Bandung,Jawa Barat,28000.0,15000.0
+1351,32,2025-02-06 13:50:00,Selesai,Website,Pontianak,Kalimantan Barat,35000.0,10000.0
+1352,20,2026-04-11 21:15:00,Selesai,Aplikasi,Semarang,Jawa Tengah,18000.0,5000.0
+1353,58,2024-11-21 11:00:00,Selesai,Website,Pekanbaru,Riau,18000.0,0.0
+1354,144,2023-04-21 13:20:00,Selesai,Aplikasi,Padang,Sumatera Barat,28000.0,10000.0
+1355,213,2025-10-27 17:25:00,Selesai,Marketplace,Tangerang,Banten,18000.0,5000.0
+1356,356,2024-12-02 10:25:00,Selesai,Aplikasi,Solo,Jawa Tengah,18000.0,15000.0
+1357,235,2025-06-07 09:10:00,Dibatalkan,Aplikasi,Bandung,Jawa Barat,22000.0,5000.0
+1358,37,2024-06-10 09:35:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,35000.0,5000.0
+1359,6,2026-08-06 14:30:00,Selesai,Aplikasi,Surabaya,Jawa Timur,35000.0,10000.0
+1360,345,2025-03-27 20:00:00,Selesai,Aplikasi,Surabaya,Jawa Timur,22000.0,10000.0
+1361,246,2023-07-31 19:00:00,Selesai,Aplikasi,Semarang,Jawa Tengah,15000.0,0.0
+1362,43,2024-11-01 09:05:00,Selesai,Marketplace,Makassar,Sulawesi Selatan,9000.0,0.0
+1363,350,2023-03-09 09:00:00,Dikembalikan,Website,Pekanbaru,Riau,18000.0,0.0
+1364,340,2026-06-14 20:55:00,Selesai,Aplikasi,Solo,Jawa Tengah,9000.0,0.0
+1365,462,2024-05-03 15:45:00,Diproses,Marketplace,Makassar,Sulawesi Selatan,35000.0,5000.0
+1366,255,2024-09-08 17:50:00,Selesai,Aplikasi,Padang,Sumatera Barat,15000.0,10000.0
+1367,131,2023-02-24 17:45:00,Selesai,Aplikasi,Solo,Jawa Tengah,12000.0,0.0
+1368,442,2025-12-30 12:30:00,Selesai,Marketplace,Semarang,Jawa Tengah,22000.0,10000.0
+1369,141,2023-01-18 22:00:00,Dikirim,Website,Pekanbaru,Riau,35000.0,5000.0
+1370,472,2026-06-02 10:05:00,Dikirim,Marketplace,Yogyakarta,DI Yogyakarta,18000.0,15000.0
+1371,471,2025-08-29 20:10:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,18000.0,0.0
+1372,269,2025-08-21 13:20:00,Selesai,Aplikasi,Bandung,Jawa Barat,18000.0,20000.0
+1373,94,2026-09-20 09:55:00,Selesai,Aplikasi,Bekasi,Jawa Barat,12000.0,10000.0
+1374,68,2023-05-08 20:35:00,Selesai,Aplikasi,Denpasar,Bali,22000.0,0.0
+1375,212,2023-11-28 12:20:00,Selesai,Marketplace,Solo,Jawa Tengah,18000.0,0.0
+1376,434,2025-09-26 16:00:00,Dibatalkan,Aplikasi,Malang,Jawa Timur,15000.0,15000.0
+1377,85,2026-02-02 18:40:00,Selesai,Website,Palembang,Sumatera Selatan,12000.0,15000.0
+1378,230,2023-11-12 08:15:00,Selesai,Website,Bekasi,Jawa Barat,28000.0,0.0
+1379,70,2026-01-14 19:50:00,Diproses,Website,Bogor,Jawa Barat,12000.0,10000.0
+1380,94,2024-04-11 21:15:00,Selesai,Aplikasi,Bantul,DI Yogyakarta,35000.0,20000.0
+1381,170,2025-12-22 13:55:00,Selesai,Website,Surabaya,Jawa Timur,12000.0,20000.0
+1382,173,2025-04-20 16:45:00,Diproses,Marketplace,Balikpapan,Kalimantan Timur,12000.0,10000.0
+1383,446,2024-04-21 16:30:00,Dikirim,Marketplace,Jakarta,DKI Jakarta,15000.0,5000.0
+1384,170,2025-08-10 22:55:00,Selesai,Website,Surabaya,Jawa Timur,35000.0,5000.0
+1385,212,2026-02-10 17:25:00,Selesai,Website,Solo,Jawa Tengah,28000.0,0.0
+1386,115,2025-05-18 16:45:00,Selesai,Marketplace,Pontianak,Kalimantan Barat,22000.0,20000.0
+1387,429,2025-04-06 15:00:00,Selesai,Aplikasi,Bekasi,Jawa Barat,18000.0,0.0
+1388,500,2024-12-02 13:50:00,Selesai,Aplikasi,Bandung,Jawa Barat,12000.0,10000.0
+1389,177,2023-09-26 19:50:00,Dikirim,Website,Bekasi,Jawa Barat,9000.0,5000.0
+1390,412,2026-09-23 10:35:00,Selesai,Marketplace,Palembang,Sumatera Selatan,15000.0,5000.0
+1391,371,2024-08-05 22:20:00,Selesai,Marketplace,Medan,Sumatera Utara,22000.0,0.0
+1392,291,2023-02-25 12:35:00,Selesai,Aplikasi,Solo,Jawa Tengah,12000.0,20000.0
+1393,411,2025-01-21 15:05:00,Selesai,Aplikasi,Bandung,Jawa Barat,28000.0,10000.0
+1394,363,2023-06-21 11:00:00,Selesai,Aplikasi,Denpasar,Bali,15000.0,10000.0
+1395,36,2026-10-19 14:20:00,Dikirim,Website,Padang,Sumatera Barat,9000.0,20000.0
+1396,251,2024-09-07 22:55:00,Dikirim,Marketplace,Bekasi,Jawa Barat,18000.0,0.0
+1397,407,2023-03-15 13:00:00,Selesai,Marketplace,Bogor,Jawa Barat,35000.0,0.0
+1398,491,2024-06-08 22:40:00,Selesai,Aplikasi,Medan,Sumatera Utara,9000.0,20000.0
+1399,255,2023-06-07 09:50:00,Dikembalikan,Aplikasi,Depok,Jawa Barat,35000.0,0.0
+1400,177,2024-07-29 14:45:00,Dikirim,Marketplace,Semarang,Jawa Tengah,18000.0,15000.0
+1401,287,2024-05-26 10:15:00,Selesai,Marketplace,Makassar,Sulawesi Selatan,35000.0,20000.0
+1402,253,2025-12-10 21:25:00,Dibatalkan,Marketplace,Solo,Jawa Tengah,12000.0,15000.0
+1403,471,2023-12-05 20:15:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,12000.0,10000.0
+1404,265,2025-09-09 19:20:00,Selesai,Website,Pontianak,Kalimantan Barat,35000.0,0.0
+1405,134,2024-09-10 08:40:00,Selesai,Marketplace,Padang,Sumatera Barat,15000.0,0.0
+1406,38,2025-02-19 09:05:00,Selesai,Marketplace,Padang,Sumatera Barat,35000.0,0.0
+1407,195,2024-06-07 22:15:00,Selesai,Website,Bogor,Jawa Barat,15000.0,20000.0
+1408,434,2026-10-13 14:30:00,Selesai,Website,Malang,Jawa Timur,9000.0,20000.0
+1409,193,2024-06-30 18:10:00,Selesai,Aplikasi,Solo,Jawa Tengah,28000.0,20000.0
+1410,400,2023-06-24 14:50:00,Dibatalkan,Aplikasi,Pontianak,Kalimantan Barat,22000.0,0.0
+1411,271,2026-02-24 12:15:00,Dikirim,Marketplace,Bantul,DI Yogyakarta,35000.0,5000.0
+1412,296,2023-09-12 12:10:00,Selesai,Aplikasi,Pekanbaru,Riau,15000.0,10000.0
+1413,4,2025-04-29 22:55:00,Dikirim,Marketplace,Yogyakarta,DI Yogyakarta,28000.0,20000.0
+1414,357,2024-01-13 11:25:00,Selesai,Marketplace,Pontianak,Kalimantan Barat,28000.0,0.0
+1415,336,2025-04-09 09:55:00,Diproses,Website,Bekasi,Jawa Barat,15000.0,20000.0
+1416,87,2025-08-24 19:25:00,Dikirim,Aplikasi,Padang,Sumatera Barat,22000.0,10000.0
+1417,234,2023-07-16 21:05:00,Selesai,Aplikasi,Solo,Jawa Tengah,28000.0,15000.0
+1418,478,2025-09-25 19:45:00,Selesai,Marketplace,Jakarta,DKI Jakarta,9000.0,0.0
+1419,375,2024-03-11 19:50:00,Selesai,Aplikasi,Solo,Jawa Tengah,28000.0,20000.0
+1420,287,2024-11-28 11:10:00,Selesai,Website,Semarang,Jawa Tengah,9000.0,20000.0
+1421,425,2025-01-09 15:05:00,Selesai,Aplikasi,Denpasar,Bali,35000.0,15000.0
+1422,214,2026-04-02 11:10:00,Selesai,Marketplace,Balikpapan,Kalimantan Timur,35000.0,20000.0
+1423,345,2025-10-04 19:20:00,Selesai,Marketplace,Balikpapan,Kalimantan Timur,28000.0,0.0
+1424,229,2025-10-17 15:45:00,Selesai,Marketplace,Malang,Jawa Timur,35000.0,0.0
+1425,65,2026-09-20 22:20:00,Selesai,Marketplace,Palembang,Sumatera Selatan,15000.0,5000.0
+1426,45,2024-12-03 10:50:00,Selesai,Aplikasi,Bogor,Jawa Barat,28000.0,5000.0
+1427,474,2024-03-03 11:10:00,Selesai,Website,Bantul,DI Yogyakarta,15000.0,0.0
+1428,91,2026-04-02 11:05:00,Selesai,Marketplace,Surabaya,Jawa Timur,28000.0,5000.0
+1429,105,2024-07-01 11:15:00,Selesai,Marketplace,Jakarta,DKI Jakarta,28000.0,0.0
+1430,347,2025-05-12 17:50:00,Selesai,Website,Bandung,Jawa Barat,28000.0,15000.0
+1431,149,2024-02-27 19:10:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,28000.0,10000.0
+1432,240,2024-03-21 18:15:00,Selesai,Aplikasi,Depok,Jawa Barat,12000.0,0.0
+1433,170,2025-06-11 14:55:00,Selesai,Aplikasi,Surabaya,Jawa Timur,28000.0,20000.0
+1434,425,2026-10-21 16:30:00,Selesai,Aplikasi,Denpasar,Bali,15000.0,15000.0
+1435,347,2026-05-06 17:20:00,Selesai,Marketplace,Denpasar,Bali,15000.0,0.0
+1436,241,2025-10-01 11:00:00,Selesai,Marketplace,Semarang,Jawa Tengah,9000.0,0.0
+1437,369,2023-12-15 19:15:00,Selesai,Aplikasi,Medan,Sumatera Utara,15000.0,10000.0
+1438,281,2025-03-22 19:55:00,Selesai,Aplikasi,Bekasi,Jawa Barat,35000.0,15000.0
+1439,183,2026-07-14 12:05:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,9000.0,20000.0
+1440,493,2024-09-06 12:35:00,Diproses,Aplikasi,Solo,Jawa Tengah,12000.0,10000.0
+1441,98,2024-09-12 19:35:00,Selesai,Aplikasi,Denpasar,Bali,35000.0,10000.0
+1442,331,2026-10-10 14:20:00,Selesai,Aplikasi,Denpasar,Bali,28000.0,0.0
+1443,17,2025-07-14 09:00:00,Selesai,Website,Depok,Jawa Barat,15000.0,20000.0
+1444,221,2023-09-08 18:55:00,Dikirim,Aplikasi,Pontianak,Kalimantan Barat,12000.0,0.0
+1445,283,2023-05-24 18:45:00,Dibatalkan,Website,Depok,Jawa Barat,35000.0,20000.0
+1446,115,2024-10-08 19:00:00,Diproses,Website,Pontianak,Kalimantan Barat,22000.0,0.0
+1447,29,2026-09-01 20:05:00,Selesai,Aplikasi,Denpasar,Bali,35000.0,10000.0
+1448,49,2026-04-29 11:45:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,22000.0,5000.0
+1449,43,2026-04-25 11:15:00,Dikirim,Website,Makassar,Sulawesi Selatan,12000.0,0.0
+1450,80,2026-01-12 08:30:00,Selesai,Website,Malang,Jawa Timur,12000.0,5000.0
+1451,48,2023-08-30 16:30:00,Selesai,Aplikasi,Surabaya,Jawa Timur,22000.0,0.0
+1452,31,2025-01-01 17:55:00,Selesai,Aplikasi,Pekanbaru,Riau,28000.0,0.0
+1453,285,2025-10-31 19:45:00,Dikembalikan,Marketplace,Palembang,Sumatera Selatan,35000.0,0.0
+1454,403,2023-07-31 19:40:00,Diproses,Aplikasi,Padang,Sumatera Barat,28000.0,20000.0
+1455,144,2024-12-22 08:30:00,Selesai,Aplikasi,Padang,Sumatera Barat,35000.0,15000.0
+1456,280,2026-03-16 18:00:00,Selesai,Website,Tangerang,Banten,15000.0,0.0
+1457,390,2024-08-12 15:30:00,Diproses,Aplikasi,Bekasi,Jawa Barat,22000.0,20000.0
+1458,365,2025-11-28 13:45:00,Dibatalkan,Website,Padang,Sumatera Barat,35000.0,15000.0
+1459,482,2026-01-28 17:50:00,Dikembalikan,Aplikasi,Medan,Sumatera Utara,18000.0,15000.0
+1460,81,2025-01-15 21:35:00,Dibatalkan,Website,Malang,Jawa Timur,28000.0,0.0
+1461,429,2026-05-14 14:05:00,Selesai,Website,Tangerang,Banten,35000.0,0.0
+1462,471,2024-11-05 17:45:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,12000.0,0.0
+1463,466,2024-07-29 21:00:00,Dikirim,Aplikasi,Surabaya,Jawa Timur,35000.0,5000.0
+1464,117,2025-10-04 17:45:00,Dikirim,Marketplace,Bantul,DI Yogyakarta,22000.0,0.0
+1465,232,2023-09-19 14:15:00,Diproses,Aplikasi,Tangerang,Banten,22000.0,10000.0
+1466,96,2024-10-21 11:25:00,Selesai,Marketplace,Pontianak,Kalimantan Barat,22000.0,15000.0
+1467,195,2025-12-26 10:40:00,Selesai,Aplikasi,Bandung,Jawa Barat,15000.0,15000.0
+1468,49,2023-03-12 15:20:00,Selesai,Marketplace,Balikpapan,Kalimantan Timur,15000.0,20000.0
+1469,181,2024-07-09 22:15:00,Selesai,Aplikasi,Bogor,Jawa Barat,22000.0,20000.0
+1470,106,2024-04-08 12:20:00,Selesai,Aplikasi,Bogor,Jawa Barat,28000.0,15000.0
+1471,311,2025-07-23 14:15:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,15000.0,10000.0
+1472,286,2025-06-18 08:20:00,Selesai,Aplikasi,Surabaya,Jawa Timur,15000.0,15000.0
+1473,493,2026-01-30 21:10:00,Selesai,Marketplace,Medan,Sumatera Utara,35000.0,15000.0
+1474,399,2026-04-15 21:30:00,Selesai,Aplikasi,Padang,Sumatera Barat,9000.0,5000.0
+1475,58,2025-06-05 13:05:00,Selesai,Aplikasi,Bogor,Jawa Barat,9000.0,0.0
+1476,353,2024-11-23 17:25:00,Dibatalkan,Marketplace,Depok,Jawa Barat,35000.0,10000.0
+1477,202,2025-10-13 10:35:00,Selesai,Aplikasi,Solo,Jawa Tengah,18000.0,5000.0
+1478,335,2024-09-01 10:30:00,Diproses,Marketplace,Surabaya,Jawa Timur,12000.0,0.0
+1479,102,2024-05-29 15:45:00,Selesai,Website,Semarang,Jawa Tengah,22000.0,10000.0
+1480,361,2024-09-30 21:50:00,Dikembalikan,Aplikasi,Pontianak,Kalimantan Barat,22000.0,0.0
+1481,19,2025-03-18 09:00:00,Dikirim,Marketplace,Bekasi,Jawa Barat,18000.0,0.0
+1482,187,2025-06-28 17:15:00,Selesai,Marketplace,Bogor,Jawa Barat,18000.0,0.0
+1483,321,2023-01-10 21:45:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,22000.0,10000.0
+1484,140,2023-12-11 14:15:00,Selesai,Aplikasi,Bandung,Jawa Barat,18000.0,15000.0
+1485,41,2026-07-10 20:55:00,Selesai,Marketplace,Bandung,Jawa Barat,15000.0,20000.0
+1486,140,2025-12-09 17:30:00,Selesai,Website,Medan,Sumatera Utara,22000.0,0.0
+1487,102,2025-04-05 17:15:00,Selesai,Aplikasi,Tangerang,Banten,12000.0,5000.0
+1488,53,2023-10-17 14:25:00,Selesai,Marketplace,Jakarta,DKI Jakarta,18000.0,15000.0
+1489,136,2026-05-02 10:00:00,Selesai,Marketplace,Surabaya,Jawa Timur,15000.0,20000.0
+1490,412,2026-05-06 13:05:00,Selesai,Marketplace,Palembang,Sumatera Selatan,15000.0,10000.0
+1491,303,2024-11-30 08:25:00,Selesai,Marketplace,Yogyakarta,DI Yogyakarta,28000.0,0.0
+1492,123,2023-07-14 21:15:00,Selesai,Website,Palembang,Sumatera Selatan,18000.0,5000.0
+1493,172,2023-01-24 15:45:00,Selesai,Website,Depok,Jawa Barat,35000.0,20000.0
+1494,413,2024-06-04 16:25:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,35000.0,0.0
+1495,445,2026-09-20 20:30:00,Dikirim,Aplikasi,Denpasar,Bali,28000.0,0.0
+1496,13,2024-01-17 18:00:00,Selesai,Marketplace,Depok,Jawa Barat,18000.0,0.0
+1497,196,2023-02-13 17:10:00,Dibatalkan,Aplikasi,Depok,Jawa Barat,18000.0,0.0
+1498,14,2026-07-10 17:25:00,Selesai,Aplikasi,Semarang,Jawa Tengah,15000.0,0.0
+1499,65,2024-09-08 16:05:00,Diproses,Website,Bandung,Jawa Barat,12000.0,0.0
+1500,416,2023-11-04 12:55:00,Selesai,Aplikasi,Malang,Jawa Timur,12000.0,10000.0
+1501,446,2024-07-16 21:10:00,Selesai,Marketplace,Jakarta,DKI Jakarta,9000.0,10000.0
+1502,480,2026-03-23 14:55:00,Diproses,Marketplace,Padang,Sumatera Barat,15000.0,20000.0
+1503,145,2023-08-24 22:55:00,Dikirim,Marketplace,Malang,Jawa Timur,22000.0,10000.0
+1504,477,2024-12-22 17:55:00,Diproses,Marketplace,Semarang,Jawa Tengah,15000.0,20000.0
+1505,255,2025-02-01 17:10:00,Selesai,Marketplace,Malang,Jawa Timur,9000.0,0.0
+1506,253,2024-08-06 21:25:00,Dikirim,Aplikasi,Solo,Jawa Tengah,15000.0,10000.0
+1507,433,2023-11-12 13:25:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,9000.0,0.0
+1508,419,2023-08-20 19:50:00,Selesai,Website,Surabaya,Jawa Timur,28000.0,20000.0
+1509,319,2025-06-10 20:10:00,Dibatalkan,Aplikasi,Tangerang,Banten,22000.0,15000.0
+1510,314,2023-01-16 12:55:00,Selesai,Website,Makassar,Sulawesi Selatan,18000.0,20000.0
+1511,165,2026-07-05 19:45:00,Selesai,Website,Surabaya,Jawa Timur,18000.0,10000.0
+1512,18,2026-02-04 11:45:00,Selesai,Website,Medan,Sumatera Utara,35000.0,0.0
+1513,222,2026-04-18 08:10:00,Dibatalkan,Aplikasi,Pekanbaru,Riau,12000.0,10000.0
+1514,452,2023-10-04 19:00:00,Selesai,Aplikasi,Depok,Jawa Barat,28000.0,0.0
+1515,435,2025-08-06 18:40:00,Selesai,Aplikasi,Medan,Sumatera Utara,12000.0,20000.0
+1516,270,2023-06-30 12:20:00,Selesai,Aplikasi,Depok,Jawa Barat,35000.0,10000.0
+1517,199,2026-09-29 20:40:00,Selesai,Marketplace,Bogor,Jawa Barat,28000.0,10000.0
+1518,96,2025-08-15 11:15:00,Selesai,Aplikasi,Denpasar,Bali,15000.0,0.0
+1519,300,2024-10-28 18:35:00,Selesai,Aplikasi,Yogyakarta,DI Yogyakarta,28000.0,20000.0
+1520,328,2026-05-17 12:15:00,Dikembalikan,Marketplace,Pekanbaru,Riau,12000.0,5000.0
+1521,22,2023-11-06 09:50:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,18000.0,15000.0
+1522,498,2026-10-05 18:00:00,Dikirim,Aplikasi,Bandung,Jawa Barat,28000.0,0.0
+1523,364,2025-09-01 22:30:00,Selesai,Marketplace,Bantul,DI Yogyakarta,12000.0,20000.0
+1524,187,2026-05-20 09:40:00,Selesai,Aplikasi,Bogor,Jawa Barat,35000.0,15000.0
+1525,491,2024-08-16 11:25:00,Dibatalkan,Aplikasi,Medan,Sumatera Utara,12000.0,0.0
+1526,72,2026-01-30 17:35:00,Selesai,Marketplace,Medan,Sumatera Utara,12000.0,20000.0
+1527,204,2024-03-29 11:30:00,Selesai,Aplikasi,Medan,Sumatera Utara,15000.0,0.0
+1528,161,2023-01-16 22:25:00,Dibatalkan,Marketplace,Medan,Sumatera Utara,28000.0,5000.0
+1529,408,2024-04-15 20:55:00,Dibatalkan,Website,Depok,Jawa Barat,35000.0,0.0
+1530,441,2025-12-17 11:00:00,Selesai,Website,Jakarta,DKI Jakarta,28000.0,0.0
+1531,17,2023-04-13 17:15:00,Selesai,Aplikasi,Yogyakarta,DI Yogyakarta,15000.0,15000.0
+1532,446,2026-03-29 21:40:00,Dikirim,Website,Jakarta,DKI Jakarta,35000.0,0.0
+1533,420,2026-06-28 10:40:00,Dikirim,Marketplace,Tangerang,Banten,12000.0,20000.0
+1534,310,2023-03-17 13:45:00,Selesai,Marketplace,Bekasi,Jawa Barat,12000.0,15000.0
+1535,302,2025-02-08 12:50:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,28000.0,20000.0
+1536,240,2025-10-15 21:30:00,Dikirim,Website,Medan,Sumatera Utara,15000.0,5000.0
+1537,339,2023-02-23 20:10:00,Dikembalikan,Marketplace,Balikpapan,Kalimantan Timur,28000.0,5000.0
+1538,224,2026-08-22 09:45:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,35000.0,10000.0
+1539,13,2026-09-30 18:55:00,Selesai,Aplikasi,Depok,Jawa Barat,18000.0,20000.0
+1540,223,2025-10-02 15:15:00,Selesai,Marketplace,Bandung,Jawa Barat,15000.0,5000.0
+1541,25,2023-08-05 14:35:00,Diproses,Marketplace,Semarang,Jawa Tengah,28000.0,10000.0
+1542,231,2025-02-04 21:45:00,Dibatalkan,Aplikasi,Medan,Sumatera Utara,15000.0,15000.0
+1543,64,2025-10-02 09:45:00,Selesai,Aplikasi,Semarang,Jawa Tengah,22000.0,10000.0
+1544,165,2025-12-22 10:40:00,Diproses,Marketplace,Pontianak,Kalimantan Barat,18000.0,0.0
+1545,142,2024-06-03 15:40:00,Selesai,Website,Solo,Jawa Tengah,12000.0,5000.0
+1546,334,2025-06-18 13:50:00,Selesai,Aplikasi,Makassar,Sulawesi Selatan,18000.0,15000.0
+1547,354,2024-12-21 08:45:00,Selesai,Marketplace,Palembang,Sumatera Selatan,12000.0,0.0
+1548,500,2025-12-02 16:25:00,Selesai,Aplikasi,Bandung,Jawa Barat,35000.0,0.0
+1549,440,2026-04-29 15:20:00,Selesai,Aplikasi,Semarang,Jawa Tengah,35000.0,10000.0
+1550,329,2023-11-15 20:50:00,Selesai,Aplikasi,Tangerang,Banten,15000.0,0.0
+1551,427,2024-08-04 14:10:00,Selesai,Website,Bekasi,Jawa Barat,9000.0,20000.0
+1552,3,2023-06-20 20:35:00,Selesai,Aplikasi,Bekasi,Jawa Barat,15000.0,5000.0
+1553,201,2023-10-01 09:20:00,Selesai,Marketplace,Medan,Sumatera Utara,28000.0,0.0
+1554,264,2026-05-28 13:30:00,Selesai,Marketplace,Malang,Jawa Timur,22000.0,15000.0
+1555,464,2024-10-16 16:05:00,Selesai,Aplikasi,Semarang,Jawa Tengah,28000.0,0.0
+1556,293,2026-05-29 12:40:00,Selesai,Website,Bandung,Jawa Barat,9000.0,20000.0
+1557,146,2024-10-20 10:00:00,Dibatalkan,Marketplace,Balikpapan,Kalimantan Timur,35000.0,15000.0
+1558,360,2026-06-20 16:40:00,Dikembalikan,Aplikasi,Pontianak,Kalimantan Barat,15000.0,10000.0
+1559,468,2024-07-13 19:50:00,Selesai,Marketplace,Bekasi,Jawa Barat,15000.0,0.0
+1560,53,2025-12-28 20:10:00,Dikirim,Website,Jakarta,DKI Jakarta,12000.0,10000.0
+1561,6,2024-05-20 22:20:00,Selesai,Aplikasi,Bekasi,Jawa Barat,18000.0,20000.0
+1562,253,2025-05-23 19:30:00,Dibatalkan,Aplikasi,Solo,Jawa Tengah,22000.0,15000.0
+1563,345,2025-10-06 22:10:00,Selesai,Aplikasi,Bantul,DI Yogyakarta,12000.0,0.0
+1564,489,2026-04-04 16:25:00,Selesai,Website,Denpasar,Bali,28000.0,0.0
+1565,463,2023-06-11 16:45:00,Selesai,Aplikasi,Denpasar,Bali,9000.0,20000.0
+1566,128,2025-08-15 19:00:00,Selesai,Marketplace,Bandung,Jawa Barat,35000.0,15000.0
+1567,296,2025-03-29 11:25:00,Selesai,Aplikasi,Pekanbaru,Riau,28000.0,5000.0
+1568,379,2023-12-17 10:25:00,Selesai,Aplikasi,Bantul,DI Yogyakarta,12000.0,20000.0
+1569,472,2023-02-23 17:30:00,Selesai,Aplikasi,Yogyakarta,DI Yogyakarta,28000.0,0.0
+1570,215,2025-10-25 20:35:00,Dikirim,Marketplace,Solo,Jawa Tengah,28000.0,0.0
+1571,385,2024-09-21 18:35:00,Diproses,Marketplace,Denpasar,Bali,15000.0,0.0
+1572,126,2024-03-21 09:05:00,Selesai,Marketplace,Solo,Jawa Tengah,12000.0,0.0
+1573,393,2026-04-05 22:20:00,Selesai,Website,Tangerang,Banten,12000.0,20000.0
+1574,45,2023-10-03 16:20:00,Dikembalikan,Website,Bogor,Jawa Barat,28000.0,10000.0
+1575,254,2024-02-24 12:20:00,Selesai,Website,Palembang,Sumatera Selatan,15000.0,0.0
+1576,103,2024-11-19 13:25:00,Dikembalikan,Aplikasi,Bekasi,Jawa Barat,15000.0,0.0
+1577,387,2023-09-25 18:05:00,Selesai,Marketplace,Padang,Sumatera Barat,9000.0,15000.0
+1578,405,2026-01-04 09:40:00,Dikembalikan,Website,Tangerang,Banten,18000.0,15000.0
+1579,257,2025-11-10 20:05:00,Selesai,Marketplace,Pekanbaru,Riau,35000.0,15000.0
+1580,321,2023-08-08 13:35:00,Dikirim,Aplikasi,Semarang,Jawa Tengah,22000.0,0.0
+1581,162,2025-04-20 11:40:00,Selesai,Aplikasi,Bandung,Jawa Barat,18000.0,0.0
+1582,29,2025-01-05 18:50:00,Selesai,Aplikasi,Tangerang,Banten,12000.0,15000.0
+1583,498,2026-08-12 19:55:00,Selesai,Marketplace,Medan,Sumatera Utara,9000.0,20000.0
+1584,390,2023-12-22 12:30:00,Selesai,Aplikasi,Yogyakarta,DI Yogyakarta,28000.0,5000.0
+1585,133,2025-04-28 15:05:00,Selesai,Website,Tangerang,Banten,9000.0,10000.0
+1586,217,2026-06-10 21:35:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,35000.0,20000.0
+1587,320,2025-10-21 22:45:00,Selesai,Aplikasi,Pekanbaru,Riau,35000.0,10000.0
+1588,126,2023-06-21 21:20:00,Dibatalkan,Aplikasi,Pekanbaru,Riau,35000.0,0.0
+1589,244,2024-05-18 12:15:00,Dibatalkan,Aplikasi,Pontianak,Kalimantan Barat,12000.0,15000.0
+1590,449,2023-11-14 11:05:00,Selesai,Aplikasi,Bekasi,Jawa Barat,9000.0,15000.0
+1591,127,2024-02-22 08:00:00,Selesai,Website,Pontianak,Kalimantan Barat,9000.0,15000.0
+1592,397,2023-09-11 21:30:00,Selesai,Aplikasi,Jakarta,DKI Jakarta,28000.0,20000.0
+1593,329,2023-05-03 16:05:00,Selesai,Aplikasi,Tangerang,Banten,35000.0,20000.0
+1594,88,2023-03-03 13:00:00,Dibatalkan,Aplikasi,Solo,Jawa Tengah,9000.0,20000.0
+1595,130,2024-07-14 17:30:00,Selesai,Aplikasi,Pekanbaru,Riau,9000.0,0.0
+1596,304,2026-02-25 13:50:00,Dikirim,Aplikasi,Bogor,Jawa Barat,18000.0,0.0
+1597,73,2025-08-17 08:35:00,Selesai,Aplikasi,Malang,Jawa Timur,12000.0,0.0
+1598,191,2024-04-18 19:50:00,Dikembalikan,Marketplace,Semarang,Jawa Tengah,15000.0,0.0
+1599,310,2026-06-30 13:35:00,Diproses,Marketplace,Tangerang,Banten,12000.0,5000.0
+1600,55,2023-09-29 21:10:00,Dibatalkan,Aplikasi,Makassar,Sulawesi Selatan,9000.0,0.0
+1601,139,2023-03-24 12:55:00,Dibatalkan,Aplikasi,Malang,Jawa Timur,15000.0,0.0
+1602,481,2023-09-26 16:55:00,Selesai,Website,Makassar,Sulawesi Selatan,35000.0,15000.0
+1603,106,2024-10-13 19:20:00,Selesai,Marketplace,Yogyakarta,DI Yogyakarta,35000.0,15000.0
+1604,251,2023-12-05 09:20:00,Selesai,Aplikasi,Bekasi,Jawa Barat,15000.0,15000.0
+1605,114,2026-03-09 13:00:00,Selesai,Website,Pontianak,Kalimantan Barat,12000.0,5000.0
+1606,328,2025-12-12 10:30:00,Selesai,Website,Jakarta,DKI Jakarta,22000.0,0.0
+1607,212,2024-04-25 11:05:00,Dikirim,Marketplace,Semarang,Jawa Tengah,35000.0,10000.0
+1608,7,2024-07-26 09:15:00,Dibatalkan,Website,Palembang,Sumatera Selatan,22000.0,15000.0
+1609,225,2024-05-23 14:30:00,Selesai,Aplikasi,Solo,Jawa Tengah,12000.0,5000.0
+1610,334,2026-09-18 13:00:00,Selesai,Aplikasi,Makassar,Sulawesi Selatan,18000.0,0.0
+1611,55,2025-02-12 15:20:00,Dikembalikan,Aplikasi,Makassar,Sulawesi Selatan,28000.0,10000.0
+1612,78,2023-07-07 16:35:00,Selesai,Aplikasi,Bogor,Jawa Barat,18000.0,10000.0
+1613,280,2025-06-20 08:20:00,Selesai,Aplikasi,Solo,Jawa Tengah,12000.0,5000.0
+1614,488,2024-12-02 20:35:00,Selesai,Aplikasi,Surabaya,Jawa Timur,18000.0,0.0
+1615,179,2025-01-22 11:10:00,Selesai,Website,Yogyakarta,DI Yogyakarta,35000.0,5000.0
+1616,462,2024-05-18 21:50:00,Selesai,Aplikasi,Surabaya,Jawa Timur,12000.0,10000.0
+1617,51,2024-05-21 21:35:00,Selesai,Website,Denpasar,Bali,15000.0,15000.0
+1618,363,2024-09-08 21:00:00,Diproses,Aplikasi,Denpasar,Bali,15000.0,20000.0
+1619,376,2025-10-22 15:10:00,Selesai,Marketplace,Tangerang,Banten,28000.0,10000.0
+1620,403,2025-08-02 19:05:00,Selesai,Marketplace,Padang,Sumatera Barat,28000.0,15000.0
+1621,187,2023-08-15 19:35:00,Selesai,Aplikasi,Malang,Jawa Timur,9000.0,0.0
+1622,472,2025-03-29 22:25:00,Dikirim,Marketplace,Padang,Sumatera Barat,18000.0,5000.0
+1623,169,2023-05-25 15:25:00,Selesai,Aplikasi,Medan,Sumatera Utara,22000.0,10000.0
+1624,21,2026-05-28 10:45:00,Dikirim,Aplikasi,Surabaya,Jawa Timur,28000.0,0.0
+1625,357,2026-03-06 21:15:00,Selesai,Website,Bekasi,Jawa Barat,9000.0,0.0
+1626,176,2024-10-16 13:10:00,Selesai,Aplikasi,Semarang,Jawa Tengah,22000.0,5000.0
+1627,363,2024-10-11 09:35:00,Dibatalkan,Marketplace,Makassar,Sulawesi Selatan,12000.0,15000.0
+1628,382,2026-09-22 12:05:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,12000.0,0.0
+1629,101,2026-01-04 12:10:00,Selesai,Marketplace,Yogyakarta,DI Yogyakarta,35000.0,0.0
+1630,439,2023-01-19 11:40:00,Dibatalkan,Aplikasi,Semarang,Jawa Tengah,9000.0,0.0
+1631,461,2025-02-22 10:20:00,Dikirim,Marketplace,Depok,Jawa Barat,18000.0,15000.0
+1632,181,2023-11-15 12:15:00,Diproses,Aplikasi,Bogor,Jawa Barat,15000.0,0.0
+1633,153,2024-12-10 08:35:00,Selesai,Website,Balikpapan,Kalimantan Timur,28000.0,10000.0
+1634,139,2024-02-19 09:00:00,Dibatalkan,Website,Jakarta,DKI Jakarta,18000.0,0.0
+1635,183,2024-04-06 13:25:00,Selesai,Marketplace,Pontianak,Kalimantan Barat,15000.0,5000.0
+1636,112,2023-09-19 17:20:00,Selesai,Marketplace,Pontianak,Kalimantan Barat,35000.0,0.0
+1637,26,2025-08-25 17:55:00,Selesai,Aplikasi,Padang,Sumatera Barat,15000.0,10000.0
+1638,231,2023-08-13 10:35:00,Selesai,Website,Bantul,DI Yogyakarta,28000.0,20000.0
+1639,201,2026-05-09 09:00:00,Selesai,Aplikasi,Bekasi,Jawa Barat,15000.0,0.0
+1640,323,2025-06-23 14:55:00,Selesai,Aplikasi,Bandung,Jawa Barat,18000.0,10000.0
+1641,309,2026-01-11 20:25:00,Selesai,Website,Makassar,Sulawesi Selatan,22000.0,0.0
+1642,453,2025-04-04 13:40:00,Selesai,Aplikasi,Pekanbaru,Riau,22000.0,15000.0
+1643,146,2024-11-15 12:55:00,Selesai,Website,Surabaya,Jawa Timur,9000.0,5000.0
+1644,361,2026-04-02 14:25:00,Diproses,Website,Tangerang,Banten,35000.0,15000.0
+1645,132,2023-06-30 08:45:00,Selesai,Marketplace,Padang,Sumatera Barat,12000.0,0.0
+1646,329,2025-09-19 14:30:00,Selesai,Website,Tangerang,Banten,12000.0,5000.0
+1647,9,2024-02-15 13:50:00,Diproses,Aplikasi,Tangerang,Banten,28000.0,0.0
+1648,331,2024-11-03 11:45:00,Selesai,Aplikasi,Denpasar,Bali,22000.0,0.0
+1649,159,2025-06-02 22:50:00,Dikirim,Aplikasi,Denpasar,Bali,22000.0,15000.0
+1650,85,2024-01-13 14:30:00,Selesai,Marketplace,Palembang,Sumatera Selatan,12000.0,20000.0
+1651,85,2023-04-23 19:50:00,Selesai,Website,Palembang,Sumatera Selatan,35000.0,15000.0
+1652,381,2026-01-24 08:30:00,Dikirim,Aplikasi,Solo,Jawa Tengah,22000.0,20000.0
+1653,466,2023-06-20 16:30:00,Selesai,Aplikasi,Depok,Jawa Barat,35000.0,0.0
+1654,63,2024-01-26 12:35:00,Selesai,Website,Pekanbaru,Riau,12000.0,15000.0
+1655,477,2025-02-28 11:05:00,Selesai,Aplikasi,Surabaya,Jawa Timur,9000.0,0.0
+1656,35,2023-01-10 17:40:00,Selesai,Website,Jakarta,DKI Jakarta,9000.0,0.0
+1657,460,2023-07-20 18:35:00,Selesai,Aplikasi,Denpasar,Bali,22000.0,15000.0
+1658,193,2023-12-23 12:20:00,Selesai,Aplikasi,Makassar,Sulawesi Selatan,12000.0,20000.0
+1659,273,2024-06-05 08:00:00,Selesai,Aplikasi,Bandung,Jawa Barat,28000.0,15000.0
+1660,358,2024-04-23 10:50:00,Diproses,Aplikasi,Pontianak,Kalimantan Barat,28000.0,5000.0
+1661,111,2025-03-02 15:50:00,Selesai,Marketplace,Bogor,Jawa Barat,9000.0,5000.0
+1662,387,2025-06-25 11:00:00,Selesai,Website,Balikpapan,Kalimantan Timur,22000.0,0.0
+1663,406,2026-05-30 16:20:00,Diproses,Website,Bogor,Jawa Barat,15000.0,0.0
+1664,224,2025-10-04 08:55:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,12000.0,0.0
+1665,305,2023-10-09 16:10:00,Selesai,Website,Denpasar,Bali,28000.0,10000.0
+1666,274,2026-06-19 17:00:00,Selesai,Website,Jakarta,DKI Jakarta,9000.0,5000.0
+1667,277,2025-06-19 17:30:00,Dibatalkan,Aplikasi,Yogyakarta,DI Yogyakarta,12000.0,15000.0
+1668,13,2024-09-01 16:50:00,Selesai,Website,Depok,Jawa Barat,28000.0,10000.0
+1669,206,2025-05-02 22:05:00,Selesai,Aplikasi,Denpasar,Bali,15000.0,10000.0
+1670,3,2024-12-17 11:20:00,Selesai,Marketplace,Bekasi,Jawa Barat,18000.0,5000.0
+1671,269,2025-08-29 20:15:00,Selesai,Aplikasi,Bandung,Jawa Barat,12000.0,5000.0
+1672,359,2026-06-08 11:45:00,Selesai,Aplikasi,Jakarta,DKI Jakarta,12000.0,15000.0
+1673,284,2026-09-16 15:30:00,Selesai,Marketplace,Balikpapan,Kalimantan Timur,18000.0,0.0
+1674,135,2023-07-08 13:30:00,Selesai,Aplikasi,Semarang,Jawa Tengah,28000.0,0.0
+1675,142,2025-01-13 20:55:00,Selesai,Marketplace,Depok,Jawa Barat,28000.0,0.0
+1676,171,2024-08-14 10:05:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,15000.0,0.0
+1677,339,2023-12-31 17:45:00,Dikirim,Marketplace,Bogor,Jawa Barat,12000.0,0.0
+1678,415,2025-01-24 18:05:00,Diproses,Website,Padang,Sumatera Barat,15000.0,5000.0
+1679,381,2026-08-03 18:30:00,Dibatalkan,Aplikasi,Solo,Jawa Tengah,28000.0,0.0
+1680,14,2026-05-03 18:30:00,Selesai,Aplikasi,Semarang,Jawa Tengah,15000.0,10000.0
+1681,174,2023-06-08 21:20:00,Selesai,Aplikasi,Bekasi,Jawa Barat,9000.0,0.0
+1682,390,2025-09-11 10:40:00,Dibatalkan,Aplikasi,Bekasi,Jawa Barat,18000.0,20000.0
+1683,326,2025-10-31 22:20:00,Selesai,Marketplace,Padang,Sumatera Barat,28000.0,0.0
+1684,368,2025-01-24 10:40:00,Selesai,Marketplace,Pontianak,Kalimantan Barat,28000.0,10000.0
+1685,421,2025-12-30 21:15:00,Selesai,Aplikasi,Makassar,Sulawesi Selatan,18000.0,0.0
+1686,163,2024-07-28 21:15:00,Selesai,Marketplace,Padang,Sumatera Barat,15000.0,20000.0
+1687,240,2023-02-05 22:35:00,Selesai,Website,Palembang,Sumatera Selatan,12000.0,0.0
+1688,430,2023-08-01 16:00:00,Dikirim,Website,Makassar,Sulawesi Selatan,15000.0,0.0
+1689,472,2024-10-22 15:15:00,Selesai,Marketplace,Tangerang,Banten,22000.0,20000.0
+1690,27,2025-10-04 20:25:00,Diproses,Marketplace,Solo,Jawa Tengah,35000.0,5000.0
+1691,28,2024-04-03 18:40:00,Selesai,Website,Depok,Jawa Barat,9000.0,0.0
+1692,193,2023-11-26 17:20:00,Selesai,Aplikasi,Bekasi,Jawa Barat,28000.0,5000.0
+1693,270,2025-12-12 15:15:00,Selesai,Aplikasi,Depok,Jawa Barat,28000.0,5000.0
+1694,104,2023-05-06 16:25:00,Selesai,Website,Denpasar,Bali,28000.0,0.0
+1695,242,2023-04-09 19:10:00,Selesai,Website,Pekanbaru,Riau,22000.0,0.0
+1696,129,2023-08-15 17:25:00,Dikirim,Aplikasi,Depok,Jawa Barat,12000.0,0.0
+1697,106,2023-04-11 16:45:00,Diproses,Website,Yogyakarta,DI Yogyakarta,28000.0,0.0
+1698,173,2025-08-09 08:10:00,Selesai,Website,Jakarta,DKI Jakarta,12000.0,20000.0
+1699,288,2026-09-15 10:35:00,Selesai,Marketplace,Malang,Jawa Timur,22000.0,5000.0
+1700,118,2025-11-04 17:15:00,Selesai,Marketplace,Tangerang,Banten,12000.0,0.0
+1701,161,2026-09-07 12:20:00,Selesai,Marketplace,Palembang,Sumatera Selatan,12000.0,0.0
+1702,352,2023-04-03 09:50:00,Selesai,Aplikasi,Medan,Sumatera Utara,9000.0,15000.0
+1703,139,2023-03-29 18:15:00,Selesai,Website,Balikpapan,Kalimantan Timur,28000.0,0.0
+1704,180,2023-12-30 15:25:00,Selesai,Website,Bogor,Jawa Barat,22000.0,15000.0
+1705,465,2025-11-06 09:25:00,Selesai,Aplikasi,Depok,Jawa Barat,28000.0,0.0
+1706,209,2024-11-30 17:25:00,Selesai,Aplikasi,Surabaya,Jawa Timur,9000.0,20000.0
+1707,477,2023-11-01 13:30:00,Selesai,Website,Semarang,Jawa Tengah,12000.0,0.0
+1708,284,2025-09-13 17:40:00,Selesai,Marketplace,Pekanbaru,Riau,28000.0,0.0
+1709,363,2026-03-14 22:10:00,Selesai,Aplikasi,Denpasar,Bali,22000.0,15000.0
+1710,301,2023-08-15 15:30:00,Selesai,Website,Jakarta,DKI Jakarta,22000.0,0.0
+1711,329,2025-07-20 13:30:00,Selesai,Aplikasi,Solo,Jawa Tengah,35000.0,10000.0
+1712,384,2024-04-14 20:25:00,Dikirim,Website,Semarang,Jawa Tengah,22000.0,10000.0
+1713,212,2026-02-25 13:15:00,Dibatalkan,Marketplace,Surabaya,Jawa Timur,35000.0,0.0
+1714,309,2024-03-04 18:30:00,Selesai,Aplikasi,Pekanbaru,Riau,18000.0,15000.0
+1715,16,2025-01-09 11:25:00,Selesai,Website,Solo,Jawa Tengah,28000.0,0.0
+1716,299,2023-04-08 21:55:00,Selesai,Aplikasi,Medan,Sumatera Utara,22000.0,5000.0
+1717,260,2023-12-13 22:00:00,Dibatalkan,Website,Medan,Sumatera Utara,9000.0,0.0
+1718,336,2024-07-04 19:45:00,Selesai,Website,Bekasi,Jawa Barat,35000.0,0.0
+1719,175,2023-03-11 19:45:00,Dikirim,Aplikasi,Depok,Jawa Barat,22000.0,0.0
+1720,400,2023-11-12 18:35:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,22000.0,20000.0
+1721,475,2024-03-15 16:40:00,Selesai,Website,Depok,Jawa Barat,9000.0,20000.0
+1722,357,2025-04-10 18:25:00,Selesai,Aplikasi,Bekasi,Jawa Barat,35000.0,20000.0
+1723,129,2026-04-24 19:25:00,Selesai,Aplikasi,Jakarta,DKI Jakarta,22000.0,15000.0
+1724,162,2025-10-11 20:40:00,Dikirim,Aplikasi,Bandung,Jawa Barat,22000.0,0.0
+1725,260,2025-03-14 15:55:00,Selesai,Aplikasi,Malang,Jawa Timur,18000.0,0.0
+1726,295,2026-03-24 14:35:00,Selesai,Website,Pontianak,Kalimantan Barat,9000.0,0.0
+1727,323,2023-06-27 22:45:00,Selesai,Website,Bandung,Jawa Barat,15000.0,10000.0
+1728,374,2024-05-20 16:40:00,Selesai,Aplikasi,Semarang,Jawa Tengah,18000.0,5000.0
+1729,282,2025-08-02 12:20:00,Selesai,Aplikasi,Bantul,DI Yogyakarta,9000.0,10000.0
+1730,320,2023-01-18 10:30:00,Diproses,Website,Padang,Sumatera Barat,12000.0,0.0
+1731,225,2025-07-15 15:05:00,Selesai,Marketplace,Palembang,Sumatera Selatan,35000.0,20000.0
+1732,214,2025-06-15 15:40:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,28000.0,0.0
+1733,245,2023-07-14 19:55:00,Selesai,Website,Tangerang,Banten,15000.0,20000.0
+1734,432,2023-04-10 19:05:00,Dikirim,Aplikasi,Pontianak,Kalimantan Barat,9000.0,20000.0
+1735,39,2025-05-26 12:55:00,Selesai,Marketplace,Bekasi,Jawa Barat,28000.0,0.0
+1736,108,2024-04-02 12:30:00,Selesai,Website,Pontianak,Kalimantan Barat,35000.0,5000.0
+1737,78,2026-07-01 22:25:00,Selesai,Marketplace,Bogor,Jawa Barat,18000.0,0.0
+1738,493,2026-10-18 19:10:00,Selesai,Aplikasi,Solo,Jawa Tengah,28000.0,10000.0
+1739,351,2026-08-27 12:35:00,Selesai,Aplikasi,Pekanbaru,Riau,35000.0,15000.0
+1740,396,2024-04-01 10:40:00,Diproses,Website,Medan,Sumatera Utara,35000.0,20000.0
+1741,163,2025-12-21 22:15:00,Selesai,Marketplace,Padang,Sumatera Barat,9000.0,0.0
+1742,417,2025-01-07 15:05:00,Selesai,Marketplace,Palembang,Sumatera Selatan,22000.0,15000.0
+1743,225,2026-10-24 16:40:00,Selesai,Website,Solo,Jawa Tengah,12000.0,20000.0
+1744,125,2026-02-08 12:30:00,Selesai,Aplikasi,Tangerang,Banten,28000.0,5000.0
+1745,256,2023-06-15 18:05:00,Selesai,Marketplace,Bekasi,Jawa Barat,15000.0,20000.0
+1746,92,2025-12-09 12:25:00,Dikirim,Aplikasi,Semarang,Jawa Tengah,15000.0,20000.0
+1747,181,2023-08-02 18:00:00,Selesai,Aplikasi,Bogor,Jawa Barat,9000.0,0.0
+1748,338,2025-11-12 21:50:00,Selesai,Marketplace,Pekanbaru,Riau,28000.0,5000.0
+1749,448,2023-06-05 14:25:00,Selesai,Website,Semarang,Jawa Tengah,28000.0,0.0
+1750,474,2025-08-08 20:10:00,Selesai,Aplikasi,Bandung,Jawa Barat,12000.0,0.0
+1751,277,2024-03-31 18:15:00,Diproses,Aplikasi,Yogyakarta,DI Yogyakarta,9000.0,0.0
+1752,260,2023-05-28 13:50:00,Selesai,Aplikasi,Pekanbaru,Riau,35000.0,15000.0
+1753,378,2023-10-06 12:55:00,Dibatalkan,Website,Bantul,DI Yogyakarta,22000.0,0.0
+1754,204,2026-02-23 11:40:00,Dikembalikan,Aplikasi,Denpasar,Bali,35000.0,15000.0
+1755,269,2024-04-05 08:40:00,Selesai,Aplikasi,Bandung,Jawa Barat,9000.0,0.0
+1756,429,2026-02-14 10:15:00,Selesai,Website,Tangerang,Banten,9000.0,10000.0
+1757,355,2023-09-13 15:20:00,Dikirim,Website,Surabaya,Jawa Timur,12000.0,15000.0
+1758,307,2025-02-11 08:35:00,Selesai,Aplikasi,Makassar,Sulawesi Selatan,28000.0,0.0
+1759,431,2026-10-21 17:50:00,Selesai,Aplikasi,Pekanbaru,Riau,22000.0,0.0
+1760,149,2024-03-20 18:55:00,Selesai,Website,Bandung,Jawa Barat,18000.0,10000.0
+1761,198,2026-06-02 21:40:00,Selesai,Aplikasi,Medan,Sumatera Utara,9000.0,0.0
+1762,44,2026-05-18 15:55:00,Selesai,Marketplace,Yogyakarta,DI Yogyakarta,15000.0,15000.0
+1763,422,2026-03-23 15:35:00,Selesai,Aplikasi,Bekasi,Jawa Barat,35000.0,0.0
+1764,444,2023-08-13 19:50:00,Selesai,Marketplace,Bogor,Jawa Barat,18000.0,10000.0
+1765,302,2024-10-17 16:35:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,15000.0,20000.0
+1766,482,2024-11-02 20:35:00,Selesai,Aplikasi,Medan,Sumatera Utara,9000.0,10000.0
+1767,85,2026-10-11 17:05:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,28000.0,10000.0
+1768,461,2023-09-11 16:25:00,Selesai,Aplikasi,Depok,Jawa Barat,18000.0,0.0
+1769,77,2023-09-09 08:55:00,Selesai,Marketplace,Bantul,DI Yogyakarta,9000.0,5000.0
+1770,307,2025-02-06 09:50:00,Dibatalkan,Aplikasi,Makassar,Sulawesi Selatan,12000.0,20000.0
+1771,35,2024-01-20 17:55:00,Selesai,Aplikasi,Bekasi,Jawa Barat,28000.0,10000.0
+1772,206,2026-07-24 09:35:00,Selesai,Website,Denpasar,Bali,9000.0,0.0
+1773,350,2025-10-09 15:25:00,Selesai,Marketplace,Pekanbaru,Riau,9000.0,5000.0
+1774,491,2025-04-20 21:20:00,Selesai,Aplikasi,Medan,Sumatera Utara,12000.0,10000.0
+1775,487,2026-08-04 11:45:00,Selesai,Aplikasi,Tangerang,Banten,18000.0,0.0
+1776,364,2023-03-09 18:10:00,Selesai,Website,Tangerang,Banten,15000.0,0.0
+1777,81,2026-08-28 09:55:00,Dikirim,Marketplace,Malang,Jawa Timur,15000.0,0.0
+1778,17,2024-04-04 10:05:00,Selesai,Marketplace,Padang,Sumatera Barat,18000.0,20000.0
+1779,19,2025-12-24 15:20:00,Selesai,Website,Bekasi,Jawa Barat,12000.0,0.0
+1780,45,2026-04-17 21:35:00,Selesai,Aplikasi,Bogor,Jawa Barat,35000.0,10000.0
+1781,331,2023-05-16 17:35:00,Selesai,Website,Denpasar,Bali,12000.0,0.0
+1782,21,2023-07-14 08:05:00,Selesai,Aplikasi,Depok,Jawa Barat,12000.0,10000.0
+1783,264,2026-05-16 11:00:00,Diproses,Aplikasi,Malang,Jawa Timur,9000.0,0.0
+1784,58,2024-11-25 14:55:00,Selesai,Marketplace,Bandung,Jawa Barat,22000.0,15000.0
+1785,464,2025-07-06 21:30:00,Diproses,Website,Semarang,Jawa Tengah,9000.0,0.0
+1786,462,2026-05-11 09:10:00,Selesai,Marketplace,Bekasi,Jawa Barat,12000.0,0.0
+1787,201,2025-11-15 18:05:00,Selesai,Aplikasi,Medan,Sumatera Utara,22000.0,10000.0
+1788,74,2024-10-23 11:10:00,Diproses,Marketplace,Pontianak,Kalimantan Barat,9000.0,5000.0
+1789,51,2025-01-15 21:25:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,18000.0,0.0
+1790,476,2026-04-22 10:00:00,Selesai,Aplikasi,Semarang,Jawa Tengah,18000.0,10000.0
+1791,213,2023-06-19 20:10:00,Selesai,Website,Semarang,Jawa Tengah,15000.0,0.0
+1792,348,2023-09-24 17:20:00,Selesai,Marketplace,Balikpapan,Kalimantan Timur,12000.0,15000.0
+1793,381,2024-05-03 19:55:00,Selesai,Aplikasi,Solo,Jawa Tengah,35000.0,15000.0
+1794,1,2025-11-09 12:15:00,Diproses,Marketplace,Yogyakarta,DI Yogyakarta,12000.0,5000.0
+1795,386,2024-03-30 11:55:00,Dibatalkan,Website,Bantul,DI Yogyakarta,15000.0,0.0
+1796,96,2024-07-31 16:20:00,Selesai,Website,Pontianak,Kalimantan Barat,28000.0,5000.0
+1797,389,2025-08-04 13:55:00,Selesai,Marketplace,Bogor,Jawa Barat,35000.0,10000.0
+1798,270,2023-09-25 18:50:00,Selesai,Marketplace,Depok,Jawa Barat,15000.0,0.0
+1799,368,2023-06-10 21:15:00,Dikirim,Aplikasi,Semarang,Jawa Tengah,28000.0,0.0
+1800,317,2024-03-13 15:35:00,Selesai,Website,Palembang,Sumatera Selatan,28000.0,0.0
+1801,404,2024-06-07 10:40:00,Dikirim,Aplikasi,Bekasi,Jawa Barat,22000.0,0.0
+1802,1,2025-11-20 19:35:00,Dibatalkan,Aplikasi,Tangerang,Banten,28000.0,0.0
+1803,64,2023-11-15 19:25:00,Selesai,Aplikasi,Semarang,Jawa Tengah,35000.0,0.0
+1804,129,2025-03-05 20:25:00,Selesai,Aplikasi,Semarang,Jawa Tengah,9000.0,0.0
+1805,241,2026-07-13 22:50:00,Selesai,Marketplace,Surabaya,Jawa Timur,9000.0,20000.0
+1806,385,2024-04-16 13:30:00,Selesai,Aplikasi,Bogor,Jawa Barat,12000.0,20000.0
+1807,273,2025-02-16 15:15:00,Selesai,Website,Bekasi,Jawa Barat,22000.0,20000.0
+1808,416,2025-03-01 12:55:00,Selesai,Aplikasi,Malang,Jawa Timur,9000.0,0.0
+1809,153,2026-04-03 21:00:00,Selesai,Website,Balikpapan,Kalimantan Timur,22000.0,20000.0
+1810,133,2025-11-11 15:55:00,Dikembalikan,Marketplace,Tangerang,Banten,35000.0,15000.0
+1811,448,2026-07-17 18:50:00,Selesai,Aplikasi,Solo,Jawa Tengah,12000.0,5000.0
+1812,153,2026-04-12 19:00:00,Selesai,Marketplace,Balikpapan,Kalimantan Timur,28000.0,10000.0
+1813,100,2024-06-20 14:00:00,Selesai,Website,Semarang,Jawa Tengah,35000.0,10000.0
+1814,342,2024-11-19 16:45:00,Selesai,Website,Tangerang,Banten,15000.0,0.0
+1815,399,2026-05-30 22:15:00,Diproses,Aplikasi,Medan,Sumatera Utara,12000.0,10000.0
+1816,256,2024-07-21 18:25:00,Selesai,Aplikasi,Bekasi,Jawa Barat,12000.0,10000.0
+1817,162,2024-09-27 21:25:00,Diproses,Marketplace,Bandung,Jawa Barat,15000.0,10000.0
+1818,464,2026-10-25 21:30:00,Selesai,Aplikasi,Semarang,Jawa Tengah,15000.0,0.0
+1819,419,2024-07-20 19:45:00,Selesai,Website,Surabaya,Jawa Timur,18000.0,10000.0
+1820,149,2026-08-01 15:15:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,15000.0,0.0
+1821,320,2026-08-06 17:30:00,Selesai,Website,Pekanbaru,Riau,15000.0,10000.0
+1822,187,2025-06-22 18:40:00,Selesai,Aplikasi,Bogor,Jawa Barat,35000.0,0.0
+1823,164,2025-09-07 12:35:00,Selesai,Aplikasi,Makassar,Sulawesi Selatan,18000.0,15000.0
+1824,388,2025-11-29 15:25:00,Selesai,Aplikasi,Surabaya,Jawa Timur,28000.0,10000.0
+1825,180,2024-04-16 14:25:00,Selesai,Aplikasi,Padang,Sumatera Barat,15000.0,15000.0
+1826,191,2025-01-24 17:35:00,Selesai,Marketplace,Makassar,Sulawesi Selatan,22000.0,15000.0
+1827,403,2024-01-25 15:30:00,Selesai,Aplikasi,Padang,Sumatera Barat,18000.0,5000.0
+1828,292,2024-10-29 22:25:00,Dikembalikan,Marketplace,Depok,Jawa Barat,35000.0,0.0
+1829,119,2025-04-08 13:10:00,Selesai,Website,Semarang,Jawa Tengah,15000.0,5000.0
+1830,164,2026-02-02 21:55:00,Dibatalkan,Aplikasi,Makassar,Sulawesi Selatan,15000.0,20000.0
+1831,162,2023-01-05 13:15:00,Diproses,Aplikasi,Pekanbaru,Riau,28000.0,5000.0
+1832,43,2025-04-17 17:30:00,Selesai,Website,Bandung,Jawa Barat,12000.0,10000.0
+1833,480,2025-07-10 17:40:00,Diproses,Website,Padang,Sumatera Barat,28000.0,10000.0
+1834,99,2025-12-19 13:40:00,Selesai,Aplikasi,Solo,Jawa Tengah,15000.0,15000.0
+1835,230,2024-08-18 09:00:00,Selesai,Marketplace,Bekasi,Jawa Barat,28000.0,15000.0
+1836,413,2025-07-05 10:15:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,35000.0,0.0
+1837,8,2023-09-01 14:50:00,Dikirim,Website,Malang,Jawa Timur,28000.0,0.0
+1838,301,2026-07-06 15:00:00,Selesai,Marketplace,Palembang,Sumatera Selatan,22000.0,15000.0
+1839,179,2023-03-25 22:50:00,Selesai,Aplikasi,Depok,Jawa Barat,12000.0,10000.0
+1840,374,2024-12-16 09:20:00,Dikirim,Aplikasi,Medan,Sumatera Utara,15000.0,0.0
+1841,445,2025-10-12 18:10:00,Dikirim,Website,Balikpapan,Kalimantan Timur,9000.0,15000.0
+1842,458,2026-07-07 16:20:00,Selesai,Website,Tangerang,Banten,12000.0,10000.0
+1843,190,2023-08-17 10:25:00,Selesai,Website,Semarang,Jawa Tengah,18000.0,5000.0
+1844,259,2025-07-13 09:35:00,Dibatalkan,Aplikasi,Balikpapan,Kalimantan Timur,9000.0,20000.0
+1845,214,2024-06-26 12:05:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,15000.0,0.0
+1846,305,2025-05-27 10:00:00,Selesai,Marketplace,Denpasar,Bali,35000.0,0.0
+1847,134,2023-01-07 20:10:00,Selesai,Website,Malang,Jawa Timur,15000.0,0.0
+1848,442,2023-05-29 21:00:00,Selesai,Aplikasi,Tangerang,Banten,12000.0,20000.0
+1849,7,2025-08-22 09:10:00,Selesai,Website,Palembang,Sumatera Selatan,9000.0,15000.0
+1850,127,2025-04-18 10:35:00,Selesai,Marketplace,Padang,Sumatera Barat,18000.0,0.0
+1851,149,2026-06-04 11:05:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,28000.0,5000.0
+1852,333,2025-06-18 18:40:00,Selesai,Website,Bekasi,Jawa Barat,12000.0,0.0
+1853,53,2026-09-23 22:55:00,Selesai,Website,Jakarta,DKI Jakarta,18000.0,5000.0
+1854,37,2024-07-19 20:50:00,Dikirim,Aplikasi,Pontianak,Kalimantan Barat,22000.0,0.0
+1855,121,2023-05-03 12:30:00,Selesai,Website,Tangerang,Banten,28000.0,0.0
+1856,51,2024-11-21 08:30:00,Selesai,Website,Denpasar,Bali,15000.0,0.0
+1857,364,2025-12-08 09:00:00,Selesai,Aplikasi,Bantul,DI Yogyakarta,28000.0,0.0
+1858,477,2023-08-21 12:00:00,Selesai,Website,Medan,Sumatera Utara,12000.0,0.0
+1859,324,2026-08-28 22:20:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,15000.0,15000.0
+1860,295,2026-10-22 10:25:00,Selesai,Website,Pontianak,Kalimantan Barat,22000.0,15000.0
+1861,206,2026-05-14 12:35:00,Selesai,Website,Tangerang,Banten,35000.0,15000.0
+1862,253,2023-01-28 21:55:00,Selesai,Aplikasi,Solo,Jawa Tengah,9000.0,10000.0
+1863,216,2024-06-25 08:05:00,Selesai,Aplikasi,Bandung,Jawa Barat,9000.0,0.0
+1864,60,2024-08-22 08:40:00,Dibatalkan,Website,Bekasi,Jawa Barat,9000.0,0.0
+1865,38,2023-01-24 08:25:00,Selesai,Aplikasi,Padang,Sumatera Barat,35000.0,0.0
+1866,361,2025-12-15 20:30:00,Selesai,Website,Pontianak,Kalimantan Barat,18000.0,5000.0
+1867,23,2023-06-25 15:25:00,Selesai,Website,Yogyakarta,DI Yogyakarta,18000.0,20000.0
+1868,245,2023-08-21 09:05:00,Selesai,Marketplace,Bekasi,Jawa Barat,9000.0,0.0
+1869,294,2025-04-19 14:45:00,Selesai,Marketplace,Jakarta,DKI Jakarta,15000.0,15000.0
+1870,408,2025-10-06 14:05:00,Selesai,Aplikasi,Depok,Jawa Barat,12000.0,15000.0
+1871,488,2026-08-24 09:35:00,Selesai,Marketplace,Surabaya,Jawa Timur,15000.0,5000.0
+1872,39,2024-07-27 11:20:00,Diproses,Website,Bekasi,Jawa Barat,28000.0,15000.0
+1873,203,2024-07-16 22:40:00,Selesai,Website,Semarang,Jawa Tengah,35000.0,0.0
+1874,122,2025-05-15 14:25:00,Selesai,Marketplace,Surabaya,Jawa Timur,18000.0,0.0
+1875,452,2026-08-30 09:15:00,Selesai,Aplikasi,Depok,Jawa Barat,18000.0,15000.0
+1876,220,2024-10-19 15:55:00,Selesai,Website,Surabaya,Jawa Timur,35000.0,20000.0
+1877,128,2026-05-19 15:00:00,Selesai,Aplikasi,Bandung,Jawa Barat,35000.0,0.0
+1878,10,2023-08-25 16:25:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,28000.0,5000.0
+1879,79,2025-12-22 12:35:00,Diproses,Aplikasi,Surabaya,Jawa Timur,22000.0,0.0
+1880,379,2026-08-16 22:45:00,Selesai,Marketplace,Bantul,DI Yogyakarta,28000.0,15000.0
+1881,480,2026-05-19 10:40:00,Selesai,Marketplace,Padang,Sumatera Barat,12000.0,0.0
+1882,483,2023-09-10 14:10:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,15000.0,0.0
+1883,251,2023-07-27 18:20:00,Diproses,Website,Medan,Sumatera Utara,15000.0,0.0
+1884,261,2026-06-18 19:45:00,Selesai,Aplikasi,Surabaya,Jawa Timur,35000.0,15000.0
+1885,254,2026-05-27 11:30:00,Selesai,Marketplace,Palembang,Sumatera Selatan,18000.0,0.0
+1886,455,2024-05-05 18:15:00,Selesai,Website,Surabaya,Jawa Timur,15000.0,0.0
+1887,72,2024-01-07 11:10:00,Dibatalkan,Aplikasi,Semarang,Jawa Tengah,35000.0,0.0
+1888,317,2024-04-06 09:30:00,Dikirim,Marketplace,Palembang,Sumatera Selatan,12000.0,0.0
+1889,279,2024-05-19 16:00:00,Selesai,Aplikasi,Bandung,Jawa Barat,28000.0,5000.0
+1890,432,2024-09-23 08:35:00,Dikirim,Marketplace,Padang,Sumatera Barat,9000.0,0.0
+1891,285,2026-08-28 19:15:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,35000.0,0.0
+1892,396,2025-04-21 14:50:00,Dikirim,Website,Padang,Sumatera Barat,28000.0,15000.0
+1893,251,2023-08-22 21:15:00,Selesai,Website,Bekasi,Jawa Barat,18000.0,5000.0
+1894,413,2024-01-09 21:20:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,12000.0,0.0
+1895,320,2023-09-22 08:35:00,Dikembalikan,Marketplace,Pekanbaru,Riau,28000.0,15000.0
+1896,472,2026-03-10 17:30:00,Selesai,Marketplace,Yogyakarta,DI Yogyakarta,28000.0,0.0
+1897,134,2026-07-26 13:05:00,Dikembalikan,Marketplace,Padang,Sumatera Barat,28000.0,15000.0
+1898,474,2024-04-03 22:20:00,Dikirim,Website,Surabaya,Jawa Timur,35000.0,0.0
+1899,266,2023-04-11 08:00:00,Dikirim,Website,Depok,Jawa Barat,15000.0,15000.0
+1900,441,2025-05-20 10:25:00,Selesai,Website,Jakarta,DKI Jakarta,12000.0,10000.0
+1901,457,2025-02-25 13:10:00,Selesai,Aplikasi,Medan,Sumatera Utara,22000.0,15000.0
+1902,225,2025-10-15 12:05:00,Selesai,Aplikasi,Surabaya,Jawa Timur,18000.0,20000.0
+1903,30,2024-09-21 14:05:00,Selesai,Aplikasi,Denpasar,Bali,15000.0,0.0
+1904,439,2025-06-28 18:10:00,Selesai,Marketplace,Denpasar,Bali,28000.0,0.0
+1905,295,2025-02-26 13:40:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,35000.0,10000.0
+1906,245,2026-07-31 18:35:00,Selesai,Aplikasi,Depok,Jawa Barat,22000.0,5000.0
+1907,63,2026-01-07 17:35:00,Selesai,Aplikasi,Pekanbaru,Riau,18000.0,5000.0
+1908,58,2026-04-01 15:00:00,Selesai,Aplikasi,Pekanbaru,Riau,35000.0,20000.0
+1909,402,2025-09-12 22:05:00,Selesai,Aplikasi,Surabaya,Jawa Timur,18000.0,20000.0
+1910,190,2026-07-14 11:35:00,Selesai,Marketplace,Semarang,Jawa Tengah,28000.0,10000.0
+1911,2,2023-02-24 17:25:00,Dibatalkan,Marketplace,Bekasi,Jawa Barat,28000.0,5000.0
+1912,345,2026-02-13 15:00:00,Dibatalkan,Aplikasi,Tangerang,Banten,15000.0,20000.0
+1913,326,2025-08-09 14:50:00,Dikirim,Aplikasi,Pontianak,Kalimantan Barat,12000.0,15000.0
+1914,55,2024-08-12 17:05:00,Selesai,Aplikasi,Makassar,Sulawesi Selatan,28000.0,5000.0
+1915,245,2023-02-13 16:05:00,Selesai,Marketplace,Depok,Jawa Barat,28000.0,0.0
+1916,181,2023-08-30 09:50:00,Selesai,Aplikasi,Bantul,DI Yogyakarta,15000.0,5000.0
+1917,43,2023-02-26 20:15:00,Dikirim,Aplikasi,Makassar,Sulawesi Selatan,28000.0,0.0
+1918,183,2023-11-22 16:40:00,Selesai,Website,Bogor,Jawa Barat,28000.0,5000.0
+1919,351,2026-03-24 11:05:00,Selesai,Aplikasi,Padang,Sumatera Barat,35000.0,0.0
+1920,489,2025-08-02 20:55:00,Selesai,Marketplace,Surabaya,Jawa Timur,28000.0,10000.0
+1921,361,2026-05-07 14:45:00,Dibatalkan,Aplikasi,Medan,Sumatera Utara,12000.0,20000.0
+1922,236,2023-05-22 10:45:00,Diproses,Aplikasi,Pontianak,Kalimantan Barat,35000.0,15000.0
+1923,318,2025-01-02 13:00:00,Selesai,Website,Tangerang,Banten,12000.0,0.0
+1924,432,2023-07-07 21:15:00,Selesai,Aplikasi,Padang,Sumatera Barat,28000.0,15000.0
+1925,488,2025-10-20 11:00:00,Selesai,Website,Surabaya,Jawa Timur,28000.0,20000.0
+1926,316,2026-10-19 22:20:00,Selesai,Website,Medan,Sumatera Utara,9000.0,0.0
+1927,365,2024-09-12 13:00:00,Selesai,Aplikasi,Bandung,Jawa Barat,12000.0,0.0
+1928,400,2024-07-15 20:35:00,Dikembalikan,Aplikasi,Balikpapan,Kalimantan Timur,18000.0,0.0
+1929,303,2025-04-29 20:05:00,Diproses,Marketplace,Depok,Jawa Barat,15000.0,20000.0
+1930,29,2026-02-13 08:05:00,Selesai,Aplikasi,Denpasar,Bali,35000.0,0.0
+1931,464,2026-07-02 22:20:00,Diproses,Marketplace,Semarang,Jawa Tengah,18000.0,20000.0
+1932,169,2025-06-16 18:40:00,Selesai,Marketplace,Denpasar,Bali,12000.0,5000.0
+1933,220,2024-06-26 11:30:00,Selesai,Aplikasi,Surabaya,Jawa Timur,28000.0,0.0
+1934,364,2023-01-12 22:35:00,Dibatalkan,Aplikasi,Jakarta,DKI Jakarta,12000.0,10000.0
+1935,310,2026-02-07 20:15:00,Selesai,Marketplace,Medan,Sumatera Utara,15000.0,0.0
+1936,187,2025-12-31 11:15:00,Selesai,Marketplace,Bogor,Jawa Barat,15000.0,20000.0
+1937,414,2024-08-09 19:35:00,Selesai,Marketplace,Denpasar,Bali,22000.0,15000.0
+1938,20,2026-08-22 10:55:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,28000.0,0.0
+1939,441,2024-01-30 14:00:00,Selesai,Aplikasi,Jakarta,DKI Jakarta,35000.0,5000.0
+1940,422,2025-10-16 22:05:00,Dikirim,Aplikasi,Pekanbaru,Riau,12000.0,15000.0
+1941,489,2023-01-12 12:30:00,Selesai,Marketplace,Surabaya,Jawa Timur,15000.0,20000.0
+1942,145,2026-06-04 08:50:00,Dikirim,Aplikasi,Malang,Jawa Timur,22000.0,20000.0
+1943,189,2024-01-21 08:50:00,Dibatalkan,Website,Malang,Jawa Timur,28000.0,20000.0
+1944,247,2026-01-15 16:00:00,Selesai,Website,Medan,Sumatera Utara,15000.0,0.0
+1945,460,2024-01-22 13:10:00,Selesai,Website,Depok,Jawa Barat,35000.0,5000.0
+1946,48,2023-09-18 08:55:00,Dibatalkan,Website,Yogyakarta,DI Yogyakarta,15000.0,15000.0
+1947,429,2023-11-12 15:30:00,Selesai,Website,Tangerang,Banten,35000.0,5000.0
+1948,225,2024-09-09 21:05:00,Selesai,Website,Solo,Jawa Tengah,35000.0,0.0
+1949,157,2026-05-05 20:20:00,Selesai,Aplikasi,Bekasi,Jawa Barat,35000.0,0.0
+1950,246,2024-05-06 18:00:00,Selesai,Website,Denpasar,Bali,12000.0,20000.0
+1951,167,2026-09-11 10:35:00,Selesai,Website,Malang,Jawa Timur,35000.0,0.0
+1952,22,2024-10-06 15:55:00,Selesai,Aplikasi,Padang,Sumatera Barat,18000.0,0.0
+1953,48,2026-04-04 16:10:00,Selesai,Aplikasi,Surabaya,Jawa Timur,28000.0,15000.0
+1954,90,2026-08-24 09:30:00,Selesai,Aplikasi,Denpasar,Bali,9000.0,0.0
+1955,166,2023-02-17 14:40:00,Diproses,Aplikasi,Bantul,DI Yogyakarta,22000.0,0.0
+1956,112,2026-02-15 08:40:00,Selesai,Aplikasi,Pontianak,Kalimantan Barat,9000.0,10000.0
+1957,31,2024-03-19 09:50:00,Dikembalikan,Aplikasi,Pekanbaru,Riau,18000.0,15000.0
+1958,109,2023-12-21 22:50:00,Diproses,Marketplace,Palembang,Sumatera Selatan,35000.0,0.0
+1959,324,2023-06-09 12:10:00,Dikembalikan,Website,Makassar,Sulawesi Selatan,18000.0,15000.0
+1960,370,2026-08-22 21:45:00,Selesai,Aplikasi,Tangerang,Banten,9000.0,10000.0
+1961,60,2025-09-21 16:50:00,Selesai,Aplikasi,Bekasi,Jawa Barat,28000.0,0.0
+1962,83,2025-05-10 15:45:00,Selesai,Aplikasi,Surabaya,Jawa Timur,9000.0,0.0
+1963,412,2026-01-03 18:45:00,Selesai,Website,Palembang,Sumatera Selatan,15000.0,15000.0
+1964,329,2026-02-19 22:20:00,Selesai,Aplikasi,Tangerang,Banten,9000.0,15000.0
+1965,212,2026-07-27 21:00:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,15000.0,10000.0
+1966,183,2024-10-23 12:25:00,Dibatalkan,Marketplace,Pontianak,Kalimantan Barat,12000.0,0.0
+1967,446,2024-09-02 21:50:00,Selesai,Marketplace,Jakarta,DKI Jakarta,9000.0,15000.0
+1968,211,2025-03-29 17:05:00,Selesai,Aplikasi,Tangerang,Banten,28000.0,10000.0
+1969,465,2024-09-27 21:45:00,Selesai,Marketplace,Denpasar,Bali,18000.0,0.0
+1970,42,2023-11-18 16:25:00,Selesai,Marketplace,Jakarta,DKI Jakarta,12000.0,15000.0
+1971,26,2025-03-28 22:20:00,Diproses,Website,Yogyakarta,DI Yogyakarta,28000.0,0.0
+1972,360,2026-10-22 15:40:00,Selesai,Marketplace,Pontianak,Kalimantan Barat,18000.0,15000.0
+1973,403,2024-03-08 18:20:00,Selesai,Marketplace,Depok,Jawa Barat,18000.0,5000.0
+1974,261,2026-03-13 11:05:00,Selesai,Aplikasi,Surabaya,Jawa Timur,9000.0,0.0
+1975,186,2024-06-18 11:20:00,Selesai,Aplikasi,Depok,Jawa Barat,18000.0,0.0
+1976,446,2023-02-24 16:00:00,Selesai,Aplikasi,Jakarta,DKI Jakarta,9000.0,15000.0
+1977,11,2023-09-10 10:40:00,Selesai,Aplikasi,Makassar,Sulawesi Selatan,35000.0,0.0
+1978,259,2025-08-09 18:35:00,Selesai,Website,Balikpapan,Kalimantan Timur,35000.0,0.0
+1979,219,2023-11-10 08:35:00,Selesai,Website,Medan,Sumatera Utara,28000.0,5000.0
+1980,340,2026-08-27 11:45:00,Selesai,Aplikasi,Solo,Jawa Tengah,35000.0,0.0
+1981,85,2023-10-28 19:45:00,Selesai,Aplikasi,Palembang,Sumatera Selatan,15000.0,0.0
+1982,115,2024-02-24 09:50:00,Selesai,Marketplace,Pontianak,Kalimantan Barat,12000.0,0.0
+1983,185,2023-10-19 09:00:00,Dikirim,Marketplace,Bekasi,Jawa Barat,12000.0,5000.0
+1984,49,2023-01-06 13:15:00,Dikirim,Marketplace,Balikpapan,Kalimantan Timur,18000.0,10000.0
+1985,397,2025-03-20 22:40:00,Selesai,Aplikasi,Jakarta,DKI Jakarta,12000.0,0.0
+1986,14,2025-07-02 17:15:00,Diproses,Aplikasi,Semarang,Jawa Tengah,28000.0,0.0
+1987,197,2024-06-22 18:15:00,Selesai,Website,Medan,Sumatera Utara,22000.0,15000.0
+1988,170,2025-06-29 08:25:00,Selesai,Marketplace,Surabaya,Jawa Timur,12000.0,0.0
+1989,67,2024-12-28 17:05:00,Selesai,Marketplace,Solo,Jawa Tengah,15000.0,5000.0
+1990,95,2025-01-31 13:35:00,Selesai,Aplikasi,Balikpapan,Kalimantan Timur,15000.0,5000.0
+1991,406,2024-05-09 11:00:00,Selesai,Aplikasi,Semarang,Jawa Tengah,35000.0,5000.0
+1992,429,2024-10-21 11:20:00,Selesai,Aplikasi,Jakarta,DKI Jakarta,18000.0,15000.0
+1993,30,2023-05-01 12:05:00,Selesai,Aplikasi,Denpasar,Bali,22000.0,15000.0
+1994,316,2023-05-22 21:10:00,Selesai,Marketplace,Semarang,Jawa Tengah,22000.0,0.0
+1995,277,2025-10-30 10:20:00,Diproses,Aplikasi,Yogyakarta,DI Yogyakarta,22000.0,5000.0
+1996,250,2024-12-27 08:05:00,Dikirim,Website,Pontianak,Kalimantan Barat,35000.0,20000.0
+1997,496,2023-02-06 16:10:00,Dibatalkan,Website,Solo,Jawa Tengah,15000.0,20000.0
+1998,465,2026-08-01 11:35:00,Dikembalikan,Website,Denpasar,Bali,12000.0,0.0
+1999,31,2023-05-13 13:05:00,Selesai,Website,Pekanbaru,Riau,15000.0,0.0
+2000,217,2023-05-29 22:20:00,Selesai,Website,Depok,Jawa Barat,28000.0,5000.0

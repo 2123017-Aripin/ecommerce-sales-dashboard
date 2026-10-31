@@ -6,6 +6,12 @@ Dashboard analisis penjualan, produk, pelanggan, dan pengiriman menggunakan **My
 Memantau performa revenue, perilaku pelanggan, performa produk, dan efektivitas pengiriman.
 
 ## Dataset
+Data bersifat sintetis (dummy), bukan data pelanggan asli.
+
+**Data mentah** (`data/raw/`, dari database `ecommerce_latihan`): customers, orders, order_items, payments, products, shipments.
+
+**Data hasil olahan** (`data/processed/`, dari database `ecommerce_clean`, star schema):
+
 | Tabel | Isi | Baris |
 |---|---|---|
 | dim_date | Kalender | 1.394 |
@@ -14,11 +20,9 @@ Memantau performa revenue, perilaku pelanggan, performa produk, dan efektivitas 
 | fact_penjualan | Transaksi | 6.010 |
 | fact_pengiriman | Pengiriman | 2.000 |
 
-Data bersifat sintetis (dummy), bukan data pelanggan asli.
-
 ## Alur kerja
-1. **Ekstraksi**: ambil data dari MySQL dengan Python (`src/extract_from_mysql.py`)
-2. **Pembersihan**: standarisasi tanggal dan duplikat (`src/clean_data.py`)
+1. **Ekstraksi**: ambil data mentah dan data olahan dari MySQL (`src/extract_from_mysql.py`)
+2. **Pembersihan**: transformasi data mentah dengan Python (`src/clean_data.py`)
 3. **Pemodelan**: star schema di Power BI
 4. **Analisis**: DAX measure (lihat `docs/measures.md`)
 5. **Visualisasi**: dashboard 4 halaman
@@ -43,18 +47,18 @@ pip install -r requirements.txt
 # 2. Atur koneksi database
 cp .env.example .env      # lalu isi data MySQL Anda
 
-# 3. Ambil data dari MySQL
+# 3. Ambil data dari MySQL (mentah -> data/raw, olahan -> data/processed)
 python src/extract_from_mysql.py
 
-# 4. Bersihkan data
+# 4. Jalankan transformasi Python Anda
 python src/clean_data.py
 ```
 Lalu buka `powerbi/ecommerce_dashboard.pbix`, arahkan sumber data ke folder `data/processed/`.
 
 ## Struktur folder
 ```
-├── data/raw/          # hasil ekstraksi dari MySQL
-├── data/processed/    # data bersih untuk Power BI
+├── data/raw/          # data mentah dari MySQL (ecommerce_latihan)
+├── data/processed/    # data hasil olahan untuk Power BI (ecommerce_clean)
 ├── src/               # kode Python
 ├── notebooks/         # eksplorasi data (opsional)
 ├── powerbi/           # file .pbix dan export PDF
